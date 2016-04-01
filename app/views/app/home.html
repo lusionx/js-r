@@ -5,32 +5,66 @@
       <tbody>
       <tr ng-repeat="row in list | filter:data.q">
         <td>{{row.LEVEL}} {{row.NAME}}</td>
-        <td><button class="am-btn am-btn-succsee" ng-click="setTarget(row)">target</button></td>
+        <td><button class="am-btn am-btn-primary" ng-click="setTarget(row)">目标</button>
+          <button class="am-btn am-btn-success" ng-click="add(row)">狗粮</button>
+        </td>
       </tr>
       </tbody>
     </table>
   </div>
   <div class="am-u-md-8">
     <table class="am-table am-table-bordered am-table-compact">
-      <caption>{{target.ID}} {{target.NAME}} * {{target.exp}}</caption>
       <thead>
         <tr>
+          <th>{{target.ID}} {{target.NAME}}</th>
           <th>huoli 火力</th>
           <th>yulei 鱼雷</th>
           <th>zhuangjia 装甲</th>
           <th>duikong 对空</th>
+          <th></th>
+          <th></th>
+          <th></th>
+          <th></th>
         </tr>
-        <tr>
-          <th>{{target.huoli}} := {{target.huoli * target.exp}}</th>
-          <th>{{target.yulei}} := {{target.yulei * target.exp}}</th>
-          <th>{{target.zhuangjia}} := {{target.zhuangjia * target.exp}}</th>
-          <th>{{target.duikong}} := {{target.duikong * target.exp}}</th>
+        <tr ng-if="target">
+          <th>lv * {{target.exp}}</th>
+          <th>{{target.huoli}} lv {{target.huoli * target.exp}}</th>
+          <th>{{target.yulei}} lv {{target.yulei * target.exp}}</th>
+          <th>{{target.zhuangjia}} lv {{target.zhuangjia * target.exp}}</th>
+          <th>{{target.duikong}} lv {{target.duikong * target.exp}}</th>
+          <th>you 油</th>
+          <th>dan 弹</th>
+          <th>gang 钢</th>
+          <th>lv 铝</th>
         </tr>
       </thead>
       <tbody>
+      <tr ng-repeat="row in source">
+        <td>{{row.ID}} {{row.NAME}} <input type="number" style="width:50px" ng-model="row.cc">
+          <button class="am-btn am-btn-danger am-btn-xs" ng-click="remove(row)">&times;</td>
+        <td>{{row.exp.huoli}}</td>
+        <td>{{row.exp.yulei}}</td>
+        <td>{{row.exp.zhuangjia}}</td>
+        <td>{{row.exp.duikong}}</td>
+        <td>{{row.sell.you}}</td>
+        <td>{{row.sell.dan}}</td>
+        <td>{{row.sell.gang}}</td>
+        <td>{{row.sell.lv}}</td>
+      </tr>
       </tbody>
+      <tfoot>
+        <tr>
+          <td>total: {{sourceTotal().sell.all}}</td>
+          <td>{{sourceTotal().exp.huoli}}<span ng-show="sourceTotal().xp.huoli>0" class="am-badge am-badge-success">{{sourceTotal().xp.huoli}}</span></td>
+          <td>{{sourceTotal().exp.yulei}}<span ng-show="sourceTotal().xp.yulei>0" class="am-badge am-badge-success">{{sourceTotal().xp.yulei}}</span></td>
+          <td>{{sourceTotal().exp.zhuangjia}}<span ng-show="sourceTotal().xp.zhuangjia>0" class="am-badge am-badge-success">{{sourceTotal().xp.zhuangjia}}</span></td>
+          <td>{{sourceTotal().exp.duikong}}<span ng-show="sourceTotal().xp.duikong>0" class="am-badge am-badge-success">{{sourceTotal().xp.duikong}}</span></td>
+          <td>{{sourceTotal().sell.you}}</td>
+          <td>{{sourceTotal().sell.dan}}</td>
+          <td>{{sourceTotal().sell.gang}}</td>
+          <td>{{sourceTotal().sell.lv}}</td>
+        </tr>
+      </tfoot>
     </table>
-
-
   </div>
 </div>
