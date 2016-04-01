@@ -29,6 +29,7 @@
   "dependencies": {
     "async": "^1.5.2",
     "lodash": "^3.10.1",
+    "moment": "^2.12.0",
     "request": "^2.69.0",
     "water-fall": "^0.2.0"
   }

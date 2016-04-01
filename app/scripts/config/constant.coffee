@@ -2,7 +2,7 @@ app = angular.module 'app'
 
 
 app.constant 'CONFIG',
-  apiRoot: '/api'
+  apiRoot: '/app'
 
 
 app.constant 'QUERY', do () ->

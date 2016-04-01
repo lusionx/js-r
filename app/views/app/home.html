@@ -1,1 +1,36 @@
-<div>home</div>
+<div class="am-g">
+  <div class="am-u-md-4">
+    <input type="text" ng-model="data.q">
+    <table class="am-table am-table-bordered am-table-compact">
+      <tbody>
+      <tr ng-repeat="row in list | filter:data.q">
+        <td>{{row.LEVEL}} {{row.NAME}}</td>
+        <td><button class="am-btn am-btn-succsee" ng-click="setTarget(row)">target</button></td>
+      </tr>
+      </tbody>
+    </table>
+  </div>
+  <div class="am-u-md-8">
+    <table class="am-table am-table-bordered am-table-compact">
+      <caption>{{target.ID}} {{target.NAME}} * {{target.exp}}</caption>
+      <thead>
+        <tr>
+          <th>huoli 火力</th>
+          <th>yulei 鱼雷</th>
+          <th>zhuangjia 装甲</th>
+          <th>duikong 对空</th>
+        </tr>
+        <tr>
+          <th>{{target.huoli}} := {{target.huoli * target.exp}}</th>
+          <th>{{target.yulei}} := {{target.yulei * target.exp}}</th>
+          <th>{{target.zhuangjia}} := {{target.zhuangjia * target.exp}}</th>
+          <th>{{target.duikong}} := {{target.duikong * target.exp}}</th>
+        </tr>
+      </thead>
+      <tbody>
+      </tbody>
+    </table>
+
+
+  </div>
+</div>
