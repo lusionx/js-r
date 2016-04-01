@@ -1,0 +1,21 @@
+{
+  "name": "gouliang",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.oschina.net/lusionx/gouliang.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^1.5.2",
+    "lodash": "^3.10.1",
+    "request": "^2.69.0",
+    "water-fall": "^0.2.0"
+  }
+}
