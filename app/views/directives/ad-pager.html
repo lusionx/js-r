@@ -1,0 +1,9 @@
+<li ng-if="$first" ng-class="{disabled:curr==$index}" ng-repeat-start="row in list">
+  <a ng-click="change($index)" ng-disabled="curr==$index" href="javascript:;">&laquo;</a>
+</li>
+<li ng-class="{active:curr==$index}">
+  <a ng-click="change($index)" ng-disabled="curr==$index" href="javascript:;">{{row}}</a>
+</li>
+<li ng-if="$last" ng-class="{disabled:curr==$index}" ng-repeat-end>
+  <a ng-click="change($index)" ng-disabled="curr==$index" href="javascript:;">&raquo;</a>
+</li>
