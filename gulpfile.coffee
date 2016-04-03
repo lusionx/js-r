@@ -13,11 +13,11 @@ less        = require 'gulp-less'
 browserify  = require 'gulp-browserify'
 
 
-getSrc = (re, str) ->
+getSrc = (re, str, pre='') ->
   lns = str.split '\n'
   _.map lns, (l) ->
     if m = re.exec l
-      return m[1]
+      return pre + m[1]
     null
 
 
@@ -36,10 +36,10 @@ path =
 <script src="bower_components/angular-resource/angular-resource.min.js"></script>
 <script src="bower_components/angular-filter/dist/angular-filter.min.js"></script>
 <script src="bower_components/angular-ui-router/release/angular-ui-router.min.js"></script>
-"""
-    css: [
-      "bower_components/amazeui/dist/css/amazeui.min.css"
-    ]
+""", 'app/'
+    css: getSrc /href="(.+)"/, """
+<link rel="stylesheet" href="bower_components/amazeui/dist/css/amazeui.min.css">
+""", 'app/'
 
 
 # develop task
@@ -112,10 +112,12 @@ gulp.task 'b-css', ['b-css-tmp'], () ->
     .pipe gulp.dest 'dist/css/'
 
 gulp.task 'b-copy', () ->
-  gulp.src 'bower_components/amazeui/fonts/*'
-    .pipe gulp.dest './dist/fonts/'
+  gulp.src 'app/bower_components/amazeui/fonts/*'
+    .pipe gulp.dest 'dist/fonts/'
   gulp.src 'app/img/*'
-    .pipe gulp.dest './dist/img/'
+    .pipe gulp.dest 'dist/img/'
+  gulp.src 'app/lib/*'
+    .pipe gulp.dest 'dist/lib/'
   gulp.src 'app/views/**/*.html'
     .pipe gulp.dest 'dist/views/'
 

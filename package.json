@@ -24,7 +24,8 @@
     "gulp-ng-annotate": "^1.1.0",
     "gulp-sourcemaps": "^1.6.0",
     "gulp-uglify": "~1.5.1",
-    "gutil": "~1.6.4"
+    "gutil": "~1.6.4",
+    "qiniu": "^6.1.9"
   },
   "dependencies": {
     "async": "^1.5.2",
