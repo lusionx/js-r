@@ -28,9 +28,12 @@ app.controller 'appHomeCtrl', ($scope, global, dChuan, $state, $log) ->
     GAI =
       '驱逐舰': 2
       '轻巡洋舰': 3
+      '重巡洋舰': 4
+      '战列巡洋舰': 5
+      '战列舰': 6
       '正规航母': 6
     if d.NAME.indexOf '\u6539\u2460' > 0 # 改造
-      d.exp += if v = GAI[m.TYPE] then v else 0
+      d.exp += if v = GAI[m.TYPE] then v else '?'
     $scope.target = d
 
   $scope.sourceTotal = () ->
