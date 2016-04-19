@@ -1,6 +1,6 @@
 [
   {
-    "FOCUS": 138911,
+    "FOCUS": 146573,
     "GAI_ZAO_INFO": "本体→<a href=# onclick=\"loadDetail('1001')\">Lv75改一</a>",
     "ZHEN_CHA_MAX": "38",
     "SHAN_BI": "27",
@@ -12,7 +12,7 @@
     "ATTACK_MAX": "93",
     "LIFE_MAX": "75",
     "TYPE": "战列巡洋舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E8%83%A1%E5%BE%B7",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E8%83%A1%E5%BE%B7",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "约定好了哦，这场战争结束以后就一起回E国。享受蓝天，海风，恬静的下午茶。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_1.png?ver=20160315",
@@ -91,7 +91,7 @@
     "DEFENCE_MAX": "80"
   },
   {
-    "FOCUS": 40273,
+    "FOCUS": 42958,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "34",
     "SHAN_BI": "19",
@@ -103,9 +103,9 @@
     "ATTACK_MAX": "94",
     "LIFE_MAX": "67",
     "TYPE": "战列舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E6%89%B6%E6%A1%91",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E6%89%B6%E6%A1%91",
     "CAN_BUILD": 1,
-    "WEDDING_TALK": "我感受到了…您赋予了不幸的我一个真正的幸福…",
+    "WEDDING_TALK": "我感受到了…您赋予了不幸的我一个真正的幸福…有了您所赋予的幸福，今后的晚餐一定会更加美味的。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_2.png?ver=20160315",
     "NAME": "扶桑",
     "OIL_COST": "2.5",
@@ -154,7 +154,7 @@
     "SHAN_BI_MAX": "39",
     "ITEM_NUM": "4",
     "TIME_COST": "1.0",
-    "GETTING_TALK": "超弩级战列舰-扶桑。唔……您的眼神在往哪看……？",
+    "GETTING_TALK": "超弩级战列舰-扶桑。和妹妹山城一起请多关照，唔……您的眼神在往哪看……？",
     "PIN_YIN": "fusang",
     "SHE_CHENG": "长",
     "NO": "扶桑型1番舰",
@@ -182,7 +182,7 @@
     "DEFENCE_MAX": "79"
   },
   {
-    "FOCUS": 25530,
+    "FOCUS": 27271,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "34",
     "SHAN_BI": "19",
@@ -194,7 +194,7 @@
     "ATTACK_MAX": "94",
     "LIFE_MAX": "67",
     "TYPE": "战列舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E5%B1%B1%E5%9F%8E",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E5%B1%B1%E5%9F%8E",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "好想和你一直在一起。不过…如果有天，我不再在你身旁，请你务必继续走下去，哪怕一个人。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_3.png?ver=20160315",
@@ -273,7 +273,7 @@
     "DEFENCE_MAX": "79"
   },
   {
-    "FOCUS": 35675,
+    "FOCUS": 37321,
     "GAI_ZAO_INFO": "本体→<a href=# onclick=\"loadDetail('1004')\">Lv20改一</a>",
     "ZHEN_CHA_MAX": "35",
     "SHAN_BI": "22",
@@ -285,7 +285,7 @@
     "ATTACK_MAX": "89",
     "LIFE_MAX": "74",
     "TYPE": "战列舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E4%BC%8A%E5%8A%BF",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E4%BC%8A%E5%8A%BF",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "提督虽然不怎么厉害，但在感情这方面毫无疑问已经打败了我哟…",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_4.png?ver=20160315",
@@ -364,7 +364,7 @@
     "DEFENCE_MAX": "82"
   },
   {
-    "FOCUS": 29231,
+    "FOCUS": 31076,
     "GAI_ZAO_INFO": "本体→<a href=# onclick=\"loadDetail('1005')\">Lv20改一</a>",
     "ZHEN_CHA_MAX": "35",
     "SHAN_BI": "22",
@@ -376,7 +376,7 @@
     "ATTACK_MAX": "94",
     "LIFE_MAX": "74",
     "TYPE": "战列舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E6%97%A5%E5%90%91",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E6%97%A5%E5%90%91",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "准备出击！提督你有事找我？…日向完全还没有准备好呢，真狡猾。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_5.png?ver=20160315",
@@ -455,7 +455,7 @@
     "DEFENCE_MAX": "82"
   },
   {
-    "FOCUS": 95795,
+    "FOCUS": 101430,
     "GAI_ZAO_INFO": "本体→<a href=# onclick=\"loadDetail('1006')\">Lv75改一</a>",
     "ZHEN_CHA_MAX": "41",
     "SHAN_BI": "26",
@@ -467,7 +467,7 @@
     "ATTACK_MAX": "92",
     "LIFE_MAX": "90",
     "TYPE": "战列舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E4%BF%BE%E6%96%AF%E9%BA%A6",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E4%BF%BE%E6%96%AF%E9%BA%A6",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "长久以来承蒙关照。希望能一直像这样，守护在长官身边。真是的，明明不擅长说这种话呢...",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_6.png?ver=20160315",
@@ -546,7 +546,7 @@
     "DEFENCE_MAX": "100"
   },
   {
-    "FOCUS": 69138,
+    "FOCUS": 73013,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "41",
     "SHAN_BI": "26",
@@ -558,9 +558,9 @@
     "ATTACK_MAX": "92",
     "LIFE_MAX": "91",
     "TYPE": "战列舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E6%8F%90%E5%B0%94%E6%AF%94%E8%8C%A8",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E6%8F%90%E5%B0%94%E6%AF%94%E8%8C%A8",
     "CAN_BUILD": 1,
-    "WEDDING_TALK": "欸——你是认真的吗？很…很麻烦的啊，这种事情…只要答应就好了吧…？（低头小声）我想回去休息了…",
+    "WEDDING_TALK": "欸——你是认真的吗？很…很麻烦的啊，这种事情…只要答应就好了吧…？(低头小声)我想回去休息了……",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_7.png?ver=20160315",
     "NAME": "提尔比茨",
     "OIL_COST": "4.2",
@@ -637,7 +637,7 @@
     "DEFENCE_MAX": "100"
   },
   {
-    "FOCUS": 62738,
+    "FOCUS": 65777,
     "GAI_ZAO_INFO": "本体→<a href=# onclick=\"loadDetail('1008')\">Lv50改一</a>",
     "ZHEN_CHA_MAX": "37",
     "SHAN_BI": "19",
@@ -649,7 +649,7 @@
     "ATTACK_MAX": "104",
     "LIFE_MAX": "72",
     "TYPE": "战列舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E7%BA%B3%E5%B0%94%E9%80%8A",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E7%BA%B3%E5%B0%94%E9%80%8A",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "请放心，纳尔逊一定恪尽职守保护阁下，毕竟这已经是吾辈一生的责任了呢。如果对未来感到迷茫，随时都可以依靠我，我会和你共同面对。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_8.png?ver=20160315",
@@ -728,7 +728,7 @@
     "DEFENCE_MAX": "92"
   },
   {
-    "FOCUS": 65181,
+    "FOCUS": 68799,
     "GAI_ZAO_INFO": "本体→<a href=# onclick=\"loadDetail('1009')\">Lv50改一</a>",
     "ZHEN_CHA_MAX": "37",
     "SHAN_BI": "19",
@@ -740,7 +740,7 @@
     "ATTACK_MAX": "104",
     "LIFE_MAX": "72",
     "TYPE": "战列舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E7%BD%97%E5%BE%B7%E5%B0%BC",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E7%BD%97%E5%BE%B7%E5%B0%BC",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "与阁下协同作战，总觉得如同被光环守护着一样安心呢。不知道您怎么看待我的战斗？...这样啊,我会更加努力的。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_9.png?ver=20160315",
@@ -819,7 +819,7 @@
     "DEFENCE_MAX": "92"
   },
   {
-    "FOCUS": 52760,
+    "FOCUS": 55233,
     "GAI_ZAO_INFO": "本体→<a href=# onclick=\"loadDetail('1010')\">Lv50改一</a>",
     "ZHEN_CHA_MAX": "40",
     "SHAN_BI": "26",
@@ -831,7 +831,7 @@
     "ATTACK_MAX": "95",
     "LIFE_MAX": "74",
     "TYPE": "战列舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E5%A8%81%E5%B0%94%E5%A3%AB%E4%BA%B2%E7%8E%8B",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E5%A8%81%E5%B0%94%E5%A3%AB%E4%BA%B2%E7%8E%8B",
     "CAN_BUILD": 0,
     "WEDDING_TALK": "过去的我总是认为一纸条约才能使人互相信任、互相约束。而现在我和您并肩站在这里，却是心与心之间的碰撞。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_10.png?ver=20160315",
@@ -910,7 +910,7 @@
     "DEFENCE_MAX": "95"
   },
   {
-    "FOCUS": 26863,
+    "FOCUS": 28347,
     "GAI_ZAO_INFO": "本体→<a href=# onclick=\"loadDetail('1011')\">Lv30改一</a>",
     "ZHEN_CHA_MAX": "35",
     "SHAN_BI": "15",
@@ -922,7 +922,7 @@
     "ATTACK_MAX": "85",
     "LIFE_MAX": "64",
     "TYPE": "战列舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E5%86%85%E5%8D%8E%E8%BE%BE",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E5%86%85%E5%8D%8E%E8%BE%BE",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "看来，今天是我一辈子运气最好的一天了呐。谢谢你哟少年。啊，以后应该换个称呼了呐。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_11.png?ver=20160315",
@@ -1001,7 +1001,7 @@
     "DEFENCE_MAX": "88"
   },
   {
-    "FOCUS": 22545,
+    "FOCUS": 23859,
     "GAI_ZAO_INFO": "本体→<a href=# onclick=\"loadDetail('1012')\">Lv30改一</a>",
     "ZHEN_CHA_MAX": "35",
     "SHAN_BI": "15",
@@ -1013,7 +1013,7 @@
     "ATTACK_MAX": "85",
     "LIFE_MAX": "64",
     "TYPE": "战列舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E4%BF%84%E5%85%8B%E6%8B%89%E8%8D%B7%E9%A9%AC",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E4%BF%84%E5%85%8B%E6%8B%89%E8%8D%B7%E9%A9%AC",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "能陪伴在司令官身边是我的荣幸，愿风之女神一直指引我们前行吧。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_12.png?ver=20160315",
@@ -1092,7 +1092,7 @@
     "DEFENCE_MAX": "88"
   },
   {
-    "FOCUS": 165146,
+    "FOCUS": 173014,
     "GAI_ZAO_INFO": "本体→<a href=# onclick=\"loadDetail('1013')\">Lv60改一</a>",
     "ZHEN_CHA_MAX": "35",
     "SHAN_BI": "22",
@@ -1104,7 +1104,7 @@
     "ATTACK_MAX": "79",
     "LIFE_MAX": "54",
     "TYPE": "战列舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E5%AE%89%E5%BE%B7%E7%83%88%E4%BA%9A%C2%B7%E5%A4%9A%E5%88%A9%E4%BA%9A",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E5%AE%89%E5%BE%B7%E8%8E%89%E4%BA%9A%E5%A4%9A%E5%88%A9%E4%BA%9A",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "既然你都这么说了...那我就勉强答应你好了...什么？不是那个意思？讨厌！轰飞你哦！",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_13.png?ver=20160315",
@@ -1183,7 +1183,7 @@
     "DEFENCE_MAX": "79"
   },
   {
-    "FOCUS": 18514,
+    "FOCUS": 23945,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "38",
     "SHAN_BI": "30",
@@ -1195,7 +1195,7 @@
     "ATTACK_MAX": "89",
     "LIFE_MAX": "63",
     "TYPE": "战列巡洋舰",
-    "LINK_MENGBAI": null,
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E9%87%91%E5%88%9A",
     "CAN_BUILD": 0,
     "WEDDING_TALK": "Surprise~！为提督特别准备的婚——诶？！这个是给我的吗？嘿~我们意外的，心有灵犀呢~",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_14.png?ver=20160315",
@@ -1265,7 +1265,7 @@
     "STARS": "3",
     "DA_ZAI": "12",
     "ROCKETS": "0",
-    "DESC": "一战前J国在E国订购的战列巡洋舰。J国利用其图纸在国内建造了后续的三艘姐妹舰。同其他J军战列舰一样，金刚号也在改装中拥有了高耸的舰桥。在二战初期，四艘金刚级是机动部队的主力护卫。44年的莱特湾海战中，金刚号编入栗田的一游部队。编队突破海峡之后在萨马岛遭遇了U军护航航母编队，交战之后编队北上。11月21日凌晨，金刚号被U国潜艇海狮号击沉在台湾海峡。\n",
+    "DESC": "金刚号是一战前J国在E国订购的战列巡洋舰，随后J国利用其图纸在国内建造了后续的三艘姐妹舰。同其他日军战列舰一样，金刚号也在改装中拥有了高耸的舰桥。在二战初期，四艘金刚型是机动部队的主力护卫。44年的莱特湾海战中，金刚号编入栗田的一游部队。编队突破海峡之后在萨马岛遭遇了美军护航航母编队，交战之后编队北上。11月21日凌晨，金刚号被U国潜艇海狮号击沉在台湾海峡。\n",
     "GANG_COST": "5.4",
     "FEN_BU": "[3,3,3,3]",
     "NATION": null,
@@ -1274,7 +1274,7 @@
     "DEFENCE_MAX": "70"
   },
   {
-    "FOCUS": 50498,
+    "FOCUS": 53123,
     "GAI_ZAO_INFO": "本体→<a href=# onclick=\"loadDetail('1018')\">Lv50改一</a>",
     "ZHEN_CHA_MAX": "39",
     "SHAN_BI": "30",
@@ -1286,7 +1286,7 @@
     "ATTACK_MAX": "83",
     "LIFE_MAX": "65",
     "TYPE": "战列巡洋舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E5%A3%B0%E6%9C%9B",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E5%A3%B0%E6%9C%9B",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "主人，如果你是在找我进行脱宅演习，我个人建议你需要更稳重些，现在你的脸太红了，没有可靠感...？主人你是认真的吗？",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_18.png?ver=20160315",
@@ -1365,7 +1365,7 @@
     "DEFENCE_MAX": "71"
   },
   {
-    "FOCUS": 40308,
+    "FOCUS": 42519,
     "GAI_ZAO_INFO": "本体→<a href=# onclick=\"loadDetail('1019')\">Lv40改一</a>",
     "ZHEN_CHA_MAX": "39",
     "SHAN_BI": "30",
@@ -1377,7 +1377,7 @@
     "ATTACK_MAX": "83",
     "LIFE_MAX": "65",
     "TYPE": "战列巡洋舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E5%8F%8D%E5%87%BB",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E5%8F%8D%E5%87%BB",
     "CAN_BUILD": 0,
     "WEDDING_TALK": "唉...唉！那个，突然跟我说这些。呀，对不起主人，不小心把茶洒了，我帮您擦擦。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_19.png?ver=20160315",
@@ -1456,7 +1456,7 @@
     "DEFENCE_MAX": "71"
   },
   {
-    "FOCUS": 31186,
+    "FOCUS": 32568,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "43",
     "SHAN_BI": "31",
@@ -1468,7 +1468,7 @@
     "ATTACK_MAX": "85",
     "LIFE_MAX": "58",
     "TYPE": "战列巡洋舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E9%98%BF%E6%8B%89%E6%96%AF%E5%8A%A0",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E9%98%BF%E6%8B%89%E6%96%AF%E5%8A%A0",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "我听到了哦，司令你心灵的奏鸣。我愿将一生的誓言奉献给你，让敌人在我们的共鸣曲中粉碎吧。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_20.png?ver=20160315",
@@ -1547,7 +1547,7 @@
     "DEFENCE_MAX": "69"
   },
   {
-    "FOCUS": 36231,
+    "FOCUS": 37843,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "43",
     "SHAN_BI": "31",
@@ -1559,9 +1559,9 @@
     "ATTACK_MAX": "85",
     "LIFE_MAX": "58",
     "TYPE": "战列巡洋舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E5%85%B3%E5%B2%9B",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E5%85%B3%E5%B2%9B",
     "CAN_BUILD": 1,
-    "WEDDING_TALK": "喂~试麦试麦试麦，OK，诸位，我是关岛，宣布一个事情，今天开始司令就是我最重要的人了，请诸位知晓！（转头）下面就让我们合唱一曲吧，司令官。",
+    "WEDDING_TALK": "喂~试麦试麦试麦，OK，诸位，我是关岛，宣布一个事情，今天开始司令就是我最重要的人了，请诸位知晓！宣誓完成，诸位请回到自己的岗位上吧",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_21.png?ver=20160315",
     "NAME": "关岛",
     "OIL_COST": "2.88",
@@ -1610,7 +1610,7 @@
     "SHAN_BI_MAX": "61",
     "ITEM_NUM": "4",
     "TIME_COST": "0.625",
-    "GETTING_TALK": "关岛终于见到您了，司令愿意与我合奏一曲吗？",
+    "GETTING_TALK": "战列巡洋舰关岛，无论是战斗还是演奏都不会让您失望的。",
     "PIN_YIN": "guandao",
     "SHE_CHENG": "长",
     "NO": "阿拉斯加级2号舰",
@@ -1638,7 +1638,7 @@
     "DEFENCE_MAX": "69"
   },
   {
-    "FOCUS": 114859,
+    "FOCUS": 120261,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "69",
     "SHAN_BI": "28",
@@ -1650,7 +1650,7 @@
     "ATTACK_MAX": "40",
     "LIFE_MAX": "69",
     "TYPE": "正规航母",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E8%B5%A4%E5%9F%8E",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E8%B5%A4%E5%9F%8E",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "这就是所谓的“契约仪式”啊…我得到了提督的承认，今后在任何事情上都不能松懈了呢，对吧~？",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_22.png?ver=20160315",
@@ -1729,7 +1729,7 @@
     "DEFENCE_MAX": "55"
   },
   {
-    "FOCUS": 96074,
+    "FOCUS": 101535,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "65",
     "SHAN_BI": "27",
@@ -1741,7 +1741,7 @@
     "ATTACK_MAX": "40",
     "LIFE_MAX": "71",
     "TYPE": "正规航母",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E5%8A%A0%E8%B4%BA",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E5%8A%A0%E8%B4%BA",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "饭后来瓶清酒真是难得的享受啊，提督你也来一杯。有很重要的事情？...脸热乎乎的，我一定是酒喝多了。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_23.png?ver=20160315",
@@ -1820,7 +1820,7 @@
     "DEFENCE_MAX": "62"
   },
   {
-    "FOCUS": 27597,
+    "FOCUS": 29411,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "59",
     "SHAN_BI": "28",
@@ -1832,7 +1832,7 @@
     "ATTACK_MAX": "20",
     "LIFE_MAX": "32",
     "TYPE": "轻型航母",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E7%A5%A5%E5%87%A4",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E7%A5%A5%E5%87%A4",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "诶？哎哎~居然是我吗？还真是受宠若惊呢…不过，很开心呢！",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_24.png?ver=20160315",
@@ -1911,7 +1911,7 @@
     "DEFENCE_MAX": "39"
   },
   {
-    "FOCUS": 27348,
+    "FOCUS": 29106,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "59",
     "SHAN_BI": "29",
@@ -1923,7 +1923,7 @@
     "ATTACK_MAX": "20",
     "LIFE_MAX": "32",
     "TYPE": "轻型航母",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E7%91%9E%E5%87%A4",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E7%91%9E%E5%87%A4",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "这把利刃再锋利也会有生锈的一天，到那天的话…希望依然可以在提督身边。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_25.png?ver=20160315",
@@ -2002,7 +2002,7 @@
     "DEFENCE_MAX": "39"
   },
   {
-    "FOCUS": 15288,
+    "FOCUS": 16058,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "55",
     "SHAN_BI": "16",
@@ -2014,7 +2014,7 @@
     "ATTACK_MAX": "15",
     "LIFE_MAX": "23",
     "TYPE": "轻型航母",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E7%99%BE%E7%9C%BC%E5%B7%A8%E4%BA%BA",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E7%99%BE%E7%9C%BC%E5%B7%A8%E4%BA%BA",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "虽然很高兴能和提督在一起，但是我也蛮头疼的，毕竟以后不仅要训练各位航母小姐了，还要训练指挥官你（笑）顺便说一句，我可是很严格的哦~",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_26.png?ver=20160315",
@@ -2093,7 +2093,7 @@
     "DEFENCE_MAX": "26"
   },
   {
-    "FOCUS": 14639,
+    "FOCUS": 15325,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "57",
     "SHAN_BI": "11",
@@ -2105,7 +2105,7 @@
     "ATTACK_MAX": "15",
     "LIFE_MAX": "24",
     "TYPE": "轻型航母",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E5%85%B0%E5%88%A9",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E5%85%B0%E5%88%A9",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "真，真的吗？指挥官向我…兰利从今天开始要更加努力了！绝对，绝对要成为可以让指挥官依靠的对象！",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_27.png?ver=20160315",
@@ -2184,7 +2184,7 @@
     "DEFENCE_MAX": "26"
   },
   {
-    "FOCUS": 46132,
+    "FOCUS": 48859,
     "GAI_ZAO_INFO": "本体→<a href=# onclick=\"loadDetail('1028')\">Lv30改一</a>",
     "ZHEN_CHA_MAX": "65",
     "SHAN_BI": "25",
@@ -2196,9 +2196,9 @@
     "ATTACK_MAX": "30",
     "LIFE_MAX": "38",
     "TYPE": "轻型航母",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E7%AA%81%E5%87%BB%E8%80%85",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E7%AA%81%E5%87%BB%E8%80%85",
     "CAN_BUILD": 0,
-    "WEDDING_TALK": "什…什么，司令官告白什么的，我才没有…原来一直都是在默默守护着我的就是您吗？好，好开心呀。",
+    "WEDDING_TALK": "呀！司令官居然向我告白什么的，好...好开心啊...咦、咦？！司令官你的脸怎么红了，别这么在意旁人目光嘛~",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_28.png?ver=20160315",
     "NAME": "突击者",
     "OIL_COST": "1.28",
@@ -2275,7 +2275,7 @@
     "DEFENCE_MAX": "40"
   },
   {
-    "FOCUS": 37419,
+    "FOCUS": 39321,
     "GAI_ZAO_INFO": "本体→<a href=# onclick=\"loadDetail('1029')\">Lv40改一</a>",
     "ZHEN_CHA_MAX": "67",
     "SHAN_BI": "30",
@@ -2287,7 +2287,7 @@
     "ATTACK_MAX": "35",
     "LIFE_MAX": "63",
     "TYPE": "正规航母",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E5%88%97%E5%85%8B%E6%98%9F%E6%95%A6",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E5%88%97%E5%85%8B%E6%98%9F%E6%95%A6",
     "CAN_BUILD": 0,
     "WEDDING_TALK": "司令官~我的右侧岛弦结构，好看么？喜欢？好开心~！什么？不是喜欢装备而是喜欢我么？恩...提督喜欢的...人家也喜欢啦...",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_29.png?ver=20160315",
@@ -2366,7 +2366,7 @@
     "DEFENCE_MAX": "65"
   },
   {
-    "FOCUS": 26430,
+    "FOCUS": 28033,
     "GAI_ZAO_INFO": "本体→<a href=# onclick=\"loadDetail('1030')\">Lv40改一</a>",
     "ZHEN_CHA_MAX": "67",
     "SHAN_BI": "30",
@@ -2378,7 +2378,7 @@
     "ATTACK_MAX": "35",
     "LIFE_MAX": "63",
     "TYPE": "正规航母",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E8%90%A8%E6%8B%89%E6%89%98%E5%8A%A0",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E8%90%A8%E6%8B%89%E6%89%98%E5%8A%A0",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "呜恩~除了姐姐以外，把司令官也装在心里是可以的哟！不过不许认错人哦！我可是有黑色线条标记的！",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_30.png?ver=20160315",
@@ -2457,7 +2457,7 @@
     "DEFENCE_MAX": "65"
   },
   {
-    "FOCUS": 87131,
+    "FOCUS": 93353,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "63",
     "SHAN_BI": "30",
@@ -2469,7 +2469,7 @@
     "ATTACK_MAX": "40",
     "LIFE_MAX": "52",
     "TYPE": "正规航母",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E5%A4%A7%E9%BB%84%E8%9C%82",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E5%A4%A7%E9%BB%84%E8%9C%82",
     "CAN_BUILD": 0,
     "WEDDING_TALK": "看到海平线的尽头了么，与司令官的姻缘，也要坚持到那么远哦。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_31.png?ver=20160315",
@@ -2548,7 +2548,7 @@
     "DEFENCE_MAX": "57"
   },
   {
-    "FOCUS": 10762,
+    "FOCUS": 11353,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "48",
     "SHAN_BI": "35",
@@ -2560,7 +2560,7 @@
     "ATTACK_MAX": "60",
     "LIFE_MAX": "45",
     "TYPE": "重巡洋舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E9%AB%98%E9%9B%84",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E9%AB%98%E9%9B%84",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "今天的舞蹈很特别吧？是我精心准备的呢！只跳给提督一个人，那么今晚，让我们一起去参加舞会吧。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_32.png?ver=20160315",
@@ -2639,7 +2639,7 @@
     "DEFENCE_MAX": "50"
   },
   {
-    "FOCUS": 8349,
+    "FOCUS": 8830,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "48",
     "SHAN_BI": "35",
@@ -2651,7 +2651,7 @@
     "ATTACK_MAX": "60",
     "LIFE_MAX": "45",
     "TYPE": "重巡洋舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E7%88%B1%E5%AE%95",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E7%88%B1%E5%AE%95",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "今后提督就是我的小宝物咯，我也是提督的宝物了，那么，请跟我来吧，嘿嘿嘿~",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_33.png?ver=20160315",
@@ -2730,7 +2730,7 @@
     "DEFENCE_MAX": "50"
   },
   {
-    "FOCUS": 6616,
+    "FOCUS": 6966,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "48",
     "SHAN_BI": "35",
@@ -2742,9 +2742,9 @@
     "ATTACK_MAX": "60",
     "LIFE_MAX": "45",
     "TYPE": "重巡洋舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E6%91%A9%E8%80%B6",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E6%91%A9%E8%80%B6",
     "CAN_BUILD": 1,
-    "WEDDING_TALK": "不是主人哦，以后要叫人家“女王大人”，听到了没有，可爱的小仆从~嘻嘻~",
+    "WEDDING_TALK": "不是主人哦，以后要叫人家“女王大人”，听到了没有，可爱的小仆从~嘻嘻~乖乖听话就会获得相应的回报哦~",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_34.png?ver=20160315",
     "NAME": "摩耶",
     "OIL_COST": "1.28",
@@ -2821,7 +2821,7 @@
     "DEFENCE_MAX": "50"
   },
   {
-    "FOCUS": 7269,
+    "FOCUS": 7725,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "48",
     "SHAN_BI": "35",
@@ -2833,7 +2833,7 @@
     "ATTACK_MAX": "60",
     "LIFE_MAX": "45",
     "TYPE": "重巡洋舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E9%B8%9F%E6%B5%B7",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E9%B8%9F%E6%B5%B7",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "提督，鸟海的事情，要先问过姐姐们才行哦！我相信提督可以通过三个姐姐的考验的，请加油~",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_35.png?ver=20160315",
@@ -2912,7 +2912,7 @@
     "DEFENCE_MAX": "50"
   },
   {
-    "FOCUS": 19835,
+    "FOCUS": 21020,
     "GAI_ZAO_INFO": "本体→<a href=# onclick=\"loadDetail('1036')\">Lv30改一</a>",
     "ZHEN_CHA_MAX": "49",
     "SHAN_BI": "30",
@@ -2924,7 +2924,7 @@
     "ATTACK_MAX": "56",
     "LIFE_MAX": "52",
     "TYPE": "重巡洋舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E5%B8%8C%E4%BD%A9%E5%B0%94",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E5%B8%8C%E4%BD%A9%E5%B0%94",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "你看到我战场的身姿了吗？喜欢吗？……太过于残忍了吗？如果是这样，下次我会温柔一些对待她们。不过下次，请专注于我的表现好吗？",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_36.png?ver=20160315",
@@ -3003,7 +3003,7 @@
     "DEFENCE_MAX": "48"
   },
   {
-    "FOCUS": 22622,
+    "FOCUS": 23820,
     "GAI_ZAO_INFO": "本体→<a href=# onclick=\"loadDetail('1037')\">Lv30改一</a>",
     "ZHEN_CHA_MAX": "49",
     "SHAN_BI": "30",
@@ -3015,7 +3015,7 @@
     "ATTACK_MAX": "56",
     "LIFE_MAX": "52",
     "TYPE": "重巡洋舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E5%B8%83%E5%90%95%E6%AD%87%E5%B0%94",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E5%B8%83%E5%90%95%E6%AD%87%E5%B0%94",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "有了长官的嘉奖，任何敌人都无法阻挡我们的前进，下次作战我一定会立下赫赫战功，让所有人都知道我才是最强的。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_37.png?ver=20160315",
@@ -3094,7 +3094,7 @@
     "DEFENCE_MAX": "48"
   },
   {
-    "FOCUS": 51240,
+    "FOCUS": 53675,
     "GAI_ZAO_INFO": "本体→<a href=# onclick=\"loadDetail('1038')\">Lv30改一</a>",
     "ZHEN_CHA_MAX": "49",
     "SHAN_BI": "30",
@@ -3106,7 +3106,7 @@
     "ATTACK_MAX": "56",
     "LIFE_MAX": "54",
     "TYPE": "重巡洋舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E6%AC%A7%E6%A0%B9%E4%BA%B2%E7%8E%8B",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E6%AC%A7%E6%A0%B9%E4%BA%B2%E7%8E%8B",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "唔...唔...（脸红）这是我第一次接受别人的告白...嗯...我答应您... ",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_38.png?ver=20160315",
@@ -3185,7 +3185,7 @@
     "DEFENCE_MAX": "51"
   },
   {
-    "FOCUS": 43504,
+    "FOCUS": 46188,
     "GAI_ZAO_INFO": "本体→<a href=# onclick=\"loadDetail('1039')\">Lv43改一</a>",
     "ZHEN_CHA_MAX": "49",
     "SHAN_BI": "31",
@@ -3197,7 +3197,7 @@
     "ATTACK_MAX": "63",
     "LIFE_MAX": "36",
     "TYPE": "重巡洋舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E5%A8%81%E5%A5%87%E5%A1%94",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E5%A8%81%E5%A5%87%E5%A1%94",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "哈哈，司令就拜倒在我的魅力之下吧，威奇塔在任何一个方面都不会输给别人的（挺胸）",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_39.png?ver=20160315",
@@ -3262,7 +3262,7 @@
     "XING_YUN": "20",
     "SELL": "30/40/30/0",
     "LEVEL": "威奇塔级",
-    "NI_CHENG": "-",
+    "NI_CHENG": "欧派塔",
     "DUI_QIAN_MAX": "0",
     "STARS": "4",
     "DA_ZAI": "6",
@@ -3276,7 +3276,7 @@
     "DEFENCE_MAX": "50"
   },
   {
-    "FOCUS": 24003,
+    "FOCUS": 25405,
     "GAI_ZAO_INFO": "本体→<a href=# onclick=\"loadDetail('1040')\">Lv40改一</a>",
     "ZHEN_CHA_MAX": "50",
     "SHAN_BI": "31",
@@ -3288,7 +3288,7 @@
     "ATTACK_MAX": "63",
     "LIFE_MAX": "43",
     "TYPE": "重巡洋舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E6%98%86%E8%A5%BF",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E6%98%86%E8%A5%BF",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "喜欢我的帽子？就一会儿的话，和司令官的帽子交换下也是可以的哦！嘿，戴上了，怎么样~好看么？",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_40.png?ver=20160315",
@@ -3367,7 +3367,7 @@
     "DEFENCE_MAX": "52"
   },
   {
-    "FOCUS": 23078,
+    "FOCUS": 24391,
     "GAI_ZAO_INFO": "本体→<a href=# onclick=\"loadDetail('1041')\">Lv50改一</a>",
     "ZHEN_CHA_MAX": "17",
     "SHAN_BI": "35",
@@ -3379,7 +3379,7 @@
     "ATTACK_MAX": "36",
     "LIFE_MAX": "23",
     "TYPE": "轻巡洋舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E5%A4%A9%E9%BE%99",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E5%A4%A9%E9%BE%99",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "这样的话，以后就可以时时刻刻监督提督的行为了，超出界限的事情绝对不可以干，对，请不要用余光看别的姐妹。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_41.png?ver=20160315",
@@ -3458,7 +3458,7 @@
     "DEFENCE_MAX": "27"
   },
   {
-    "FOCUS": 12493,
+    "FOCUS": 13415,
     "GAI_ZAO_INFO": "本体→<a href=# onclick=\"loadDetail('1042')\">Lv50改一</a>",
     "ZHEN_CHA_MAX": "17",
     "SHAN_BI": "35",
@@ -3470,7 +3470,7 @@
     "ATTACK_MAX": "36",
     "LIFE_MAX": "23",
     "TYPE": "轻巡洋舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E9%BE%99%E7%94%B0",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E9%BE%99%E7%94%B0",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "将我培育到如此强度，真的感激不尽，今后也希望可以一起呢，在各种各样的事情上。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_42.png?ver=20160315",
@@ -3549,7 +3549,7 @@
     "DEFENCE_MAX": "27"
   },
   {
-    "FOCUS": 10464,
+    "FOCUS": 11150,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "18",
     "SHAN_BI": "36",
@@ -3561,7 +3561,7 @@
     "ATTACK_MAX": "40",
     "LIFE_MAX": "25",
     "TYPE": "轻巡洋舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E5%8C%97%E4%B8%8A",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E5%8C%97%E4%B8%8A",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "谢谢~和提督关系好是不错啦，不过呢，请不要冷落大井哦！那孩子很容易寂寞呢~拜托啦！",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_43.png?ver=20160315",
@@ -3640,7 +3640,7 @@
     "DEFENCE_MAX": "30"
   },
   {
-    "FOCUS": 7539,
+    "FOCUS": 8013,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "18",
     "SHAN_BI": "37",
@@ -3652,7 +3652,7 @@
     "ATTACK_MAX": "40",
     "LIFE_MAX": "25",
     "TYPE": "轻巡洋舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E5%A4%A7%E4%BA%95",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E5%A4%A7%E4%BA%95",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "哎？我对舰队很重要吗……不是吗？……原来是对提督而言很重要，不知道为什么，又失望又开心呢。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_44.png?ver=20160315",
@@ -3731,7 +3731,7 @@
     "DEFENCE_MAX": "31"
   },
   {
-    "FOCUS": 17678,
+    "FOCUS": 19119,
     "GAI_ZAO_INFO": "本体→<a href=# onclick=\"loadDetail('1045')\">Lv50改一</a>",
     "ZHEN_CHA_MAX": "18",
     "SHAN_BI": "37",
@@ -3743,9 +3743,9 @@
     "ATTACK_MAX": "39",
     "LIFE_MAX": "25",
     "TYPE": "轻巡洋舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E4%BA%94%E5%8D%81%E9%93%83",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E4%BA%94%E5%8D%81%E9%93%83",
     "CAN_BUILD": 1,
-    "WEDDING_TALK": "今天的五十铃真是非常高兴呢，提督今天是想吃点飞禽，还是鱼类呢？我都给你打回来！",
+    "WEDDING_TALK": "今天的五十铃真是幸福到了极点，感觉现在的话，能够更加出色的完成任务呢！提督，谢谢你！",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_45.png?ver=20160315",
     "NAME": "五十铃",
     "OIL_COST": "0.8",
@@ -3794,7 +3794,7 @@
     "SHAN_BI_MAX": "72",
     "ITEM_NUM": "3",
     "TIME_COST": "0.5",
-    "GETTING_TALK": "轻巡洋舰，五十铃号在此，天上飞的水里游的都逃不过我的眼睛哦~",
+    "GETTING_TALK": "轻巡洋舰，五十铃号在此，不论是什么任务都请放心的交给我吧！",
     "PIN_YIN": "wushiling",
     "SHE_CHENG": "中",
     "NO": "长良型2番舰",
@@ -3822,7 +3822,7 @@
     "DEFENCE_MAX": "30"
   },
   {
-    "FOCUS": 33416,
+    "FOCUS": 35424,
     "GAI_ZAO_INFO": "本体→<a href=# onclick=\"loadDetail('1046')\">Lv60改一</a>",
     "ZHEN_CHA_MAX": "16",
     "SHAN_BI": "42",
@@ -3834,7 +3834,7 @@
     "ATTACK_MAX": "42",
     "LIFE_MAX": "19",
     "TYPE": "轻巡洋舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E5%A4%95%E5%BC%A0",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E5%A4%95%E5%BC%A0",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "脸越来越红了，心跳也越来越快了……这是什么样的一种现象呀，好想做个实验研究。提督，可以再来一次吗？",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_46.png?ver=20160315",
@@ -3913,7 +3913,7 @@
     "DEFENCE_MAX": "30"
   },
   {
-    "FOCUS": 8326,
+    "FOCUS": 9169,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "19",
     "SHAN_BI": "31",
@@ -3925,7 +3925,7 @@
     "ATTACK_MAX": "46",
     "LIFE_MAX": "33",
     "TYPE": "轻巡洋舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E6%9F%AF%E5%B0%BC%E6%96%AF%E5%A0%A1",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E6%9F%AF%E5%B0%BC%E6%96%AF%E5%A0%A1",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "长官的指挥，我至今看在眼里呢！无论哪一次，都让人沉醉不已，能为长官而战，是我最大的幸运。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_47.png?ver=20160315",
@@ -4004,7 +4004,7 @@
     "DEFENCE_MAX": "38"
   },
   {
-    "FOCUS": 9485,
+    "FOCUS": 10216,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "19",
     "SHAN_BI": "31",
@@ -4016,7 +4016,7 @@
     "ATTACK_MAX": "46",
     "LIFE_MAX": "33",
     "TYPE": "轻巡洋舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E5%8D%A1%E5%B0%94%E6%96%AF%E9%B2%81%E5%8E%84",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E5%8D%A1%E5%B0%94%E6%96%AF%E9%B2%81%E5%8E%84",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "就这事儿啊？可以！我是您忠实的部下！我的荣光就是为了给长官带来更大的胜利！这样那样的事情上！使用我请要不吝惜！",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_48.png?ver=20160315",
@@ -4095,7 +4095,7 @@
     "DEFENCE_MAX": "38"
   },
   {
-    "FOCUS": 7586,
+    "FOCUS": 8346,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "19",
     "SHAN_BI": "31",
@@ -4107,7 +4107,7 @@
     "ATTACK_MAX": "46",
     "LIFE_MAX": "33",
     "TYPE": "轻巡洋舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E7%A7%91%E9%9A%86",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E7%A7%91%E9%9A%86",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "这盒巧克力原本只是打算大清早趁着你还没醒悄悄放到枕头旁边的，既然被发现了，那……亲我一口就给你好不好呀？",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_49.png?ver=20160315",
@@ -4186,7 +4186,7 @@
     "DEFENCE_MAX": "38"
   },
   {
-    "FOCUS": 53474,
+    "FOCUS": 56072,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "21",
     "SHAN_BI": "31",
@@ -4198,7 +4198,7 @@
     "ATTACK_MAX": "52",
     "LIFE_MAX": "28",
     "TYPE": "轻巡洋舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E5%A4%A9%E7%8B%BC%E6%98%9F",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E5%A4%A9%E7%8B%BC%E6%98%9F",
     "CAN_BUILD": 0,
     "WEDDING_TALK": "虽然不善言辞...谢谢指挥官。舰队的日常让我感到非常幸福。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_50.png?ver=20160315",
@@ -4277,7 +4277,7 @@
     "DEFENCE_MAX": "46"
   },
   {
-    "FOCUS": 9876,
+    "FOCUS": 10469,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "19",
     "SHAN_BI": "30",
@@ -4289,7 +4289,7 @@
     "ATTACK_MAX": "42",
     "LIFE_MAX": "24",
     "TYPE": "轻巡洋舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E6%9E%97%E4%BB%99",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E6%9E%97%E4%BB%99",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "愿月神永远守护着这片港湾，这个海域，而我将永远与指挥官相伴。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_51.png?ver=20160315",
@@ -4368,7 +4368,7 @@
     "DEFENCE_MAX": "34"
   },
   {
-    "FOCUS": 10723,
+    "FOCUS": 11210,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "19",
     "SHAN_BI": "30",
@@ -4380,7 +4380,7 @@
     "ATTACK_MAX": "42",
     "LIFE_MAX": "24",
     "TYPE": "轻巡洋舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E5%8A%A0%E6%8B%89%E8%92%82%E4%BA%9A",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E5%8A%A0%E6%8B%89%E8%92%82%E4%BA%9A",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "这场战争结束后，海浪汹涌的大洋就能恢复平静了吧，到那时候，就和指挥官一起.....没什么！",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_52.png?ver=20160315",
@@ -4459,7 +4459,7 @@
     "DEFENCE_MAX": "34"
   },
   {
-    "FOCUS": 9384,
+    "FOCUS": 9825,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "19",
     "SHAN_BI": "30",
@@ -4471,7 +4471,7 @@
     "ATTACK_MAX": "42",
     "LIFE_MAX": "24",
     "TYPE": "轻巡洋舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E4%BD%A9%E5%86%85%E6%B4%9B%E7%8F%80",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E4%BD%A9%E5%86%85%E6%B4%9B%E7%8F%80",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "诶？...嗯，这也是意料之中的事，请不要期待我有啥惊讶的神态...真是的。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_53.png?ver=20160315",
@@ -4550,7 +4550,7 @@
     "DEFENCE_MAX": "35"
   },
   {
-    "FOCUS": 23138,
+    "FOCUS": 24510,
     "GAI_ZAO_INFO": "本体→<a href=# onclick=\"loadDetail('1054')\">Lv49改一</a>",
     "ZHEN_CHA_MAX": "19",
     "SHAN_BI": "30",
@@ -4562,7 +4562,7 @@
     "ATTACK_MAX": "42",
     "LIFE_MAX": "24",
     "TYPE": "轻巡洋舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E6%9B%99%E5%85%89%E5%A5%B3%E7%A5%9E",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E6%9B%99%E5%85%89%E5%A5%B3%E7%A5%9E",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "无论身在何方，我都将是您可以依靠的港湾。您将是港湾中唯一的船舶。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_54.png?ver=20160315",
@@ -4641,7 +4641,7 @@
     "DEFENCE_MAX": "35"
   },
   {
-    "FOCUS": 16686,
+    "FOCUS": 18149,
     "GAI_ZAO_INFO": "本体→<a href=# onclick=\"loadDetail('1055')\">Lv42改一</a>",
     "ZHEN_CHA_MAX": "18",
     "SHAN_BI": "32",
@@ -4653,7 +4653,7 @@
     "ATTACK_MAX": "45",
     "LIFE_MAX": "28",
     "TYPE": "轻巡洋舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E5%A5%A5%E9%A9%AC%E5%93%88",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E5%A5%A5%E9%A9%AC%E5%93%88",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "司令官。我够努力么，帮上大家忙了么？真的？受宠若惊哦！",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_55.png?ver=20160315",
@@ -4732,7 +4732,7 @@
     "DEFENCE_MAX": "35"
   },
   {
-    "FOCUS": 14334,
+    "FOCUS": 15123,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "22",
     "SHAN_BI": "31",
@@ -4744,7 +4744,7 @@
     "ATTACK_MAX": "54",
     "LIFE_MAX": "27",
     "TYPE": "轻巡洋舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E4%BA%9A%E7%89%B9%E5%85%B0%E5%A4%A7",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E4%BA%9A%E7%89%B9%E5%85%B0%E5%A4%A7",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "司令官你胸口扑通扑通的声音好响，隔了老远我就听到了哦。其实，我早就在等着这一刻。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_56.png?ver=20160315",
@@ -4823,7 +4823,7 @@
     "DEFENCE_MAX": "44"
   },
   {
-    "FOCUS": 11479,
+    "FOCUS": 12044,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "22",
     "SHAN_BI": "31",
@@ -4835,7 +4835,7 @@
     "ATTACK_MAX": "54",
     "LIFE_MAX": "27",
     "TYPE": "轻巡洋舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E6%9C%B1%E8%AF%BA",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E6%9C%B1%E8%AF%BA",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "怎么证明我不是傲娇？好吧，你听好了...我…我喜欢…(小声)你。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_57.png?ver=20160315",
@@ -4914,7 +4914,7 @@
     "DEFENCE_MAX": "44"
   },
   {
-    "FOCUS": 21363,
+    "FOCUS": 22515,
     "GAI_ZAO_INFO": "本体→<a href=# onclick=\"loadDetail('1058')\">Lv30改一</a>",
     "ZHEN_CHA_MAX": "22",
     "SHAN_BI": "31",
@@ -4926,7 +4926,7 @@
     "ATTACK_MAX": "62",
     "LIFE_MAX": "33",
     "TYPE": "轻巡洋舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E5%B8%83%E9%B2%81%E5%85%8B%E6%9E%97",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E5%B8%83%E9%B2%81%E5%85%8B%E6%9E%97",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "司令官~叫我出来就不要总是盯着四周啦，嗯？难道是害羞了？其实我也一样。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_58.png?ver=20160315",
@@ -5005,7 +5005,7 @@
     "DEFENCE_MAX": "52"
   },
   {
-    "FOCUS": 24781,
+    "FOCUS": 25966,
     "GAI_ZAO_INFO": "本体→<a href=# onclick=\"loadDetail('1059')\">Lv30改一</a>",
     "ZHEN_CHA_MAX": "22",
     "SHAN_BI": "31",
@@ -5017,7 +5017,7 @@
     "ATTACK_MAX": "62",
     "LIFE_MAX": "33",
     "TYPE": "轻巡洋舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E6%B5%B7%E4%BC%A6%E5%A8%9C",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E6%B5%B7%E4%BC%A6%E5%A8%9C",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "我曾一度以为自己的一生将在悔恨中度过，我曾以为我将一辈子隐入黑暗之中，没想到您给了我又一次机会，让我看到光明。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_59.png?ver=20160315",
@@ -5096,7 +5096,7 @@
     "DEFENCE_MAX": "54"
   },
   {
-    "FOCUS": 55340,
+    "FOCUS": 58378,
     "GAI_ZAO_INFO": "本体→<a href=# onclick=\"loadDetail('1060')\">Lv50改一</a>",
     "ZHEN_CHA_MAX": "18",
     "SHAN_BI": "24",
@@ -5108,7 +5108,7 @@
     "ATTACK_MAX": "41",
     "LIFE_MAX": "20",
     "TYPE": "轻巡洋舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E5%AE%81%E6%B5%B7",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E5%AE%81%E6%B5%B7",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "我终于看到了提督你的心意呢，真令人开心，虽然经历了重重波折，但是我永远都会在这里，与您相伴。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_60.png?ver=20160315",
@@ -5187,7 +5187,7 @@
     "DEFENCE_MAX": "33"
   },
   {
-    "FOCUS": 44371,
+    "FOCUS": 46638,
     "GAI_ZAO_INFO": "本体→<a href=# onclick=\"loadDetail('1061')\">Lv50改一</a>",
     "ZHEN_CHA_MAX": "18",
     "SHAN_BI": "22",
@@ -5199,7 +5199,7 @@
     "ATTACK_MAX": "41",
     "LIFE_MAX": "20",
     "TYPE": "轻巡洋舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E5%B9%B3%E6%B5%B7",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E5%B9%B3%E6%B5%B7",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "其实心中一直忐忑不安呢，无论是对于提督，还是对于这个港湾，对不起，我真没想到渺小如我也可以……那么，平海，从今天开始，就是提督你的妻子了。让我们一起去面对未来吧。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_61.png?ver=20160315",
@@ -5278,7 +5278,7 @@
     "DEFENCE_MAX": "33"
   },
   {
-    "FOCUS": 15861,
+    "FOCUS": 16682,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "20",
     "SHAN_BI": "10",
@@ -5290,7 +5290,7 @@
     "ATTACK_MAX": "56",
     "LIFE_MAX": "28",
     "TYPE": "浅水重炮舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E7%BD%97%E4%BC%AF%E8%8C%A8",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E7%BD%97%E4%BC%AF%E8%8C%A8",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "有东西给罗伯茨？这么重视我么？真的好感动！我会继续加油的！",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_62.png?ver=20160315",
@@ -5369,7 +5369,7 @@
     "DEFENCE_MAX": "52"
   },
   {
-    "FOCUS": 13520,
+    "FOCUS": 14191,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "20",
     "SHAN_BI": "10",
@@ -5381,9 +5381,9 @@
     "ATTACK_MAX": "56",
     "LIFE_MAX": "28",
     "TYPE": "浅水重炮舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E9%98%BF%E8%B4%9D%E5%85%8B%E9%9A%86%E6%AF%94",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E9%98%BF%E8%B4%9D%E5%85%8B%E9%9A%86%E6%AF%94",
     "CAN_BUILD": 1,
-    "WEDDING_TALK": "呼哧...呼哧...那么...既然您把最珍贵的戒指给我了，我最珍贵的这个炮就交给指挥官了！",
+    "WEDDING_TALK": "呼哧...呼哧...那么...既然您把最珍贵的戒指给我了，我最珍贵的这个炮就交给指挥官——哇哇哇！没了炮之后有点不习惯…指挥官，没有很重吧？",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_63.png?ver=20160315",
     "NAME": "阿贝克隆比",
     "OIL_COST": "0.64",
@@ -5460,7 +5460,7 @@
     "DEFENCE_MAX": "52"
   },
   {
-    "FOCUS": 19482,
+    "FOCUS": 20662,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "15",
     "SHAN_BI": "40",
@@ -5472,7 +5472,7 @@
     "ATTACK_MAX": "30",
     "LIFE_MAX": "15",
     "TYPE": "驱逐舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E5%90%B9%E9%9B%AA",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E5%90%B9%E9%9B%AA",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "这股涌上来的感情…嗯！吹雪，非常的喜欢提督！今后也要在一起哦！",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_64.png?ver=20160315",
@@ -5551,7 +5551,7 @@
     "DEFENCE_MAX": "20"
   },
   {
-    "FOCUS": 7630,
+    "FOCUS": 8063,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "15",
     "SHAN_BI": "40",
@@ -5563,7 +5563,7 @@
     "ATTACK_MAX": "30",
     "LIFE_MAX": "15",
     "TYPE": "驱逐舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E7%99%BD%E9%9B%AA",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E7%99%BD%E9%9B%AA",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "感谢您对平凡的我如此付出，白雪好开心。我也会终自己一生来陪伴提督，不离不弃。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_65.png?ver=20160315",
@@ -5614,7 +5614,7 @@
     "SHAN_BI_MAX": "80",
     "ITEM_NUM": "2",
     "TIME_COST": "0.5",
-    "GETTING_TALK": "吹雪型二番舰，白雪前来报道，我可不是公主哟，只是一个平凡的女子，请多多关照。",
+    "GETTING_TALK": "吹雪型二番舰，白雪前来报道。家姐有点过于活泼了，希望没有给您带来麻烦才是。",
     "PIN_YIN": "baixue",
     "SHE_CHENG": "短",
     "NO": "吹雪型2番舰",
@@ -5642,7 +5642,7 @@
     "DEFENCE_MAX": "20"
   },
   {
-    "FOCUS": 6853,
+    "FOCUS": 7175,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "15",
     "SHAN_BI": "40",
@@ -5654,7 +5654,7 @@
     "ATTACK_MAX": "30",
     "LIFE_MAX": "15",
     "TYPE": "驱逐舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E5%88%9D%E9%9B%AA",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E5%88%9D%E9%9B%AA",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "提督君，这样的告白方式可是戳不到点上的哦。我教你，你应该这样...",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_66.png?ver=20160315",
@@ -5733,7 +5733,7 @@
     "DEFENCE_MAX": "20"
   },
   {
-    "FOCUS": 7220,
+    "FOCUS": 7599,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "15",
     "SHAN_BI": "40",
@@ -5745,7 +5745,7 @@
     "ATTACK_MAX": "30",
     "LIFE_MAX": "15",
     "TYPE": "驱逐舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E6%B7%B1%E9%9B%AA",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E6%B7%B1%E9%9B%AA",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "和提督一起训练和战斗的时光，比任何时候都要开心哦！以后我们也会继续下去，对吧！",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_67.png?ver=20160315",
@@ -5824,7 +5824,7 @@
     "DEFENCE_MAX": "20"
   },
   {
-    "FOCUS": 32668,
+    "FOCUS": 34390,
     "GAI_ZAO_INFO": "本体→<a href=# onclick=\"loadDetail('1068')\">Lv40改一</a>",
     "ZHEN_CHA_MAX": "15",
     "SHAN_BI": "42",
@@ -5836,7 +5836,7 @@
     "ATTACK_MAX": "30",
     "LIFE_MAX": "15",
     "TYPE": "驱逐舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E6%99%93",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E6%99%93",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "我之前的表现挺不错吧，要努力夸赞我哦，我将一如既往的成为你的支柱。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_68.png?ver=20160315",
@@ -5915,7 +5915,7 @@
     "DEFENCE_MAX": "21"
   },
   {
-    "FOCUS": 34020,
+    "FOCUS": 35908,
     "GAI_ZAO_INFO": "本体→<a href=# onclick=\"loadDetail('1069')\">Lv47改一</a>",
     "ZHEN_CHA_MAX": "15",
     "SHAN_BI": "42",
@@ -5927,7 +5927,7 @@
     "ATTACK_MAX": "30",
     "LIFE_MAX": "15",
     "TYPE": "驱逐舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E5%93%8D",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E5%93%8D",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "虽然我很不起眼但是提督也注意到我了。以后我会更加努力的。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_69.png?ver=20160315",
@@ -6006,7 +6006,7 @@
     "DEFENCE_MAX": "21"
   },
   {
-    "FOCUS": 27612,
+    "FOCUS": 29088,
     "GAI_ZAO_INFO": "本体→<a href=# onclick=\"loadDetail('1070')\">Lv30改一</a>",
     "ZHEN_CHA_MAX": "15",
     "SHAN_BI": "42",
@@ -6018,7 +6018,7 @@
     "ATTACK_MAX": "30",
     "LIFE_MAX": "15",
     "TYPE": "驱逐舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E9%9B%B7",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E9%9B%B7",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "果然提督你还是缺不了我啊。哼，之前对我的照顾，我会回报你的，另外，别想多了！",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_70.png?ver=20160315",
@@ -6097,7 +6097,7 @@
     "DEFENCE_MAX": "21"
   },
   {
-    "FOCUS": 27415,
+    "FOCUS": 29043,
     "GAI_ZAO_INFO": "本体→<a href=# onclick=\"loadDetail('1071')\">Lv34改一</a>",
     "ZHEN_CHA_MAX": "15",
     "SHAN_BI": "42",
@@ -6109,7 +6109,7 @@
     "ATTACK_MAX": "30",
     "LIFE_MAX": "15",
     "TYPE": "驱逐舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E7%94%B5",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E7%94%B5",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "恩，约会一次看看也是可以的哦~！表现好的话，就给你转正。嘻嘻",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_71.png?ver=20160315",
@@ -6188,7 +6188,7 @@
     "DEFENCE_MAX": "21"
   },
   {
-    "FOCUS": 29256,
+    "FOCUS": 30743,
     "GAI_ZAO_INFO": "本体→<a href=# onclick=\"loadDetail('1072')\">Lv42改一</a>",
     "ZHEN_CHA_MAX": "15",
     "SHAN_BI": "41",
@@ -6200,7 +6200,7 @@
     "ATTACK_MAX": "30",
     "LIFE_MAX": "15",
     "TYPE": "驱逐舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E7%BB%AB%E6%B3%A2",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E7%BB%AB%E6%B3%A2",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "看来提督认真考虑过了的。恩，提督的重视，和一直以来的照顾，非常感谢！",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_72.png?ver=20160315",
@@ -6279,7 +6279,7 @@
     "DEFENCE_MAX": "20"
   },
   {
-    "FOCUS": 20793,
+    "FOCUS": 22305,
     "GAI_ZAO_INFO": "本体→<a href=# onclick=\"loadDetail('1073')\">Lv44改一</a>",
     "ZHEN_CHA_MAX": "15",
     "SHAN_BI": "41",
@@ -6291,7 +6291,7 @@
     "ATTACK_MAX": "30",
     "LIFE_MAX": "15",
     "TYPE": "驱逐舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E6%95%B7%E6%B3%A2",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E6%95%B7%E6%B3%A2",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "提督居然注意到了那么平凡的我吗？今天是敷波最幸福的一天呐。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_73.png?ver=20160315",
@@ -6370,7 +6370,7 @@
     "DEFENCE_MAX": "20"
   },
   {
-    "FOCUS": 46810,
+    "FOCUS": 49466,
     "GAI_ZAO_INFO": "本体→<a href=# onclick=\"loadDetail('1074')\">Lv20改一</a>",
     "ZHEN_CHA_MAX": "16",
     "SHAN_BI": "38",
@@ -6382,7 +6382,7 @@
     "ATTACK_MAX": "28",
     "LIFE_MAX": "18",
     "TYPE": "驱逐舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:Z1",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/Z1",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "谢谢长官，等我再长大些~哎嘿嘿！我会变成最厉害的驱逐舰。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_74.png?ver=20160315",
@@ -6461,7 +6461,7 @@
     "DEFENCE_MAX": "23"
   },
   {
-    "FOCUS": 46603,
+    "FOCUS": 49235,
     "GAI_ZAO_INFO": "本体→<a href=# onclick=\"loadDetail('1075')\">Lv40改一</a>",
     "ZHEN_CHA_MAX": "16",
     "SHAN_BI": "38",
@@ -6473,7 +6473,7 @@
     "ATTACK_MAX": "28",
     "LIFE_MAX": "18",
     "TYPE": "驱逐舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:Z16",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/Z16",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "接受长官的告白，好像做梦一样呢。我一直梦想着在你身旁，真的哦！",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_75.png?ver=20160315",
@@ -6552,7 +6552,7 @@
     "DEFENCE_MAX": "23"
   },
   {
-    "FOCUS": 15844,
+    "FOCUS": 16998,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "16",
     "SHAN_BI": "38",
@@ -6564,7 +6564,7 @@
     "ATTACK_MAX": "33",
     "LIFE_MAX": "20",
     "TYPE": "驱逐舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:Z21",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/Z21",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "一直渴望被关注，今日终于得偿所愿，就让我们努力吧，为了更好的未来。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_76.png?ver=20160315",
@@ -6643,10 +6643,10 @@
     "DEFENCE_MAX": "25"
   },
   {
-    "FOCUS": 11599,
+    "FOCUS": 12470,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "16",
-    "SHAN_BI": "36",
+    "SHAN_BI": "38",
     "IMG_BB": "http://ima.ntwikis.com/cancollezh/20151119/M_BROKEN_77.png?ver=20160315",
     "SKILL": "-",
     "ID": 77,
@@ -6655,7 +6655,7 @@
     "ATTACK_MAX": "33",
     "LIFE_MAX": "20",
     "TYPE": "驱逐舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:Z22",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/Z22",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "没有想到长官的选择竟然是我，谢谢你，那就让我们努力吧，为了更好的未来。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_77.png?ver=20160315",
@@ -6703,7 +6703,7 @@
     "IMG": "http://i2.tietuku.com/e4ac3d56b24ceee8.png",
     "LIFE": "20",
     "DUI_QIAN": "22",
-    "SHAN_BI_MAX": "76",
+    "SHAN_BI_MAX": "78",
     "ITEM_NUM": "2",
     "TIME_COST": "0.5",
     "GETTING_TALK": "驱逐舰，Z22，为您战斗，请不要小瞧我哦。",
@@ -6734,7 +6734,7 @@
     "DEFENCE_MAX": "25"
   },
   {
-    "FOCUS": 34761,
+    "FOCUS": 37248,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "16",
     "SHAN_BI": "36",
@@ -6746,7 +6746,7 @@
     "ATTACK_MAX": "33",
     "LIFE_MAX": "21",
     "TYPE": "驱逐舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:Z24",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/Z24",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "接受长官的告白，好像做梦一样呢。我一直梦想着在你身旁，如今真的实现了呐。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_78.png?ver=20160315",
@@ -6825,7 +6825,7 @@
     "DEFENCE_MAX": "25"
   },
   {
-    "FOCUS": 30105,
+    "FOCUS": 32241,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "16",
     "SHAN_BI": "36",
@@ -6837,7 +6837,7 @@
     "ATTACK_MAX": "33",
     "LIFE_MAX": "21",
     "TYPE": "驱逐舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:Z28",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/Z28",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "今后，我也会继续为长官出谋划策，当然，不仅限于战斗范围了啦。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_79.png?ver=20160315",
@@ -6916,7 +6916,7 @@
     "DEFENCE_MAX": "25"
   },
   {
-    "FOCUS": 39068,
+    "FOCUS": 41430,
     "GAI_ZAO_INFO": "本体→<a href=# onclick=\"loadDetail('1080')\">Lv50改一</a>",
     "ZHEN_CHA_MAX": "16",
     "SHAN_BI": "36",
@@ -6928,7 +6928,7 @@
     "ATTACK_MAX": "33",
     "LIFE_MAX": "22",
     "TYPE": "驱逐舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:Z31",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/Z31",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "嗯！Z31以后会更加努力！当然这多亏长官和姐姐们的帮助！",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_80.png?ver=20160315",
@@ -7007,7 +7007,7 @@
     "DEFENCE_MAX": "26"
   },
   {
-    "FOCUS": 14285,
+    "FOCUS": 15248,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "14",
     "SHAN_BI": "33",
@@ -7019,7 +7019,7 @@
     "ATTACK_MAX": "28",
     "LIFE_MAX": "13",
     "TYPE": "驱逐舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E7%B4%AB%E7%9F%B3%E8%8B%B1",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E7%B4%AB%E7%9F%B3%E8%8B%B1",
     "CAN_BUILD": 0,
     "WEDDING_TALK": "今日与汝定下名为爱意的契约，海平面的尽头，请与吾同往。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_81.png?ver=20160315",
@@ -7098,7 +7098,7 @@
     "DEFENCE_MAX": "19"
   },
   {
-    "FOCUS": 48331,
+    "FOCUS": 51052,
     "GAI_ZAO_INFO": "本体→<a href=# onclick=\"loadDetail('1082')\">Lv35改一</a>",
     "ZHEN_CHA_MAX": "15",
     "SHAN_BI": "36",
@@ -7110,7 +7110,7 @@
     "ATTACK_MAX": "27",
     "LIFE_MAX": "14",
     "TYPE": "驱逐舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E8%90%A4%E7%81%AB%E8%99%AB",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E8%90%A4%E7%81%AB%E8%99%AB",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "原来我心中一直洋溢的暖流，就是您的爱意。指挥官您知道吗？这可是最伟大的魔法哟。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_82.png?ver=20160315",
@@ -7189,7 +7189,7 @@
     "DEFENCE_MAX": "20"
   },
   {
-    "FOCUS": 18915,
+    "FOCUS": 19987,
     "GAI_ZAO_INFO": "本体→<a href=# onclick=\"loadDetail('1083')\">Lv40改一</a>",
     "ZHEN_CHA_MAX": "15",
     "SHAN_BI": "36",
@@ -7201,7 +7201,7 @@
     "ATTACK_MAX": "29",
     "LIFE_MAX": "14",
     "TYPE": "驱逐舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E6%A0%87%E6%9E%AA",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E6%A0%87%E6%9E%AA",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "哟~是被本小姐的实力折服了吗？也罢，以后就准许你更加近距离观赏本小姐的力量吧。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_83.png?ver=20160315",
@@ -7280,7 +7280,7 @@
     "DEFENCE_MAX": "20"
   },
   {
-    "FOCUS": 14514,
+    "FOCUS": 15658,
     "GAI_ZAO_INFO": "本体→<a href=# onclick=\"loadDetail('1084')\">Lv41改一</a>",
     "ZHEN_CHA_MAX": "15",
     "SHAN_BI": "36",
@@ -7292,9 +7292,9 @@
     "ATTACK_MAX": "29",
     "LIFE_MAX": "14",
     "TYPE": "驱逐舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E5%A4%A9%E5%90%8E",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E5%A4%A9%E5%90%8E",
     "CAN_BUILD": 1,
-    "WEDDING_TALK": "我能清晰地看到，从今天开始，妾身的命运红绳将于您相伴，永不分离。",
+    "WEDDING_TALK": "或许一开始，命运的红线便联系你我。在编织好我们的未来前，可不许逃了哦！",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_84.png?ver=20160315",
     "NAME": "天后",
     "OIL_COST": "0.48",
@@ -7371,7 +7371,7 @@
     "DEFENCE_MAX": "20"
   },
   {
-    "FOCUS": 28572,
+    "FOCUS": 30657,
     "GAI_ZAO_INFO": "本体→<a href=# onclick=\"loadDetail('1085')\">Lv40改一</a>",
     "ZHEN_CHA_MAX": "15",
     "SHAN_BI": "36",
@@ -7383,9 +7383,9 @@
     "ATTACK_MAX": "29",
     "LIFE_MAX": "14",
     "TYPE": "驱逐舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E9%BB%91%E8%83%8C%E8%B1%BA",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E9%BB%91%E8%83%8C%E8%B1%BA",
     "CAN_BUILD": 0,
-    "WEDDING_TALK": "嗷呜……（脸红）您的话让我想起了故乡的月亮，一时之间忍不住暴露了本性。真是尴尬呀。",
+    "WEDDING_TALK": "选我，真的不后悔吗……？明白了，从今往后我会努力变得温柔可爱一些……",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_85.png?ver=20160315",
     "NAME": "黑背豺",
     "OIL_COST": "0.48",
@@ -7462,7 +7462,7 @@
     "DEFENCE_MAX": "20"
   },
   {
-    "FOCUS": 10047,
+    "FOCUS": 10556,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "15",
     "SHAN_BI": "36",
@@ -7474,7 +7474,7 @@
     "ATTACK_MAX": "33",
     "LIFE_MAX": "17",
     "TYPE": "驱逐舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E5%93%A5%E8%90%A8%E5%85%8B%E4%BA%BA",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E5%93%A5%E8%90%A8%E5%85%8B%E4%BA%BA",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "怎么了？突然说这些话~。我一直很信赖指挥官你哦，愿能永远，为你带来荣光！",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_86.png?ver=20160315",
@@ -7553,7 +7553,7 @@
     "DEFENCE_MAX": "22"
   },
   {
-    "FOCUS": 21402,
+    "FOCUS": 22592,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "15",
     "SHAN_BI": "36",
@@ -7565,7 +7565,7 @@
     "ATTACK_MAX": "33",
     "LIFE_MAX": "17",
     "TYPE": "驱逐舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E7%88%B1%E6%96%AF%E5%9F%BA%E6%91%A9%E4%BA%BA",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E7%88%B1%E6%96%AF%E5%9F%BA%E6%91%A9%E4%BA%BA",
     "CAN_BUILD": 0,
     "WEDDING_TALK": "戒指？然而爱斯基摩人对戒指什么的不感兴趣，一双手套，一件衣物，哪怕只是一句誓言，就足够了...这样才是恋爱最初的样子，不是吗？",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_87.png?ver=20160315",
@@ -7644,7 +7644,7 @@
     "DEFENCE_MAX": "22"
   },
   {
-    "FOCUS": 22178,
+    "FOCUS": 23571,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "15",
     "SHAN_BI": "36",
@@ -7656,7 +7656,7 @@
     "ATTACK_MAX": "33",
     "LIFE_MAX": "17",
     "TYPE": "驱逐舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E6%97%81%E9%81%AE%E6%99%AE%E4%BA%BA",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E6%97%81%E9%81%AE%E6%99%AE%E4%BA%BA",
     "CAN_BUILD": 0,
     "WEDDING_TALK": "从今天开始，少女的恋爱就寄托给你了哦，不好好呵护的话，可是不会放过你的！",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_88.png?ver=20160315",
@@ -7735,7 +7735,7 @@
     "DEFENCE_MAX": "22"
   },
   {
-    "FOCUS": 24237,
+    "FOCUS": 25414,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "16",
     "SHAN_BI": "37",
@@ -7747,7 +7747,7 @@
     "ATTACK_MAX": "28",
     "LIFE_MAX": "17",
     "TYPE": "驱逐舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E5%BC%97%E8%8E%B1%E5%BD%BB",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E5%BC%97%E8%8E%B1%E5%BD%BB",
     "CAN_BUILD": 0,
     "WEDDING_TALK": "我还有那么多姐妹……你真的不后悔选择的是我吗？不过也罢，以后长官要和我一起来养活这一家人了。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_89.png?ver=20160315",
@@ -7826,7 +7826,7 @@
     "DEFENCE_MAX": "22"
   },
   {
-    "FOCUS": 9362,
+    "FOCUS": 9871,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "16",
     "SHAN_BI": "37",
@@ -7838,7 +7838,7 @@
     "ATTACK_MAX": "28",
     "LIFE_MAX": "17",
     "TYPE": "驱逐舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E5%8D%A1%E8%BE%9B%E6%9D%A8",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E5%8D%A1%E8%BE%9B%E6%9D%A8",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "诶？那么突然？...我还没准备好呐！你是认真的吗？",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_90.png?ver=20160315",
@@ -7917,7 +7917,7 @@
     "DEFENCE_MAX": "22"
   },
   {
-    "FOCUS": 7974,
+    "FOCUS": 8415,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "16",
     "SHAN_BI": "37",
@@ -7929,7 +7929,7 @@
     "ATTACK_MAX": "28",
     "LIFE_MAX": "17",
     "TYPE": "驱逐舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E5%AE%89%E4%B8%9C%E5%B0%BC",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E5%AE%89%E4%B8%9C%E5%B0%BC",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "那么，以后每一次打飞机，司令官都要陪我一起哟~",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_91.png?ver=20160315",
@@ -8008,7 +8008,7 @@
     "DEFENCE_MAX": "22"
   },
   {
-    "FOCUS": 9066,
+    "FOCUS": 9601,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "16",
     "SHAN_BI": "37",
@@ -8020,7 +8020,7 @@
     "ATTACK_MAX": "28",
     "LIFE_MAX": "17",
     "TYPE": "驱逐舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E5%B8%83%E9%9B%B7%E6%81%A9",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E5%B8%83%E9%9B%B7%E6%81%A9",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "我在司令官心中居然是那么重要的存在...真高兴。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_92.png?ver=20160315",
@@ -8099,7 +8099,7 @@
     "DEFENCE_MAX": "22"
   },
   {
-    "FOCUS": 12331,
+    "FOCUS": 12929,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "16",
     "SHAN_BI": "32",
@@ -8111,7 +8111,7 @@
     "ATTACK_MAX": "30",
     "LIFE_MAX": "20",
     "TYPE": "驱逐舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E5%9F%BA%E6%9E%97",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E5%9F%BA%E6%9E%97",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "虽然我还小，不过以后会越来越厉害哦！呜，咬到舌头了...",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_93.png?ver=20160315",
@@ -8190,7 +8190,7 @@
     "DEFENCE_MAX": "23"
   },
   {
-    "FOCUS": 8845,
+    "FOCUS": 9382,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "16",
     "SHAN_BI": "32",
@@ -8202,7 +8202,7 @@
     "ATTACK_MAX": "30",
     "LIFE_MAX": "20",
     "TYPE": "驱逐舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E5%9F%BA%E9%98%BF%E7%89%B9",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E5%9F%BA%E9%98%BF%E7%89%B9",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "这么重要的时候，指挥官你这也太随便了，至少要先给我准备一罐糖果呀，不然的话~哼哼~我是会拒绝你的哟~",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_94.png?ver=20160315",
@@ -8281,7 +8281,7 @@
     "DEFENCE_MAX": "23"
   },
   {
-    "FOCUS": 21311,
+    "FOCUS": 22450,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "16",
     "SHAN_BI": "32",
@@ -8293,7 +8293,7 @@
     "ATTACK_MAX": "30",
     "LIFE_MAX": "20",
     "TYPE": "驱逐舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E5%BC%97%E5%85%B0%E5%85%8B%C2%B7%E8%AF%BA%E5%85%8B%E6%96%AF",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E5%BC%97%E5%85%B0%E5%85%8B%C2%B7%E8%AF%BA%E5%85%8B%E6%96%AF",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "指挥官这么偷偷摸摸不会是要把我卖了吧？哈哈~开个玩笑，无论让我去哪里，我都会义无反顾。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_95.png?ver=20160315",
@@ -8372,7 +8372,7 @@
     "DEFENCE_MAX": "23"
   },
   {
-    "FOCUS": 13780,
+    "FOCUS": 14471,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "16",
     "SHAN_BI": "32",
@@ -8384,7 +8384,7 @@
     "ATTACK_MAX": "30",
     "LIFE_MAX": "20",
     "TYPE": "驱逐舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E9%B2%8D%E5%B0%94",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E9%B2%8D%E5%B0%94",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "啊~真的吗？这件事可千万别被笨蛋姐姐们知道了，不然的话……谁知道会出什么事情的。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_96.png?ver=20160315",
@@ -8463,7 +8463,7 @@
     "DEFENCE_MAX": "23"
   },
   {
-    "FOCUS": 39218,
+    "FOCUS": 41326,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "15",
     "SHAN_BI": "39",
@@ -8475,7 +8475,7 @@
     "ATTACK_MAX": "32",
     "LIFE_MAX": "18",
     "TYPE": "驱逐舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E6%9E%9C%E6%95%A2",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E6%9E%9C%E6%95%A2",
     "CAN_BUILD": 0,
     "WEDDING_TALK": "同志~战争结束后，一起去旅行吧！我想去C国，看看蓬莱和泰山！",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_97.png?ver=20160315",
@@ -8554,7 +8554,7 @@
     "DEFENCE_MAX": "23"
   },
   {
-    "FOCUS": 11504,
+    "FOCUS": 12233,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "16",
     "SHAN_BI": "40",
@@ -8566,7 +8566,7 @@
     "ATTACK_MAX": "32",
     "LIFE_MAX": "20",
     "TYPE": "驱逐舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E6%B2%83%E5%85%8B%E5%85%B0",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E6%B2%83%E5%85%8B%E5%85%B0",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "今天真是个特别的日子呢，我跟将军，值得纪念的日子。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_98.png?ver=20160315",
@@ -8645,7 +8645,7 @@
     "DEFENCE_MAX": "20"
   },
   {
-    "FOCUS": 114331,
+    "FOCUS": 120028,
     "GAI_ZAO_INFO": "本体→<a href=# onclick=\"loadDetail('1099')\">Lv60改一</a>",
     "ZHEN_CHA_MAX": "18",
     "SHAN_BI": "50",
@@ -8657,7 +8657,7 @@
     "ATTACK_MAX": "32",
     "LIFE_MAX": "22",
     "TYPE": "驱逐舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E7%A9%BA%E6%83%B3",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E7%A9%BA%E6%83%B3",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "将军快来追我呀~追上我的话，什么都答应你哦！全速前进~！",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_99.png?ver=20160315",
@@ -8736,7 +8736,7 @@
     "DEFENCE_MAX": "22"
   },
   {
-    "FOCUS": 85188,
+    "FOCUS": 90253,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "40",
     "SHAN_BI": "28",
@@ -8748,7 +8748,7 @@
     "ATTACK_MAX": "110",
     "LIFE_MAX": "81",
     "TYPE": "战列舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E7%8B%AE",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E7%8B%AE",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "被世人提起，又被世人遗忘，我的曾经如同幻象一般。如今，与您的誓言，才让妾身感觉到了一丝活着的实感。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_100.png?ver=20160315",
@@ -8799,7 +8799,7 @@
     "SHAN_BI_MAX": "48",
     "ITEM_NUM": "4",
     "TIME_COST": "1.0",
-    "GETTING_TALK": "诞生于幻想之洋，消失于现实之海，妾身乃狮号战列巡洋舰，终于有幸与您相见。",
+    "GETTING_TALK": "诞生于幻想之洋，消失于现实之海，妾身乃狮号战列舰，终于有幸与您相见。",
     "PIN_YIN": "shi",
     "SHE_CHENG": "长",
     "NO": "狮级1号舰",
@@ -8827,7 +8827,7 @@
     "DEFENCE_MAX": "105"
   },
   {
-    "FOCUS": 17920,
+    "FOCUS": 23427,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "37",
     "SHAN_BI": "24",
@@ -8839,7 +8839,7 @@
     "ATTACK_MAX": "102",
     "LIFE_MAX": "80",
     "TYPE": "战列舰",
-    "LINK_MENGBAI": null,
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E9%99%86%E5%A5%A5",
     "CAN_BUILD": 0,
     "WEDDING_TALK": "提督终于不是那么木讷了，不过可以别用奇怪的眼神看着我了吗？嘻嘻，脸红了呢。好可爱。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_102.png?ver=20160315",
@@ -8909,7 +8909,7 @@
     "STARS": "4",
     "DA_ZAI": "12",
     "ROCKETS": "0",
-    "DESC": "陆奥是长门级战列舰二号舰。在华盛顿会议中西方代表提议废弃陆奥号，J国代表强烈反对。作为交换条件是E国可以建造两艘战列舰（即后来的纳尔逊级）U国可以保留其余科罗拉多级。不过花费巨大代价保留下来的陆奥号并没有发挥太大的作用。中途岛战役时她同众多战列舰姐妹一起在航母几百海里之后打酱油。43年6月8日，停泊在广岛湾的陆奥号的第三炮塔突然发生了迷之大爆炸，陆奥号就这样迷一样地损失了。\n",
+    "DESC": "陆奥号是长门型战列舰2番舰。在华盛顿会议中西方代表提议废弃陆奥号，J国代表强烈反对。作为交换条件是E国可以建造两艘战列舰（即后来的纳尔逊级）U国可以保留其余科罗拉多级。不过花费巨大代价保留下来的陆奥号并没有发挥太大的作用。中途岛战役时她同众多战列舰姐妹一起在航母几百海里之后打酱油。43年6月8日，停泊在广岛湾的陆奥号的第三炮塔突然发生了谜之大爆炸，陆奥号就这样谜一样地损失了。\n",
     "GANG_COST": "6.0",
     "FEN_BU": "[3,3,3,3]",
     "NATION": null,
@@ -8918,7 +8918,7 @@
     "DEFENCE_MAX": "90"
   },
   {
-    "FOCUS": 61510,
+    "FOCUS": 65747,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "35",
     "SHAN_BI": "15",
@@ -8930,7 +8930,7 @@
     "ATTACK_MAX": "88",
     "LIFE_MAX": "68",
     "TYPE": "战列舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E7%9A%87%E5%AE%B6%E6%A9%A1%E6%A0%91",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E7%9A%87%E5%AE%B6%E6%A9%A1%E6%A0%91",
     "CAN_BUILD": 0,
     "WEDDING_TALK": "从今以后就可以和指挥官一起安心的睡午觉了呢，很高兴哦（睡）。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_103.png?ver=20160315",
@@ -9009,7 +9009,7 @@
     "DEFENCE_MAX": "86"
   },
   {
-    "FOCUS": 50377,
+    "FOCUS": 54373,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "37",
     "SHAN_BI": "18",
@@ -9021,7 +9021,7 @@
     "ATTACK_MAX": "89",
     "LIFE_MAX": "69",
     "TYPE": "战列舰",
-    "LINK_MENGBAI": "-",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E5%8E%8C%E6%88%98",
     "CAN_BUILD": 0,
     "WEDDING_TALK": "久经沙场终不沉，这片四叶草送给您，就让我的幸运永远伴随阁下吧。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_104.png?ver=20160315",
@@ -9100,7 +9100,7 @@
     "DEFENCE_MAX": "87"
   },
   {
-    "FOCUS": 64223,
+    "FOCUS": 66934,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "43",
     "SHAN_BI": "27",
@@ -9112,7 +9112,7 @@
     "ATTACK_MAX": "90",
     "LIFE_MAX": "85",
     "TYPE": "战列舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E5%89%8D%E5%8D%AB",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E5%89%8D%E5%8D%AB",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "每一次演习都幻想自己能够上阵杀敌，每一次见到您都梦想能够永远陪伴您，直到今天，我终于得以实现，就算这只是幻想，也应该会是最美丽的梦。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_105.png?ver=20160315",
@@ -9191,7 +9191,7 @@
     "DEFENCE_MAX": "96"
   },
   {
-    "FOCUS": 15839,
+    "FOCUS": 16609,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "37",
     "SHAN_BI": "15",
@@ -9203,7 +9203,7 @@
     "ATTACK_MAX": "94",
     "LIFE_MAX": "70",
     "TYPE": "战列舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E7%94%B0%E7%BA%B3%E8%A5%BF",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E7%94%B0%E7%BA%B3%E8%A5%BF",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "在战场上，我一直以碾压对手为自己的行动信条，可是如果有了司令官在身边的话……似乎不能那么肆无忌惮了呀，真头疼。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_106.png?ver=20160315",
@@ -9282,7 +9282,7 @@
     "DEFENCE_MAX": "90"
   },
   {
-    "FOCUS": 14391,
+    "FOCUS": 15108,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "37",
     "SHAN_BI": "15",
@@ -9294,7 +9294,7 @@
     "ATTACK_MAX": "94",
     "LIFE_MAX": "70",
     "TYPE": "战列舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E5%8A%A0%E5%88%A9%E7%A6%8F%E5%B0%BC%E4%BA%9A",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E5%8A%A0%E5%88%A9%E7%A6%8F%E5%B0%BC%E4%BA%9A",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "上天注定能与我同台演出的，世界上只有您。今后也请多多关照了，让我们的舞台更加闪耀吧。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_107.png?ver=20160315",
@@ -9373,7 +9373,7 @@
     "DEFENCE_MAX": "90"
   },
   {
-    "FOCUS": 16843,
+    "FOCUS": 18061,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "37",
     "SHAN_BI": "16",
@@ -9385,7 +9385,7 @@
     "ATTACK_MAX": "100",
     "LIFE_MAX": "77",
     "TYPE": "战列舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E7%A7%91%E7%BD%97%E6%8B%89%E5%A4%9A",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E7%A7%91%E7%BD%97%E6%8B%89%E5%A4%9A",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "天气不错，心情也很好，不如……指挥官随身携带戒指这件事还真是熟练呢。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_108.png?ver=20160315",
@@ -9464,7 +9464,7 @@
     "DEFENCE_MAX": "91"
   },
   {
-    "FOCUS": 14323,
+    "FOCUS": 15296,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "37",
     "SHAN_BI": "16",
@@ -9476,7 +9476,7 @@
     "ATTACK_MAX": "100",
     "LIFE_MAX": "77",
     "TYPE": "战列舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E9%A9%AC%E9%87%8C%E5%85%B0",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E9%A9%AC%E9%87%8C%E5%85%B0",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "好斗的玛丽什么的……司令喜欢吗？如果喜欢的话，倒是没什么。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_109.png?ver=20160315",
@@ -9555,7 +9555,7 @@
     "DEFENCE_MAX": "91"
   },
   {
-    "FOCUS": 16129,
+    "FOCUS": 17292,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "37",
     "SHAN_BI": "16",
@@ -9567,7 +9567,7 @@
     "ATTACK_MAX": "100",
     "LIFE_MAX": "77",
     "TYPE": "战列舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E8%A5%BF%E5%BC%97%E5%90%89%E5%B0%BC%E4%BA%9A",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E8%A5%BF%E5%BC%97%E5%90%89%E5%B0%BC%E4%BA%9A",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "这枚戒指亮晶晶的呢，我会好好珍惜的哦。。。谁要也不给！",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_110.png?ver=20160315",
@@ -9646,7 +9646,7 @@
     "DEFENCE_MAX": "91"
   },
   {
-    "FOCUS": 51964,
+    "FOCUS": 56127,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "43",
     "SHAN_BI": "25",
@@ -9658,7 +9658,7 @@
     "ATTACK_MAX": "108",
     "LIFE_MAX": "74",
     "TYPE": "战列舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E5%8D%8E%E7%9B%9B%E9%A1%BF",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E5%8D%8E%E7%9B%9B%E9%A1%BF",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "真正的友谊，是一株成长缓慢的植物。我深信，与司令官的羁绊之苗，已经成长为参天大树了呢。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_111.png?ver=20160315",
@@ -9737,7 +9737,7 @@
     "DEFENCE_MAX": "92"
   },
   {
-    "FOCUS": 36028,
+    "FOCUS": 37989,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "39",
     "SHAN_BI": "28",
@@ -9749,7 +9749,7 @@
     "ATTACK_MAX": "101",
     "LIFE_MAX": "75",
     "TYPE": "战列舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E7%BB%B4%E5%86%85%E6%89%98",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E7%BB%B4%E5%86%85%E6%89%98",
     "CAN_BUILD": 0,
     "WEDDING_TALK": "buongiorno,vuoi il caffè?能在这里享受清晨的咖啡，同时也收到了这份意外的惊喜，维内托现在很幸福。有长官在我身边的话,我会安心很多。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_112.png?ver=20160315",
@@ -9828,7 +9828,7 @@
     "DEFENCE_MAX": "98"
   },
   {
-    "FOCUS": 63183,
+    "FOCUS": 66134,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "38",
     "SHAN_BI": "29",
@@ -9840,7 +9840,7 @@
     "ATTACK_MAX": "96",
     "LIFE_MAX": "78",
     "TYPE": "战列舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E9%BB%8E%E5%A1%9E%E7%95%99",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E9%BB%8E%E5%A1%9E%E7%95%99",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "除了解放家园，我的另一个梦想在今天终于实现了...",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_113.png?ver=20160315",
@@ -9919,7 +9919,7 @@
     "DEFENCE_MAX": "102"
   },
   {
-    "FOCUS": 57855,
+    "FOCUS": 59999,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "40",
     "SHAN_BI": "30",
@@ -9931,7 +9931,7 @@
     "ATTACK_MAX": "81",
     "LIFE_MAX": "72",
     "TYPE": "战列巡洋舰",
-    "LINK_MENGBAI": "-",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E6%B2%99%E6%81%A9%E9%9C%8D%E6%96%AF%E7%89%B9",
     "CAN_BUILD": 0,
     "WEDDING_TALK": "长官，这太突然了，一直以来都只会战斗的我也能如此幸福吗？啊，请您现在先不要看我的脸，一定很红的，啊啊…",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_114.png?ver=20160315",
@@ -10010,7 +10010,7 @@
     "DEFENCE_MAX": "85"
   },
   {
-    "FOCUS": 44772,
+    "FOCUS": 47211,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "35",
     "SHAN_BI": "27",
@@ -10022,7 +10022,7 @@
     "ATTACK_MAX": "73",
     "LIFE_MAX": "59",
     "TYPE": "战列巡洋舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E6%88%88%E6%9C%AC",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E6%88%88%E6%9C%AC",
     "CAN_BUILD": 0,
     "WEDDING_TALK": "传奇依旧在书写，里面有你的名字和我一起。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_116.png?ver=20160315",
@@ -10073,7 +10073,7 @@
     "SHAN_BI_MAX": "47",
     "ITEM_NUM": "4",
     "TIME_COST": "0.75",
-    "GETTING_TALK": "我的名字请记好了，戈本，就是传奇的意思。",
+    "GETTING_TALK": "戈本号战列巡洋舰，我的存在就是一个传奇~",
     "PIN_YIN": "geben",
     "SHE_CHENG": "长",
     "NO": "毛奇级2号舰",
@@ -10101,7 +10101,7 @@
     "DEFENCE_MAX": "60"
   },
   {
-    "FOCUS": 43692,
+    "FOCUS": 49643,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "72",
     "SHAN_BI": "33",
@@ -10113,8 +10113,8 @@
     "ATTACK_MAX": "40",
     "LIFE_MAX": "67",
     "TYPE": "正规航母",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E5%A4%A7%E5%87%A4",
-    "CAN_BUILD": 0,
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E5%A4%A7%E5%87%A4",
+    "CAN_BUILD": 1,
     "WEDDING_TALK": "一直以为自己很不幸，直到今天我才知道我是最幸福的...",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_117.png?ver=20160315",
     "NAME": "大凤",
@@ -10174,7 +10174,7 @@
     "DEFENCE": "50",
     "GAI_ZAO": "-",
     "ROCKETS_MAX": "0",
-    "BUILD_TIME": "-",
+    "BUILD_TIME": "4:10:00",
     "XING_YUN": "3",
     "SELL": "30/40/60/40",
     "LEVEL": "大凤型",
@@ -10192,7 +10192,7 @@
     "DEFENCE_MAX": "85"
   },
   {
-    "FOCUS": 12234,
+    "FOCUS": 14248,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "63",
     "SHAN_BI": "30",
@@ -10204,7 +10204,7 @@
     "ATTACK_MAX": "40",
     "LIFE_MAX": "50",
     "TYPE": "正规航母",
-    "LINK_MENGBAI": null,
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E7%BA%A6%E5%85%8B%E5%9F%8E",
     "CAN_BUILD": 0,
     "WEDDING_TALK": "我答应你，无论发生什么事情，我一定会回来，回到你身边！",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_120.png?ver=20160315",
@@ -10283,7 +10283,7 @@
     "DEFENCE_MAX": "55"
   },
   {
-    "FOCUS": 23145,
+    "FOCUS": 26491,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "70",
     "SHAN_BI": "30",
@@ -10295,7 +10295,7 @@
     "ATTACK_MAX": "45",
     "LIFE_MAX": "50",
     "TYPE": "正规航母",
-    "LINK_MENGBAI": null,
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E4%BC%81%E4%B8%9A",
     "CAN_BUILD": 0,
     "WEDDING_TALK": "无论获得了多少荣耀，都比不上指挥官您的赞赏和肯定，现在我感觉很幸福。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_121.png?ver=20160315",
@@ -10374,7 +10374,7 @@
     "DEFENCE_MAX": "55"
   },
   {
-    "FOCUS": 20505,
+    "FOCUS": 21478,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "61",
     "SHAN_BI": "15",
@@ -10386,7 +10386,7 @@
     "ATTACK_MAX": "20",
     "LIFE_MAX": "35",
     "TYPE": "轻型航母",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E5%8D%9A%E6%A0%BC",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E5%8D%9A%E6%A0%BC",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "我的努力得到了指挥官的真心吗？真是太好了...",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_123.png?ver=20160315",
@@ -10465,7 +10465,7 @@
     "DEFENCE_MAX": "27"
   },
   {
-    "FOCUS": 60013,
+    "FOCUS": 63116,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "61",
     "SHAN_BI": "15",
@@ -10477,7 +10477,7 @@
     "ATTACK_MAX": "20",
     "LIFE_MAX": "35",
     "TYPE": "轻型航母",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E8%BF%BD%E8%B5%B6%E8%80%85",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E8%BF%BD%E8%B5%B6%E8%80%85",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "你是认真的吗？！哼，那我就勉为其难的接受吧...好高兴...",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_124.png?ver=20160315",
@@ -10556,7 +10556,7 @@
     "DEFENCE_MAX": "27"
   },
   {
-    "FOCUS": 57537,
+    "FOCUS": 61937,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "63",
     "SHAN_BI": "22",
@@ -10568,7 +10568,7 @@
     "ATTACK_MAX": "20",
     "LIFE_MAX": "40",
     "TYPE": "轻型航母",
-    "LINK_MENGBAI": "-",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E5%B7%A8%E5%83%8F",
     "CAN_BUILD": 0,
     "WEDDING_TALK": "嘻嘻，我也最喜欢指挥官了。以后就请继续指教咯。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_125.png?ver=20160315",
@@ -10647,7 +10647,7 @@
     "DEFENCE_MAX": "38"
   },
   {
-    "FOCUS": 25421,
+    "FOCUS": 26842,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "64",
     "SHAN_BI": "28",
@@ -10659,7 +10659,7 @@
     "ATTACK_MAX": "20",
     "LIFE_MAX": "36",
     "TYPE": "轻型航母",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E6%99%AE%E6%9E%97%E6%96%AF%E9%A1%BF",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E6%99%AE%E6%9E%97%E6%96%AF%E9%A1%BF",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "指挥官，你刚刚在我面前表演了一个最出色的魔术哦。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_126.png?ver=20160315",
@@ -10738,7 +10738,7 @@
     "DEFENCE_MAX": "40"
   },
   {
-    "FOCUS": 67031,
+    "FOCUS": 72004,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "61",
     "SHAN_BI": "21",
@@ -10750,7 +10750,7 @@
     "ATTACK_MAX": "20",
     "LIFE_MAX": "43",
     "TYPE": "轻型航母",
-    "LINK_MENGBAI": "-",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E7%8B%AC%E8%A7%92%E5%85%BD",
     "CAN_BUILD": 0,
     "WEDDING_TALK": "我和指挥官的羁绊，就如永远开放的幽深花园一样永恒呢。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_127.png?ver=20160315",
@@ -10801,7 +10801,7 @@
     "SHAN_BI_MAX": "41",
     "ITEM_NUM": "3",
     "TIME_COST": "0.75",
-    "GETTING_TALK": "贵安，我是皇家海军独角兽号轻型航母。指挥官，就让我来治愈受伤的人吧。",
+    "GETTING_TALK": "贵安，我是皇家海军独角兽号轻型航母。希望能够成为您的助力，为您排忧解难。嗯，放心的交给我吧。",
     "PIN_YIN": "dujiaoshou",
     "SHE_CHENG": "短",
     "NO": "无番号",
@@ -10829,7 +10829,7 @@
     "DEFENCE_MAX": "42"
   },
   {
-    "FOCUS": 34326,
+    "FOCUS": 35936,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "38",
     "SHAN_BI": "25",
@@ -10841,7 +10841,7 @@
     "ATTACK_MAX": "68",
     "LIFE_MAX": "55",
     "TYPE": "战列巡洋舰",
-    "LINK_MENGBAI": "-",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E5%BE%B7%E6%84%8F%E5%BF%97",
     "CAN_BUILD": 0,
     "WEDDING_TALK": "说过啦不要小瞧我，不过战斗的时候带上你也没事啦，毕竟只要有我在，不管是冲锋还是逃跑，我都可以保护你的。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_128.png?ver=20160315",
@@ -10852,7 +10852,7 @@
     "EXP": "43/0/38/10",
     "SKILL_NAME": "-",
     "IS_OPENED": 1,
-    "DROP_INFO": "| <a href=\"/jsp/apps/cancollezh/maps/detailnew.jsp?detailid=2015_MAY_E3&boldid=128\" data-transition=\"flip\">2015_MAY_E3</a> || <a href=\"/jsp/apps/cancollezh/maps/detailnew.jsp?detailid=2015_MAY_E4&boldid=128\" data-transition=\"flip\">2015_MAY_E4</a> || <a href=\"/jsp/apps/cancollezh/maps/detailnew.jsp?detailid=4-4&boldid=128\" data-transition=\"flip\">4-4</a> || <a href=\"/jsp/apps/cancollezh/maps/detailnew.jsp?detailid=5-3&boldid=128\" data-transition=\"flip\">5-3</a> || <a href=\"/jsp/apps/cancollezh/maps/detailnew.jsp?detailid=6-3&boldid=128\" data-transition=\"flip\">6-3</a> || <a href=\"/jsp/apps/cancollezh/maps/detailnew.jsp?detailid=6-4&boldid=128\" data-transition=\"flip\">6-4</a> |",
+    "DROP_INFO": "| <a href=\"/jsp/apps/cancollezh/maps/detailnew.jsp?detailid=2015_MAY_E3&boldid=128\" data-transition=\"flip\">2015_MAY_E3</a> || <a href=\"/jsp/apps/cancollezh/maps/detailnew.jsp?detailid=2015_MAY_E4&boldid=128\" data-transition=\"flip\">2015_MAY_E4</a> || <a href=\"/jsp/apps/cancollezh/maps/detailnew.jsp?detailid=4-4&boldid=128\" data-transition=\"flip\">4-4</a> || <a href=\"/jsp/apps/cancollezh/maps/detailnew.jsp?detailid=5-3&boldid=128\" data-transition=\"flip\">5-3</a> || <a href=\"/jsp/apps/cancollezh/maps/detailnew.jsp?detailid=5-5&boldid=128\" data-transition=\"flip\">5-5</a> || <a href=\"/jsp/apps/cancollezh/maps/detailnew.jsp?detailid=6-3&boldid=128\" data-transition=\"flip\">6-3</a> || <a href=\"/jsp/apps/cancollezh/maps/detailnew.jsp?detailid=6-4&boldid=128\" data-transition=\"flip\">6-4</a> |",
     "ATTACK": "43",
     "MAX_DATA": {
       "MAXXINGYUN": 45,
@@ -10920,7 +10920,7 @@
     "DEFENCE_MAX": "50"
   },
   {
-    "FOCUS": 66247,
+    "FOCUS": 67892,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "38",
     "SHAN_BI": "25",
@@ -10932,7 +10932,7 @@
     "ATTACK_MAX": "68",
     "LIFE_MAX": "55",
     "TYPE": "战列巡洋舰",
-    "LINK_MENGBAI": "-",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E8%88%8D%E5%B0%94%E6%B5%B7%E5%86%9B%E4%B8%8A%E5%B0%86",
     "CAN_BUILD": 0,
     "WEDDING_TALK": "战场上我可是会吸引大批敌人前来的哟~长官你不怕吗？嘻嘻~那就把我手中的鱼雷给长官您吧，如果必要的时候，丢出去可以防身。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_129.png?ver=20160315",
@@ -11011,7 +11011,7 @@
     "DEFENCE_MAX": "50"
   },
   {
-    "FOCUS": 83507,
+    "FOCUS": 87341,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "39",
     "SHAN_BI": "25",
@@ -11023,7 +11023,7 @@
     "ATTACK_MAX": "68",
     "LIFE_MAX": "57",
     "TYPE": "战列巡洋舰",
-    "LINK_MENGBAI": "-",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E6%96%AF%E4%BD%A9%E4%BC%AF%E7%88%B5%E6%B5%B7%E5%86%9B%E4%B8%8A%E5%B0%86",
     "CAN_BUILD": 0,
     "WEDDING_TALK": "当我被欺负的时候，长官您站了出来，挡在我的面前保护我，给了我希望……我一直这么幻想着，今天终于实现了。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_130.png?ver=20160315",
@@ -11102,7 +11102,7 @@
     "DEFENCE_MAX": "50"
   },
   {
-    "FOCUS": 12444,
+    "FOCUS": 12906,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "45",
     "SHAN_BI": "33",
@@ -11114,7 +11114,7 @@
     "ATTACK_MAX": "48",
     "LIFE_MAX": "36",
     "TYPE": "重巡洋舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E5%8F%A4%E9%B9%B0",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E5%8F%A4%E9%B9%B0",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "提督，您就是海面上替我指明道路的月亮。多谢厚爱，今后也请多多关照。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_131.png?ver=20160315",
@@ -11193,7 +11193,7 @@
     "DEFENCE_MAX": "41"
   },
   {
-    "FOCUS": 9119,
+    "FOCUS": 9465,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "45",
     "SHAN_BI": "33",
@@ -11205,7 +11205,7 @@
     "ATTACK_MAX": "48",
     "LIFE_MAX": "36",
     "TYPE": "重巡洋舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E5%8A%A0%E5%8F%A4",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E5%8A%A0%E5%8F%A4",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "“提督就是我的月亮”是这么说的吧？要是古鹰姐姐的话一定会这么说，我可不喜欢装腔作势。咳咳，从今以后我是不会离开提督的，说到做到。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_132.png?ver=20160315",
@@ -11284,7 +11284,7 @@
     "DEFENCE_MAX": "41"
   },
   {
-    "FOCUS": 12442,
+    "FOCUS": 12873,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "46",
     "SHAN_BI": "33",
@@ -11296,7 +11296,7 @@
     "ATTACK_MAX": "48",
     "LIFE_MAX": "37",
     "TYPE": "重巡洋舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E9%9D%92%E5%8F%B6",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E9%9D%92%E5%8F%B6",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "提督的幸福就是我的幸福，今天非常令人高兴呢。今后青叶会更加努力的。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_133.png?ver=20160315",
@@ -11375,7 +11375,7 @@
     "DEFENCE_MAX": "42"
   },
   {
-    "FOCUS": 9698,
+    "FOCUS": 10030,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "46",
     "SHAN_BI": "33",
@@ -11387,7 +11387,7 @@
     "ATTACK_MAX": "48",
     "LIFE_MAX": "37",
     "TYPE": "重巡洋舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E8%A1%A3%E7%AC%A0",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E8%A1%A3%E7%AC%A0",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "提督，为什么要那么闷闷不乐的呢？与其愁眉苦脸不如开开心心地面对！既然只选择一个人，没法让所有人幸福的话，那么提督你干脆就选择所有人吧！",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_134.png?ver=20160315",
@@ -11466,7 +11466,7 @@
     "DEFENCE_MAX": "42"
   },
   {
-    "FOCUS": 13593,
+    "FOCUS": 14479,
     "GAI_ZAO_INFO": "本体→<a href=# onclick=\"loadDetail('1135')\">Lv39改一</a>",
     "ZHEN_CHA_MAX": "50",
     "SHAN_BI": "31",
@@ -11478,7 +11478,7 @@
     "ATTACK_MAX": "55",
     "LIFE_MAX": "50",
     "TYPE": "重巡洋舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E4%BC%A6%E6%95%A6",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E4%BC%A6%E6%95%A6",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "如果是指挥官您的话，伦敦我就欣然接受了...没有想到像您这样风度翩翩的人，这种时候也会紧张呢。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_135.png?ver=20160315",
@@ -11557,7 +11557,7 @@
     "DEFENCE_MAX": "41"
   },
   {
-    "FOCUS": 26126,
+    "FOCUS": 27967,
     "GAI_ZAO_INFO": "本体→<a href=# onclick=\"loadDetail('1136')\">Lv39改一</a>",
     "ZHEN_CHA_MAX": "49",
     "SHAN_BI": "30",
@@ -11569,7 +11569,7 @@
     "ATTACK_MAX": "54",
     "LIFE_MAX": "49",
     "TYPE": "重巡洋舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E8%82%AF%E7%89%B9",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E8%82%AF%E7%89%B9",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "能够这么温柔的包容他人的缺点，指挥官真是个大好人！接…接受了！我非常的高兴！",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_136.png?ver=20160315",
@@ -11648,7 +11648,7 @@
     "DEFENCE_MAX": "40"
   },
   {
-    "FOCUS": 11792,
+    "FOCUS": 12845,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "51",
     "SHAN_BI": "31",
@@ -11660,7 +11660,7 @@
     "ATTACK_MAX": "63",
     "LIFE_MAX": "49",
     "TYPE": "重巡洋舰",
-    "LINK_MENGBAI": "-",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E6%B3%A2%E7%89%B9%E5%85%B0",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "这个的意思…但是司令官，毕竟是还在战争时期，战争未平，何以为家…还是让我们专心对敌吧…等结束后…恩，走吧。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_137.png?ver=20160315",
@@ -11739,7 +11739,7 @@
     "DEFENCE_MAX": "53"
   },
   {
-    "FOCUS": 20266,
+    "FOCUS": 21967,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "51",
     "SHAN_BI": "31",
@@ -11751,7 +11751,7 @@
     "ATTACK_MAX": "63",
     "LIFE_MAX": "49",
     "TYPE": "重巡洋舰",
-    "LINK_MENGBAI": "-",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E5%8D%B0%E7%AC%AC%E5%AE%89%E7%BA%B3%E6%B3%A2%E5%88%A9%E6%96%AF",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "鹰的眼睛，豹的速度，熊的力量，这些我都没有...但是我有你哦，这就够了呢。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_138.png?ver=20160315",
@@ -11830,7 +11830,7 @@
     "DEFENCE_MAX": "53"
   },
   {
-    "FOCUS": 11765,
+    "FOCUS": 12297,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "51",
     "SHAN_BI": "30",
@@ -11842,7 +11842,7 @@
     "ATTACK_MAX": "65",
     "LIFE_MAX": "47",
     "TYPE": "重巡洋舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E5%BD%AD%E8%90%A8%E7%A7%91%E6%8B%89",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E5%BD%AD%E8%90%A8%E7%A7%91%E6%8B%89",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "被人轻视、瞧不起…这些在我眼里其实都没什么，因为…有您在呢，对不起，眼泪有些止不住了…",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_139.png?ver=20160315",
@@ -11921,7 +11921,7 @@
     "DEFENCE_MAX": "53"
   },
   {
-    "FOCUS": 10284,
+    "FOCUS": 10853,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "51",
     "SHAN_BI": "30",
@@ -11933,7 +11933,7 @@
     "ATTACK_MAX": "65",
     "LIFE_MAX": "47",
     "TYPE": "重巡洋舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E7%9B%90%E6%B9%96%E5%9F%8E",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E7%9B%90%E6%B9%96%E5%9F%8E",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "一直幻想，有一天我也能像主力舰那样得到司令官的青睐…没想到，您从来没有轻视过我呢。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_140.png?ver=20160315",
@@ -12012,7 +12012,7 @@
     "DEFENCE_MAX": "53"
   },
   {
-    "FOCUS": 10404,
+    "FOCUS": 10951,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "51",
     "SHAN_BI": "31",
@@ -12024,7 +12024,7 @@
     "ATTACK_MAX": "63",
     "LIFE_MAX": "45",
     "TYPE": "重巡洋舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E5%8C%97%E5%AE%89%E6%99%AE%E9%A1%BF",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E5%8C%97%E5%AE%89%E6%99%AE%E9%A1%BF",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "司令官，当有一天我陷入了危险，您愿意来救我吗？…这样呀，我知道了。我，也会一直守护着您的。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_141.png?ver=20160315",
@@ -12103,7 +12103,7 @@
     "DEFENCE_MAX": "53"
   },
   {
-    "FOCUS": 9550,
+    "FOCUS": 10246,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "51",
     "SHAN_BI": "31",
@@ -12115,7 +12115,7 @@
     "ATTACK_MAX": "63",
     "LIFE_MAX": "45",
     "TYPE": "重巡洋舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E4%BC%91%E6%96%AF%E9%A1%BF",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E4%BC%91%E6%96%AF%E9%A1%BF",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "这么重要的东西….交给我保管吗？那么这样的话，我就只能把自己交给司令官了呢。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_142.png?ver=20160315",
@@ -12194,7 +12194,7 @@
     "DEFENCE_MAX": "53"
   },
   {
-    "FOCUS": 13138,
+    "FOCUS": 14235,
     "GAI_ZAO_INFO": "本体→<a href=# onclick=\"loadDetail('1143')\">Lv42改一</a>",
     "ZHEN_CHA_MAX": "50",
     "SHAN_BI": "31",
@@ -12206,7 +12206,7 @@
     "ATTACK_MAX": "63",
     "LIFE_MAX": "43",
     "TYPE": "重巡洋舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E6%96%B0%E5%A5%A5%E5%B0%94%E8%89%AF",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E6%96%B0%E5%A5%A5%E5%B0%94%E8%89%AF",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "以这样幸福的心情战斗还是第一次......司令官，我已经没什么好害怕了！",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_143.png?ver=20160315",
@@ -12285,7 +12285,7 @@
     "DEFENCE_MAX": "52"
   },
   {
-    "FOCUS": 35928,
+    "FOCUS": 38740,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "20",
     "SHAN_BI": "33",
@@ -12297,7 +12297,7 @@
     "ATTACK_MAX": "55",
     "LIFE_MAX": "29",
     "TYPE": "轻巡洋舰",
-    "LINK_MENGBAI": "-",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E5%9F%BA%E6%B4%9B%E5%A4%AB",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "给我的戒指？谢谢，下一场战斗，我会活着回来的，放心吧。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_144.png?ver=20160315",
@@ -12376,7 +12376,7 @@
     "DEFENCE_MAX": "46"
   },
   {
-    "FOCUS": 16271,
+    "FOCUS": 17359,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "18",
     "SHAN_BI": "26",
@@ -12388,7 +12388,7 @@
     "ATTACK_MAX": "42",
     "LIFE_MAX": "30",
     "TYPE": "轻巡洋舰",
-    "LINK_MENGBAI": "-",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E5%9F%83%E5%A7%86%E7%99%BB",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "长官有何贵干？咳咳…别靠那么近…长官可真像个小孩子呢，让人放心不下啊。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_149.png?ver=20160315",
@@ -12467,7 +12467,7 @@
     "DEFENCE_MAX": "38"
   },
   {
-    "FOCUS": 32889,
+    "FOCUS": 34492,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "20",
     "SHAN_BI": "30",
@@ -12479,7 +12479,7 @@
     "ATTACK_MAX": "42",
     "LIFE_MAX": "30",
     "TYPE": "轻巡洋舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E7%BF%A1%E7%BF%A0",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E7%BF%A1%E7%BF%A0",
     "CAN_BUILD": 0,
     "WEDDING_TALK": "指挥官！一起前往海平线的尽头吧！果然，只有翡翠自己一个人的话，什么都做不到... ",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_150.png?ver=20160315",
@@ -12558,7 +12558,7 @@
     "DEFENCE_MAX": "35"
   },
   {
-    "FOCUS": 31803,
+    "FOCUS": 33838,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "20",
     "SHAN_BI": "30",
@@ -12570,7 +12570,7 @@
     "ATTACK_MAX": "43",
     "LIFE_MAX": "30",
     "TYPE": "轻巡洋舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E8%BF%9B%E5%8F%96",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E8%BF%9B%E5%8F%96",
     "CAN_BUILD": 0,
     "WEDDING_TALK": "有什么想做的事情？让我想想…我想像一般的女孩子那样去逛街。走在街道上，买好多好多的吃的，跟随着甜蜜的爱人一起分享幸福…而现在，指挥官您实现了我人生一半的渴望…",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_151.png?ver=20160315",
@@ -12649,7 +12649,7 @@
     "DEFENCE_MAX": "35"
   },
   {
-    "FOCUS": 26623,
+    "FOCUS": 27718,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "20",
     "SHAN_BI": "30",
@@ -12661,7 +12661,7 @@
     "ATTACK_MAX": "52",
     "LIFE_MAX": "35",
     "TYPE": "轻巡洋舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E7%88%B1%E4%B8%81%E5%A0%A1",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E7%88%B1%E4%B8%81%E5%A0%A1",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "哇哈哈，指挥官您在开玩笑吧？...诶诶诶？！居然是真的吗？非常感谢！",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_152.png?ver=20160315",
@@ -12740,7 +12740,7 @@
     "DEFENCE_MAX": "50"
   },
   {
-    "FOCUS": 42969,
+    "FOCUS": 44890,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "20",
     "SHAN_BI": "30",
@@ -12752,7 +12752,7 @@
     "ATTACK_MAX": "52",
     "LIFE_MAX": "35",
     "TYPE": "轻巡洋舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E8%B4%9D%E5%B0%94%E6%B3%95%E6%96%AF%E7%89%B9",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E8%B4%9D%E5%B0%94%E6%B3%95%E6%96%AF%E7%89%B9",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "非常感谢，希望我的好运能与您一起分享，给您带来更多的胜利。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_153.png?ver=20160315",
@@ -12831,7 +12831,7 @@
     "DEFENCE_MAX": "50"
   },
   {
-    "FOCUS": 39820,
+    "FOCUS": 42841,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "39",
     "SHAN_BI": "30",
@@ -12843,7 +12843,7 @@
     "ATTACK_MAX": "67",
     "LIFE_MAX": "52",
     "TYPE": "战列巡洋舰",
-    "LINK_MENGBAI": "-",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E5%85%89%E8%8D%A3",
     "CAN_BUILD": 0,
     "WEDDING_TALK": "啊...不行！我是说，现在场合不对。您的心意，我并没有反对意见啦... ",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_155.png?ver=20160315",
@@ -12922,7 +12922,98 @@
     "DEFENCE_MAX": "43"
   },
   {
-    "FOCUS": 18450,
+    "FOCUS": 2932,
+    "GAI_ZAO_INFO": "未开放",
+    "ZHEN_CHA_MAX": "22",
+    "SHAN_BI": "31",
+    "IMG_BB": "http://ima.ntwikis.com/cancollezh/20151119/M_BROKEN_157.png?ver=20160315",
+    "SKILL": "-",
+    "ID": 157,
+    "DAN": "30",
+    "DUI_KONG": "58",
+    "ATTACK_MAX": "54",
+    "LIFE_MAX": "27",
+    "TYPE": "轻巡洋舰",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E5%9C%A3%E5%9C%B0%E4%BA%9A%E5%93%A5",
+    "CAN_BUILD": 1,
+    "WEDDING_TALK": "喵呜~早就想试着趴在提督的腿上睡午觉（跳）……啊，被抱起来了……司令官的怀抱，出人意料的温暖呢。",
+    "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_157.png?ver=20160315",
+    "NAME": "圣地亚哥",
+    "OIL_COST": "0.8",
+    "ZHEN_CHA": "12",
+    "GAI_ZAO_USE": "未开放",
+    "EXP": "12/0/10/68",
+    "SKILL_NAME": "-",
+    "IS_OPENED": 1,
+    "DROP_INFO": "",
+    "ATTACK": "24",
+    "MAX_DATA": {
+      "MAXXINGYUN": 40,
+      "MINATTACK": 36,
+      "MINDEFENCE": 27,
+      "MAXYOU": 30,
+      "MAXSU_DU": "36.0",
+      "MAXATTACK": 71,
+      "MAXSHANBI": 95,
+      "MAXLIFE": 48,
+      "MAXDAN": 35,
+      "MINDAN": 20,
+      "MINDUIKONG": 38,
+      "MAXDUIQIAN": 90,
+      "MINXINGYUN": 5,
+      "TYPE": "轻巡洋舰",
+      "MINDAZAI": 0,
+      "MAXROCKET": 80,
+      "MINROCKET": 0,
+      "MAXDEFENCE": 57,
+      "MINZHENCHA": 6,
+      "MINSHANBI": 50,
+      "MINYOU": 15,
+      "MAXDAZAI": 12,
+      "MINLIFE": 18,
+      "MAXZHENCHA": 22,
+      "MAXDUIKONG": 98,
+      "MINSU_DU": "20.0",
+      "MINDUIQIAN": 53
+    },
+    "YOU": "25",
+    "IMG_PO": null,
+    "SKILL_INFO": "-",
+    "IMG": null,
+    "LIFE": "27",
+    "DUI_QIAN": "40",
+    "SHAN_BI_MAX": "66",
+    "ITEM_NUM": "3",
+    "TIME_COST": "0.4",
+    "GETTING_TALK": "呜喵~欢迎来到圣地亚哥的身边，司令官……啊，不要抓我尾巴啦……好痛。",
+    "PIN_YIN": "shengdiyage",
+    "SHE_CHENG": "中",
+    "NO": "亚特兰大级3号舰",
+    "SU_DU": "33.6",
+    "DUI_KONG_MAX": "98",
+    "WEAPON_INFO": "<a href=# onclick=\"weaponDetail('U国双联5英寸平高两用炮')\">U国双联5英寸平高两用炮</a>",
+    "DEFENCE": "19",
+    "GAI_ZAO": "-",
+    "ROCKETS_MAX": "0",
+    "BUILD_TIME": "1:15:00",
+    "XING_YUN": "40",
+    "SELL": "10/16/10/0",
+    "LEVEL": "亚特兰大级",
+    "NI_CHENG": "金坷垃",
+    "DUI_QIAN_MAX": "80",
+    "STARS": "4",
+    "DA_ZAI": "0",
+    "ROCKETS": "0",
+    "DESC": "圣地亚哥号巡洋舰属亚特兰大级轻巡洋舰，战争期间圣地亚哥号主要执行自己的本职工作，为航母提供护航。她伴随美军航母编队参加了诸多重大战役，见证了战争走向胜利的进程。J国投降后，圣地亚哥号是第一艘驶入东京湾的盟军军舰。圣地亚哥号一共获得18颗战斗之星，仅次于企业号，列美海军第二。",
+    "GANG_COST": "1.5",
+    "FEN_BU": "-",
+    "NATION": null,
+    "WEAPON": "U国双联5英寸平高两用炮",
+    "IMG_HEAD": "http://ima.ntwikis.com/cancollezh/20151119/S_NORMAL_157.png?ver=20160315",
+    "DEFENCE_MAX": "44"
+  },
+  {
+    "FOCUS": 19420,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "22",
     "SHAN_BI": "31",
@@ -12934,7 +13025,7 @@
     "ATTACK_MAX": "54",
     "LIFE_MAX": "27",
     "TYPE": "轻巡洋舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E5%9C%A3%E8%83%A1%E5%AE%89",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E5%9C%A3%E8%83%A1%E5%AE%89",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "第一次见到指挥官那么认真那，好啦，我接受就是了。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_158.png?ver=20160315",
@@ -13013,7 +13104,7 @@
     "DEFENCE_MAX": "44"
   },
   {
-    "FOCUS": 14289,
+    "FOCUS": 15127,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "18",
     "SHAN_BI": "32",
@@ -13025,7 +13116,7 @@
     "ATTACK_MAX": "49",
     "LIFE_MAX": "28",
     "TYPE": "轻巡洋舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E5%BE%B7%C2%B7%E9%B2%81%E4%BC%8A%E7%89%B9",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E5%BE%B7%C2%B7%E9%B2%81%E4%BC%8A%E7%89%B9",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "命运让我们走到了一起，今后我也会一直陪伴您身边。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_161.png?ver=20160315",
@@ -13104,7 +13195,7 @@
     "DEFENCE_MAX": "40"
   },
   {
-    "FOCUS": 30937,
+    "FOCUS": 32460,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "18",
     "SHAN_BI": "21",
@@ -13116,7 +13207,7 @@
     "ATTACK_MAX": "37",
     "LIFE_MAX": "18",
     "TYPE": "轻巡洋舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E9%80%B8%E4%BB%99",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E9%80%B8%E4%BB%99",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "好的，今后我将侍奉您左右，直到永远。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_162.png?ver=20160315",
@@ -13195,7 +13286,7 @@
     "DEFENCE_MAX": "30"
   },
   {
-    "FOCUS": 40783,
+    "FOCUS": 42354,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "17",
     "SHAN_BI": "36",
@@ -13207,7 +13298,7 @@
     "ATTACK_MAX": "33",
     "LIFE_MAX": "19",
     "TYPE": "驱逐舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E7%A7%8B%E6%9C%88",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E7%A7%8B%E6%9C%88",
     "CAN_BUILD": 0,
     "WEDDING_TALK": "不希望我再只身犯险？嘻嘻，提督真的有这么关心我呀…可是，我需要变得更强才能保护您呢。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_164.png?ver=20160315",
@@ -13286,7 +13377,7 @@
     "DEFENCE_MAX": "22"
   },
   {
-    "FOCUS": 33353,
+    "FOCUS": 34737,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "17",
     "SHAN_BI": "37",
@@ -13298,7 +13389,7 @@
     "ATTACK_MAX": "33",
     "LIFE_MAX": "19",
     "TYPE": "驱逐舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E5%87%89%E6%9C%88",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E6%B6%BC%E6%9C%88",
     "CAN_BUILD": 0,
     "WEDDING_TALK": "胜利的航路，提督会为我领航的吧。嗯，相信着你哦，提督大人。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_165.png?ver=20160315",
@@ -13377,7 +13468,7 @@
     "DEFENCE_MAX": "22"
   },
   {
-    "FOCUS": 24602,
+    "FOCUS": 25983,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "16",
     "SHAN_BI": "37",
@@ -13389,7 +13480,7 @@
     "ATTACK_MAX": "30",
     "LIFE_MAX": "16",
     "TYPE": "驱逐舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E9%98%B3%E7%82%8E",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E9%98%B3%E7%82%8E",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "提督的意思……好吧，从今天起你就是我的左膀右臂啦！我果然是主角呢~",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_166.png?ver=20160315",
@@ -13468,7 +13559,7 @@
     "DEFENCE_MAX": "21"
   },
   {
-    "FOCUS": 16811,
+    "FOCUS": 17795,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "16",
     "SHAN_BI": "37",
@@ -13480,7 +13571,7 @@
     "ATTACK_MAX": "30",
     "LIFE_MAX": "16",
     "TYPE": "驱逐舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E4%B8%8D%E7%9F%A5%E7%81%AB",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E4%B8%8D%E7%9F%A5%E7%81%AB",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "从海风中倾听到了提督的誓言呢，提督能平安一生就是我最大的幸福了。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_167.png?ver=20160315",
@@ -13559,7 +13650,7 @@
     "DEFENCE_MAX": "21"
   },
   {
-    "FOCUS": 17756,
+    "FOCUS": 18692,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "16",
     "SHAN_BI": "37",
@@ -13571,7 +13662,7 @@
     "ATTACK_MAX": "30",
     "LIFE_MAX": "16",
     "TYPE": "驱逐舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E9%BB%91%E6%BD%AE",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E9%BB%91%E6%BD%AE",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "守，守护提督的任务，我...一定会完美的达成…大概吧？",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_168.png?ver=20160315",
@@ -13650,7 +13741,7 @@
     "DEFENCE_MAX": "21"
   },
   {
-    "FOCUS": 32244,
+    "FOCUS": 38876,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "16",
     "SHAN_BI": "45",
@@ -13662,7 +13753,7 @@
     "ATTACK_MAX": "30",
     "LIFE_MAX": "16",
     "TYPE": "驱逐舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E9%9B%AA%E9%A3%8E",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E9%9B%AA%E9%A3%8E",
     "CAN_BUILD": 0,
     "WEDDING_TALK": "如果我能够将自己的幸运分给提督就好了，这样的话...应该就可以帮上您了。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_169.png?ver=20160315",
@@ -13741,7 +13832,7 @@
     "DEFENCE_MAX": "21"
   },
   {
-    "FOCUS": 36290,
+    "FOCUS": 38836,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "16",
     "SHAN_BI": "35",
@@ -13753,7 +13844,7 @@
     "ATTACK_MAX": "27",
     "LIFE_MAX": "14",
     "TYPE": "驱逐舰",
-    "LINK_MENGBAI": "-",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E7%83%AD%E5%BF%83",
     "CAN_BUILD": 0,
     "WEDDING_TALK": "战斗，日常，一切的生活，热心都要和您一起，不许扔下我哦。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_172.png?ver=20160315",
@@ -13832,7 +13923,7 @@
     "DEFENCE_MAX": "21"
   },
   {
-    "FOCUS": 32603,
+    "FOCUS": 34753,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "16",
     "SHAN_BI": "35",
@@ -13844,7 +13935,7 @@
     "ATTACK_MAX": "27",
     "LIFE_MAX": "14",
     "TYPE": "驱逐舰",
-    "LINK_MENGBAI": "-",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E9%98%BF%E5%8D%A1%E5%8F%B8%E5%A1%94",
     "CAN_BUILD": 0,
     "WEDDING_TALK": "阁下的航路由我开辟，我的梦想由阁下领航。以后，再也不分开了呐。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_173.png?ver=20160315",
@@ -13923,7 +14014,7 @@
     "DEFENCE_MAX": "21"
   },
   {
-    "FOCUS": 68799,
+    "FOCUS": 70371,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "15",
     "SHAN_BI": "36",
@@ -13935,9 +14026,9 @@
     "ATTACK_MAX": "28",
     "LIFE_MAX": "14",
     "TYPE": "驱逐舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E7%B4%A2%E7%8E%9B%E9%9B%B7%E5%85%B9",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E7%B4%A2%E7%8E%9B%E9%9B%B7%E5%85%B9",
     "CAN_BUILD": 0,
-    "WEDDING_TALK": "既然如此，就为指挥官加个buff吧，虽然我也不是很熟练就是了…",
+    "WEDDING_TALK": "既然做了这个决定，就请好好对待我哦。我也会努力的。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_174.png?ver=20160315",
     "NAME": "索玛雷兹",
     "OIL_COST": "0.48",
@@ -14014,7 +14105,7 @@
     "DEFENCE_MAX": "22"
   },
   {
-    "FOCUS": 39343,
+    "FOCUS": 40204,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "15",
     "SHAN_BI": "38",
@@ -14026,7 +14117,7 @@
     "ATTACK_MAX": "28",
     "LIFE_MAX": "14",
     "TYPE": "驱逐舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E7%BB%B4%E7%BA%B3%E6%96%AF",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E7%BB%B4%E7%BA%B3%E6%96%AF",
     "CAN_BUILD": 0,
     "WEDDING_TALK": "我可以与您交换一个小秘密哟~嘻嘻~指挥官要听吗？",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_175.png?ver=20160315",
@@ -14105,7 +14196,7 @@
     "DEFENCE_MAX": "22"
   },
   {
-    "FOCUS": 35504,
+    "FOCUS": 36467,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "15",
     "SHAN_BI": "36",
@@ -14117,7 +14208,7 @@
     "ATTACK_MAX": "32",
     "LIFE_MAX": "15",
     "TYPE": "驱逐舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E5%86%9B%E5%9B%A2",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E5%86%9B%E5%9B%A2",
     "CAN_BUILD": 0,
     "WEDDING_TALK": "好啊好啊，让指挥官的房间更加热闹一点吧！咦？只有我一个人吗？",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_176.png?ver=20160315",
@@ -14196,7 +14287,7 @@
     "DEFENCE_MAX": "23"
   },
   {
-    "FOCUS": 37702,
+    "FOCUS": 39258,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "16",
     "SHAN_BI": "37",
@@ -14208,7 +14299,7 @@
     "ATTACK_MAX": "28",
     "LIFE_MAX": "17",
     "TYPE": "驱逐舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E6%92%92%E5%88%87%E5%B0%94",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E6%92%92%E5%88%87%E5%B0%94",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "嗯！以后要好好听我的话！每天都要给我买零食！",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_177.png?ver=20160315",
@@ -14287,7 +14378,7 @@
     "DEFENCE_MAX": "22"
   },
   {
-    "FOCUS": 36645,
+    "FOCUS": 38266,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "16",
     "SHAN_BI": "37",
@@ -14299,7 +14390,7 @@
     "ATTACK_MAX": "28",
     "LIFE_MAX": "17",
     "TYPE": "驱逐舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E6%B2%99%E5%88%A9%E6%96%87",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E6%B2%99%E5%88%A9%E6%96%87",
     "CAN_BUILD": 0,
     "WEDDING_TALK": "指挥官，我有资格陪伴您左右吗？...既然您那么说了，那我就好好加油！",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_178.png?ver=20160315",
@@ -14378,7 +14469,7 @@
     "DEFENCE_MAX": "22"
   },
   {
-    "FOCUS": 37692,
+    "FOCUS": 39278,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "16",
     "SHAN_BI": "37",
@@ -14390,7 +14481,7 @@
     "ATTACK_MAX": "28",
     "LIFE_MAX": "17",
     "TYPE": "驱逐舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E8%A5%BF%E6%A0%BC%E6%96%AF%E6%AF%94",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E8%A5%BF%E6%A0%BC%E6%96%AF%E6%AF%94",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "先是救了我，然后又向我…这个剧本不会是指挥官您早就设计好的吧？嘻嘻~我什么都没说哦~",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_179.png?ver=20160315",
@@ -14469,7 +14560,7 @@
     "DEFENCE_MAX": "22"
   },
   {
-    "FOCUS": 35854,
+    "FOCUS": 37978,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "16",
     "SHAN_BI": "40",
@@ -14481,7 +14572,7 @@
     "ATTACK_MAX": "28",
     "LIFE_MAX": "17",
     "TYPE": "驱逐舰",
-    "LINK_MENGBAI": null,
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E5%A5%A5%E7%8F%AD%E5%86%9C",
     "CAN_BUILD": 0,
     "WEDDING_TALK": "有您的鼓励，遇到再强大的敌人我也不会退缩。不要担心，奥班农的弹药可是非~常充足的哦！",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_180.png?ver=20160315",
@@ -14560,7 +14651,7 @@
     "DEFENCE_MAX": "22"
   },
   {
-    "FOCUS": 32437,
+    "FOCUS": 35127,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "1",
     "SHAN_BI": "40",
@@ -14572,7 +14663,7 @@
     "ATTACK_MAX": "28",
     "LIFE_MAX": "17",
     "TYPE": "驱逐舰",
-    "LINK_MENGBAI": null,
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E5%A8%81%E5%BB%89%C2%B7D%C2%B7%E6%B3%A2%E7%89%B9",
     "CAN_BUILD": 0,
     "WEDDING_TALK": "真的么？威利好开心哦！能不能在母港开炮庆祝下呢？哇哇哇！司令快躲开！",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_181.png?ver=20160315",
@@ -14651,7 +14742,7 @@
     "DEFENCE_MAX": "22"
   },
   {
-    "FOCUS": 30729,
+    "FOCUS": 33842,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "16",
     "SHAN_BI": "37",
@@ -14663,8 +14754,8 @@
     "ATTACK_MAX": "40",
     "LIFE_MAX": "18",
     "TYPE": "驱逐舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E6%B3%A2%E7%89%B9",
-    "CAN_BUILD": 0,
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E6%B3%A2%E7%89%B9",
+    "CAN_BUILD": 1,
     "WEDDING_TALK": "嗯...波特也非常喜欢司令官呢，哈哈哈。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_182.png?ver=20160315",
     "NAME": "波特",
@@ -14724,7 +14815,7 @@
     "DEFENCE": "8",
     "GAI_ZAO": "-",
     "ROCKETS_MAX": "74",
-    "BUILD_TIME": "-",
+    "BUILD_TIME": "0:30:00",
     "XING_YUN": "10",
     "SELL": "4/8/6/0",
     "LEVEL": "波特级",
@@ -14742,7 +14833,7 @@
     "DEFENCE_MAX": "23"
   },
   {
-    "FOCUS": 40906,
+    "FOCUS": 43329,
     "GAI_ZAO_INFO": "本体→<a href=# onclick=\"loadDetail('1183')\">Lv45改一</a>",
     "ZHEN_CHA_MAX": "17",
     "SHAN_BI": "36",
@@ -14754,7 +14845,7 @@
     "ATTACK_MAX": "30",
     "LIFE_MAX": "22",
     "TYPE": "驱逐舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E6%8B%89%E8%8F%B2",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E6%8B%89%E8%8F%B2",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "厉害的拉菲号表示非常高兴...呜，拉菲真的没有哭...",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_183.png?ver=20160315",
@@ -14833,7 +14924,7 @@
     "DEFENCE_MAX": "30"
   },
   {
-    "FOCUS": 57135,
+    "FOCUS": 57900,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "15",
     "SHAN_BI": "39",
@@ -14845,7 +14936,7 @@
     "ATTACK_MAX": "29",
     "LIFE_MAX": "18",
     "TYPE": "驱逐舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E5%8D%A1%E7%B1%B3%E5%A5%91%E4%BA%9A%C2%B7%E5%86%85%E6%8B%89",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E5%8D%A1%E7%B1%B3%E5%A5%91%E4%BA%9A%C2%B7%E5%86%85%E6%8B%89",
     "CAN_BUILD": 0,
     "WEDDING_TALK": "嗯？这个是送给我吗？...那么作为回礼我就把这个送给你（脱下裤子）。我们彼此都要好好珍惜哦！",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_185.png?ver=20160315",
@@ -14924,7 +15015,7 @@
     "DEFENCE_MAX": "22"
   },
   {
-    "FOCUS": 60394,
+    "FOCUS": 61041,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "15",
     "SHAN_BI": "39",
@@ -14936,7 +15027,7 @@
     "ATTACK_MAX": "29",
     "LIFE_MAX": "18",
     "TYPE": "驱逐舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E9%98%BF%E7%BB%B4%E5%9F%83%E5%B0%94",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E9%98%BF%E7%BB%B4%E5%9F%83%E5%B0%94",
     "CAN_BUILD": 0,
     "WEDDING_TALK": "嗯！？...对于我来说感觉太早了...其实我比米卡契亚和维内托姐姐还小...所以您的心意...能否再等待下... ",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_186.png?ver=20160315",
@@ -15015,7 +15106,7 @@
     "DEFENCE_MAX": "22"
   },
   {
-    "FOCUS": 92093,
+    "FOCUS": 95003,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "15",
     "SHAN_BI": "40",
@@ -15027,7 +15118,7 @@
     "ATTACK_MAX": "30",
     "LIFE_MAX": "20",
     "TYPE": "驱逐舰",
-    "LINK_MENGBAI": "-",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E5%AE%89%E4%B8%9C%E5%B0%BC%E5%A5%A5%C2%B7%E8%BE%BE%E8%AF%BA%E5%88%A9",
     "CAN_BUILD": 0,
     "WEDDING_TALK": "我的蝴蝶结，以后每天起床后，都由你来帮我系，好不好~！",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_187.png?ver=20160315",
@@ -15106,7 +15197,7 @@
     "DEFENCE_MAX": "22"
   },
   {
-    "FOCUS": 89305,
+    "FOCUS": 91957,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "15",
     "SHAN_BI": "40",
@@ -15118,7 +15209,7 @@
     "ATTACK_MAX": "30",
     "LIFE_MAX": "20",
     "TYPE": "驱逐舰",
-    "LINK_MENGBAI": "-",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E4%B9%8C%E6%88%88%E9%87%8C%E5%B0%BC%C2%B7%E7%BB%B4%E7%93%A6%E5%B0%94%E8%BF%AA",
     "CAN_BUILD": 0,
     "WEDDING_TALK": "真是的，长官您好紧张啊。看来我的魅力还是非常厉害的呐。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_188.png?ver=20160315",
@@ -15197,7 +15288,7 @@
     "DEFENCE_MAX": "22"
   },
   {
-    "FOCUS": 32575,
+    "FOCUS": 35160,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "15",
     "SHAN_BI": "45",
@@ -15209,7 +15300,7 @@
     "ATTACK_MAX": "33",
     "LIFE_MAX": "24",
     "TYPE": "驱逐舰",
-    "LINK_MENGBAI": "-",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E5%A1%94%E4%BB%80%E5%B9%B2",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "一切为了祖国！和将军您的誓约也是哦。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_192.png?ver=20160315",
@@ -15288,7 +15379,7 @@
     "DEFENCE_MAX": "23"
   },
   {
-    "FOCUS": 79637,
+    "FOCUS": 83751,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "42",
     "SHAN_BI": "20",
@@ -15300,7 +15391,7 @@
     "ATTACK_MAX": "24",
     "LIFE_MAX": "12",
     "TYPE": "潜艇",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E5%A4%A7%E9%9D%92%E8%8A%B1%E9%B1%BC",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E5%A4%A7%E9%9D%92%E8%8A%B1%E9%B1%BC",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "今天发生了什么，到处弄得亮晶晶的，蛋糕好漂亮啊，不过上面为什么插了小彩旗。咦？这个盒子是给我的？",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_194.png?ver=20160315",
@@ -15379,7 +15470,7 @@
     "DEFENCE_MAX": "25"
   },
   {
-    "FOCUS": 28305,
+    "FOCUS": 32112,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "42",
     "SHAN_BI": "20",
@@ -15391,8 +15482,8 @@
     "ATTACK_MAX": "24",
     "LIFE_MAX": "12",
     "TYPE": "潜艇",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E5%B0%84%E6%B0%B4%E9%B1%BC",
-    "CAN_BUILD": 0,
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E5%B0%84%E6%B0%B4%E9%B1%BC",
+    "CAN_BUILD": 1,
     "WEDDING_TALK": "捉迷藏咱可是非常拿手哦，嘘，快来这里，别被姐姐发现了。啊...司令官你脸太近啦！",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_195.png?ver=20160315",
     "NAME": "射水鱼",
@@ -15452,7 +15543,7 @@
     "DEFENCE": "10",
     "GAI_ZAO": "-",
     "ROCKETS_MAX": "74",
-    "BUILD_TIME": "-",
+    "BUILD_TIME": "0:12:00",
     "XING_YUN": "27",
     "SELL": "10/10/20/0",
     "LEVEL": "小鲨鱼级",
@@ -15470,7 +15561,7 @@
     "DEFENCE_MAX": "25"
   },
   {
-    "FOCUS": 28071,
+    "FOCUS": 32605,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "40",
     "SHAN_BI": "15",
@@ -15482,7 +15573,7 @@
     "ATTACK_MAX": "50",
     "LIFE_MAX": "12",
     "TYPE": "重炮潜艇",
-    "LINK_MENGBAI": null,
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/M1",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "螳螂捕蝉黄雀在后，总觉得执行任务的时候有谁在盯着我...唉唉！长官带着奇怪的眼神出现了！",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_196.png?ver=20160315",
@@ -15561,7 +15652,7 @@
     "DEFENCE_MAX": "25"
   },
   {
-    "FOCUS": 80751,
+    "FOCUS": 83984,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "43",
     "SHAN_BI": "18",
@@ -15573,7 +15664,7 @@
     "ATTACK_MAX": "23",
     "LIFE_MAX": "10",
     "TYPE": "潜艇",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:U-47",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/U47",
     "CAN_BUILD": 0,
     "WEDDING_TALK": "咳咳咳！太意外了我都要溺水了！长官，我也。喜。。喜欢你！我会为你击沉更多战舰的！",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_197.png?ver=20160315",
@@ -15652,7 +15743,7 @@
     "DEFENCE_MAX": "24"
   },
   {
-    "FOCUS": 18946,
+    "FOCUS": 19824,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "42",
     "SHAN_BI": "19",
@@ -15664,7 +15755,7 @@
     "ATTACK_MAX": "46",
     "LIFE_MAX": "20",
     "TYPE": "重炮潜艇",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E7%B5%AE%E5%BA%93%E5%A4%AB",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E7%B5%AE%E5%BA%93%E5%A4%AB",
     "CAN_BUILD": 0,
     "WEDDING_TALK": "哎呀好痛！是指挥官么？撞到你了真是对不起。哎？有东西送我？是什么呢... 啊！掉了……",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_199.png?ver=20160315",
@@ -15743,7 +15834,98 @@
     "DEFENCE_MAX": "27"
   },
   {
-    "FOCUS": 53891,
+    "FOCUS": 9833,
+    "GAI_ZAO_INFO": "未开放",
+    "ZHEN_CHA_MAX": "42",
+    "SHAN_BI": "24",
+    "IMG_BB": "http://ima.ntwikis.com/cancollezh/20151119/M_BROKEN_207.png?ver=20160315",
+    "SKILL": "-",
+    "ID": 207,
+    "DAN": "140",
+    "DUI_KONG": "63",
+    "ATTACK_MAX": "108",
+    "LIFE_MAX": "75",
+    "TYPE": "战列舰",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E5%8D%97%E8%BE%BE%E7%A7%91%E4%BB%96",
+    "CAN_BUILD": 1,
+    "WEDDING_TALK": "盛开的迎风花真美丽呢……我与司令官的感情，一定会比迎风花更长久。",
+    "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_207.png?ver=20160315",
+    "NAME": "南达科他",
+    "OIL_COST": "4.2",
+    "ZHEN_CHA": "17",
+    "GAI_ZAO_USE": "未开放",
+    "EXP": "88/0/80/65",
+    "SKILL_NAME": "-",
+    "IS_OPENED": 1,
+    "DROP_INFO": "",
+    "ATTACK": "88",
+    "MAX_DATA": {
+      "MAXXINGYUN": 33,
+      "MINATTACK": 79,
+      "MINDEFENCE": 79,
+      "MAXYOU": 125,
+      "MAXSU_DU": "32.0",
+      "MAXATTACK": 110,
+      "MAXSHANBI": 60,
+      "MAXLIFE": 100,
+      "MAXDAN": 175,
+      "MINDAN": 110,
+      "MINDUIKONG": 48,
+      "MAXDUIQIAN": 0,
+      "MINXINGYUN": 3,
+      "TYPE": "战列舰",
+      "MINDAZAI": 0,
+      "MAXROCKET": 0,
+      "MINROCKET": 0,
+      "MAXDEFENCE": 105,
+      "MINZHENCHA": 9,
+      "MINSHANBI": 35,
+      "MINYOU": 70,
+      "MAXDAZAI": 16,
+      "MINLIFE": 54,
+      "MAXZHENCHA": 22,
+      "MAXDUIKONG": 105,
+      "MINSU_DU": "21.0",
+      "MINDUIQIAN": 0
+    },
+    "YOU": "95",
+    "IMG_PO": null,
+    "SKILL_INFO": "-",
+    "IMG": null,
+    "LIFE": "75",
+    "DUI_QIAN": "0",
+    "SHAN_BI_MAX": "44",
+    "ITEM_NUM": "4",
+    "TIME_COST": "0.8",
+    "GETTING_TALK": "呜……在小黑屋呆了好久，南达科他终于看到司令官您了，让我们迎着风前进…（哈欠）啊，稍微有点困呢…不，请不用担心我（打呼噜）",
+    "PIN_YIN": "nandaketa",
+    "SHE_CHENG": "长",
+    "NO": "南达科他级1号舰",
+    "SU_DU": "27.5",
+    "DUI_KONG_MAX": "93",
+    "WEAPON_INFO": "<a href=# onclick=\"weaponDetail('U国三联16英寸炮(MK6)')\">U国三联16英寸炮(MK6)</a> | <a href=# onclick=\"weaponDetail('先进型火控雷达')\">先进型火控雷达</a>",
+    "DEFENCE": "80",
+    "GAI_ZAO": "-",
+    "ROCKETS_MAX": "0",
+    "BUILD_TIME": "5:30:00",
+    "XING_YUN": "13",
+    "SELL": "50/60/60/0",
+    "LEVEL": "南达科他级",
+    "NI_CHENG": "-",
+    "DUI_QIAN_MAX": "0",
+    "STARS": "5",
+    "DA_ZAI": "12",
+    "ROCKETS": "0",
+    "DESC": "南达科他级相比之前的北卡罗来纳级改善了防护设计，在各条约战列舰中性能突出。南达科他号在为航母护航中表现出色，击落了大量敌机。在瓜岛夜战中南达科他号同雾岛号遭遇，由于南达科他号意外断电，战况一度陷入劣势，之后华盛顿号赶到并痛击了雾岛号。由于南达科他号在转战太平洋后就经常出现各种囧况，因此她也被戏称有“祖传的小霉运”。南达科他号参加了太平洋战场诸多重要战役，并最终在东京湾见证了战争的胜利，战后于47年退役。",
+    "GANG_COST": "8.0",
+    "FEN_BU": "[3,3,3,3]",
+    "NATION": null,
+    "WEAPON": "U国三联16英寸炮(MK6),先进型火控雷达",
+    "IMG_HEAD": "http://ima.ntwikis.com/cancollezh/20151119/S_NORMAL_207.png?ver=20160315",
+    "DEFENCE_MAX": "100"
+  },
+  {
+    "FOCUS": 58519,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "70",
     "SHAN_BI": "40",
@@ -15755,8 +15937,8 @@
     "ATTACK_MAX": "40",
     "LIFE_MAX": "62",
     "TYPE": "正规航母",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E7%91%9E%E9%B9%A4",
-    "CAN_BUILD": 0,
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E7%91%9E%E9%B9%A4",
+    "CAN_BUILD": 1,
     "WEDDING_TALK": "提督的决心如此坚决，我也要更加努力了呢。那么，就请继续指教了。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_219.png?ver=20160315",
     "NAME": "瑞鹤",
@@ -15816,7 +15998,7 @@
     "DEFENCE": "33",
     "GAI_ZAO": "-",
     "ROCKETS_MAX": "0",
-    "BUILD_TIME": "-",
+    "BUILD_TIME": "4:40:00",
     "XING_YUN": "40",
     "SELL": "30/40/60/40",
     "LEVEL": "翔鹤型",
@@ -15834,7 +16016,7 @@
     "DEFENCE_MAX": "58"
   },
   {
-    "FOCUS": 22836,
+    "FOCUS": 26140,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "69",
     "SHAN_BI": "35",
@@ -15846,8 +16028,8 @@
     "ATTACK_MAX": "40",
     "LIFE_MAX": "62",
     "TYPE": "正规航母",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E7%BF%94%E9%B9%A4",
-    "CAN_BUILD": 0,
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E7%BF%94%E9%B9%A4",
+    "CAN_BUILD": 1,
     "WEDDING_TALK": "有任何话都可以找我诉说哦。那么，就让我服侍您休息吧，剩下的工作让我来处理。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_220.png?ver=20160315",
     "NAME": "翔鹤",
@@ -15907,7 +16089,7 @@
     "DEFENCE": "33",
     "GAI_ZAO": "-",
     "ROCKETS_MAX": "0",
-    "BUILD_TIME": "-",
+    "BUILD_TIME": "4:40:00",
     "XING_YUN": "10",
     "SELL": "30/40/60/40",
     "LEVEL": "翔鹤型",
@@ -15925,7 +16107,7 @@
     "DEFENCE_MAX": "58"
   },
   {
-    "FOCUS": 18113,
+    "FOCUS": 23317,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "63",
     "SHAN_BI": "35",
@@ -15937,7 +16119,7 @@
     "ATTACK_MAX": "40",
     "LIFE_MAX": "48",
     "TYPE": "正规航母",
-    "LINK_MENGBAI": null,
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E9%A3%9E%E9%BE%99",
     "CAN_BUILD": 0,
     "WEDDING_TALK": "在我眼里，您是最伟大的英雄。我们都要好好的，还有更多伟大的任务要由我们完成。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_221.png?ver=20160315",
@@ -16007,7 +16189,7 @@
     "STARS": "4",
     "DA_ZAI": "63",
     "ROCKETS": "0",
-    "DESC": "J国海军受条约限制，追求重武装设计，最终在30年代导致了友鹤事件，军舰设计师藤本喜久雄受此事件波及，很快就因压力病逝。而由他设计的苍龙级也被认为稳定不足，于是后续舰飞龙加大了吨位和防护，由于差别并不大，建成后飞龙和苍龙编为一队活动。从珍珠港到印度洋战役都有飞龙活跃的身影。中途岛战役中，飞龙躲过了U军第一波空袭，感到自己被武田信玄灵魂附体的山口多闻指挥残存的飞龙意图翻盘，受情报等因素影响，飞龙对约克城进行了两次袭击，山口则认为自己击沉了不同的U军航母。反应过来的U军航母进行反击，最终飞龙被企业号击沉。\n",
+    "DESC": "J国海军因受条约限制，过于追求舰船重武装设计，最终在30年代导致了友鹤事件。军舰设计师藤本喜久雄受此事件波及，很快就因压力病逝。而由他设计的苍龙型航空母舰也被认为稳定性不足，于是后续舰飞龙型加大了吨位和防护，由于差别并不大，建成后飞龙号和苍龙号编为一队活动。从珍珠港到印度洋战役都有飞龙号活跃的身影。中途岛战役中，飞龙号躲过了美军第一波空袭，感到自己被武田信玄灵魂附体的山口多闻指挥残存的飞龙进行猪突意图翻盘。受情报等因素影响，飞龙号对约克城号重复进行了两次袭击，而山口则认为自己击沉了不同的美军航母。反应过来的美军航母进行反击，最终飞龙号被企业号击沉。\n",
     "GANG_COST": "4.5",
     "FEN_BU": "[21,18,18,6]",
     "NATION": null,
@@ -16016,7 +16198,7 @@
     "DEFENCE_MAX": "52"
   },
   {
-    "FOCUS": 27287,
+    "FOCUS": 31651,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "75",
     "SHAN_BI": "30",
@@ -16028,7 +16210,7 @@
     "ATTACK_MAX": "40",
     "LIFE_MAX": "60",
     "TYPE": "正规航母",
-    "LINK_MENGBAI": null,
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E5%9F%83%E5%A1%9E%E5%85%8B%E6%96%AF",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "以指挥官的名义而战！以后可以堂堂正正说出这种话了呢。今后的战斗，我愿献上全部，与您共同面对。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_226.png?ver=20160315",
@@ -16107,7 +16289,7 @@
     "DEFENCE_MAX": "60"
   },
   {
-    "FOCUS": 9617,
+    "FOCUS": 12171,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "59",
     "SHAN_BI": "25",
@@ -16119,7 +16301,7 @@
     "ATTACK_MAX": "20",
     "LIFE_MAX": "55",
     "TYPE": "轻型航母",
-    "LINK_MENGBAI": null,
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E9%A3%9E%E9%B9%B0",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "这是只属于我和提督未来的蓝图，您要看看吗？",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_227.png?ver=20160315",
@@ -16189,7 +16371,7 @@
     "STARS": "3",
     "DA_ZAI": "48",
     "ROCKETS": "0",
-    "DESC": "飞鹰原为J国为奥运会准备的豪华邮轮出云丸，该船在建造过程就秘密准备改建为航母。国际形势变化后，出云丸直接按照航母标准建造完工，并命名为飞鹰号，除了防护和航速不足外，该级改造航母性能接近飞龙级。飞鹰号初次上阵是42年的阿留申作战。几个月之后的南太平洋海战，飞鹰因动力系统故障缺席。43年飞鹰号被潜艇击中，修理持续到了43年年底。44年著名的马里亚纳海战中，飞鹰被U军航母击沉。\n",
+    "DESC": "飞鹰号原为J国为奥运会准备的豪华邮轮出云丸号，该船在建造过程就秘密为改建航母预留了空间。国际形势变化后，出云丸号直接按照航母标准设计建造完工，并命名为飞鹰号，除了防护和航速不足外，该级改造航母性能接近飞龙型。飞鹰号初次上阵是42年的阿留申作战。几个月之后的南太平洋海战，飞鹰号因动力系统故障缺席。43年飞鹰号被潜艇击中，修理持续到了43年年底。44年著名的马里亚纳海战中，飞鹰被美军航母击沉。\n",
     "GANG_COST": "2.4",
     "FEN_BU": "[12,18,18]",
     "NATION": null,
@@ -16198,7 +16380,7 @@
     "DEFENCE_MAX": "36"
   },
   {
-    "FOCUS": 8164,
+    "FOCUS": 10302,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "59",
     "SHAN_BI": "25",
@@ -16210,7 +16392,7 @@
     "ATTACK_MAX": "20",
     "LIFE_MAX": "55",
     "TYPE": "轻型航母",
-    "LINK_MENGBAI": null,
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E9%9A%BC%E9%B9%B0",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "和你说了多少次了呀，做事要考虑到计划和战术，你这么莽撞行事（脸红）...我都不知道该怎么办了。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_228.png?ver=20160315",
@@ -16221,7 +16403,7 @@
     "EXP": "0/0/8/22",
     "SKILL_NAME": "-",
     "IS_OPENED": 1,
-    "DROP_INFO": "| <a href=\"/jsp/apps/cancollezh/maps/detailnew.jsp?detailid=2-1&boldid=228\" data-transition=\"flip\">2-1</a> || <a href=\"/jsp/apps/cancollezh/maps/detailnew.jsp?detailid=2-2&boldid=228\" data-transition=\"flip\">2-2</a> || <a href=\"/jsp/apps/cancollezh/maps/detailnew.jsp?detailid=2-5&boldid=228\" data-transition=\"flip\">2-5</a> |",
+    "DROP_INFO": "| <a href=\"/jsp/apps/cancollezh/maps/detailnew.jsp?detailid=2-1&boldid=228\" data-transition=\"flip\">2-1</a> || <a href=\"/jsp/apps/cancollezh/maps/detailnew.jsp?detailid=2-2&boldid=228\" data-transition=\"flip\">2-2</a> || <a href=\"/jsp/apps/cancollezh/maps/detailnew.jsp?detailid=2-4&boldid=228\" data-transition=\"flip\">2-4</a> || <a href=\"/jsp/apps/cancollezh/maps/detailnew.jsp?detailid=2-5&boldid=228\" data-transition=\"flip\">2-5</a> |",
     "ATTACK": "0",
     "MAX_DATA": {
       "MAXXINGYUN": 30,
@@ -16280,7 +16462,7 @@
     "STARS": "3",
     "DA_ZAI": "48",
     "ROCKETS": "0",
-    "DESC": "隼鹰号航母原为豪华邮轮橿原丸，是改造成飞鹰的出云丸的同型舰。和飞鹰一样，隼鹰最终也直接作为航母完工。42年10月的南太平洋海战中，隼鹰第一波舰载机被企业闪避，但击伤了南达。第二波攻击命中了正在被拖带的大黄蜂号航母。43年隼鹰和飞鹰一样也被潜艇击中，但最终修复。44年的马里亚纳海战中隼鹰也被命中，但侥幸未沉。此后缺乏飞行员的隼鹰被当做运输舰使用，44年11月执行运输任务时隼鹰遭到潜艇袭击，驱逐舰秋风替隼鹰挡下了鱼雷，但是在任务归途中，隼鹰还是遭到了潜艇围攻命中三雷，此后隼鹰一直搁置港内未能彻底修复，最终迎来J国战败。\n",
+    "DESC": "隼鹰号航母原为豪华邮轮橿原丸号，是改造成飞鹰号的出云丸号的同型舰。和飞鹰号一样，隼鹰号最终也直接作为航母完工。42年10月的南太平洋海战中，隼鹰号第一波舰载机被企业号闪避，但击伤了南达科他号。第二波攻击命中了正在被拖带的大黄蜂号航母。43年隼鹰号和飞鹰号一样也被潜艇击中，但最终修复。44年的马里亚纳海战中隼鹰号也被命中，侥幸未沉。此后缺乏飞行员的隼鹰号被当做运输舰使用，44年11月执行运输任务时隼鹰号遭到潜艇袭击，驱逐舰秋风号替隼鹰号挡下了鱼雷，但是在任务归途中，隼鹰号还是遭到了潜艇围攻，被命中三雷。此后隼鹰号一直搁置港内未能彻底修复，最终迎来J国战败。\n",
     "GANG_COST": "2.4",
     "FEN_BU": "[12,18,18]",
     "NATION": null,
@@ -16289,7 +16471,7 @@
     "DEFENCE_MAX": "36"
   },
   {
-    "FOCUS": 18311,
+    "FOCUS": 19329,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "48",
     "SHAN_BI": "35",
@@ -16301,7 +16483,7 @@
     "ATTACK_MAX": "61",
     "LIFE_MAX": "42",
     "TYPE": "重巡洋舰",
-    "LINK_MENGBAI": "-",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E6%9C%80%E4%B8%8A",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "想摸摸人家的联装炮？真是个可爱的小家伙。更多的地方也可以哟？哈哈，你脸红了哦~",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_233.png?ver=20160315",
@@ -16380,7 +16562,7 @@
     "DEFENCE_MAX": "48"
   },
   {
-    "FOCUS": 15320,
+    "FOCUS": 16109,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "48",
     "SHAN_BI": "35",
@@ -16392,7 +16574,7 @@
     "ATTACK_MAX": "61",
     "LIFE_MAX": "42",
     "TYPE": "重巡洋舰",
-    "LINK_MENGBAI": "-",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E4%B8%89%E9%9A%88",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "一会儿陪我去一个地方吧，有件重要的东西要给你看。嘻嘻嘻。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_234.png?ver=20160315",
@@ -16471,7 +16653,7 @@
     "DEFENCE_MAX": "48"
   },
   {
-    "FOCUS": 6489,
+    "FOCUS": 7670,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "48",
     "SHAN_BI": "35",
@@ -16483,7 +16665,7 @@
     "ATTACK_MAX": "61",
     "LIFE_MAX": "42",
     "TYPE": "重巡洋舰",
-    "LINK_MENGBAI": null,
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E9%93%83%E8%B0%B7",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "仪式结束之后的行动计划……提督跟我想的一样对吧？",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_235.png?ver=20160315",
@@ -16562,7 +16744,7 @@
     "DEFENCE_MAX": "48"
   },
   {
-    "FOCUS": 5992,
+    "FOCUS": 7356,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "48",
     "SHAN_BI": "35",
@@ -16574,7 +16756,7 @@
     "ATTACK_MAX": "61",
     "LIFE_MAX": "42",
     "TYPE": "重巡洋舰",
-    "LINK_MENGBAI": null,
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E7%86%8A%E9%87%8E",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "吼！既然是提督的命令，那就没办法啦。人……人家会加油的……",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_236.png?ver=20160315",
@@ -16653,7 +16835,7 @@
     "DEFENCE_MAX": "48"
   },
   {
-    "FOCUS": 42649,
+    "FOCUS": 46099,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "48",
     "SHAN_BI": "30",
@@ -16665,7 +16847,7 @@
     "ATTACK_MAX": "54",
     "LIFE_MAX": "49",
     "TYPE": "重巡洋舰",
-    "LINK_MENGBAI": "-",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E8%90%A8%E7%A6%8F%E5%85%8B",
     "CAN_BUILD": 0,
     "WEDDING_TALK": "没人能逃过我的眼睛，包括你的心…其实，我也是，我的心早已是您的俘虏了。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_237.png?ver=20160315",
@@ -16744,7 +16926,7 @@
     "DEFENCE_MAX": "41"
   },
   {
-    "FOCUS": 19184,
+    "FOCUS": 21073,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "19",
     "SHAN_BI": "30",
@@ -16756,7 +16938,7 @@
     "ATTACK_MAX": "50",
     "LIFE_MAX": "35",
     "TYPE": "轻巡洋舰",
-    "LINK_MENGBAI": "-",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E8%8E%B1%E6%AF%94%E9%94%A1",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "话说，是不是誓约之后，薪水和福利待遇就可以提高了？",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_249.png?ver=20160315",
@@ -16835,7 +17017,7 @@
     "DEFENCE_MAX": "46"
   },
   {
-    "FOCUS": 145178,
+    "FOCUS": 152970,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "17",
     "SHAN_BI": "15",
@@ -16847,7 +17029,7 @@
     "ATTACK_MAX": "39",
     "LIFE_MAX": "23",
     "TYPE": "轻巡洋舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E5%BA%94%E7%91%9E",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E5%BA%94%E7%91%9E",
     "CAN_BUILD": 0,
     "WEDDING_TALK": "应瑞。。真的很高兴呢，谢谢您提督。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_253.png?ver=20160315",
@@ -16926,7 +17108,7 @@
     "DEFENCE_MAX": "36"
   },
   {
-    "FOCUS": 58372,
+    "FOCUS": 62131,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "17",
     "SHAN_BI": "15",
@@ -16938,7 +17120,7 @@
     "ATTACK_MAX": "39",
     "LIFE_MAX": "24",
     "TYPE": "轻巡洋舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E8%82%87%E5%92%8C",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E8%82%87%E5%92%8C",
     "CAN_BUILD": 0,
     "WEDDING_TALK": "嗯。。提督不嫌弃我吗，以后我会听话的！",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_254.png?ver=20160315",
@@ -17017,7 +17199,7 @@
     "DEFENCE_MAX": "36"
   },
   {
-    "FOCUS": 16913,
+    "FOCUS": 19372,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "14",
     "SHAN_BI": "40",
@@ -17029,7 +17211,7 @@
     "ATTACK_MAX": "27",
     "LIFE_MAX": "13",
     "TYPE": "驱逐舰",
-    "LINK_MENGBAI": null,
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E7%9D%A6%E6%9C%88",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "唔...睦月也很开心呢...提督不会让我去执行危险任务吧？",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_260.png?ver=20160315",
@@ -17108,7 +17290,7 @@
     "DEFENCE_MAX": "20"
   },
   {
-    "FOCUS": 10568,
+    "FOCUS": 11909,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "16",
     "SHAN_BI": "37",
@@ -17120,7 +17302,7 @@
     "ATTACK_MAX": "30",
     "LIFE_MAX": "16",
     "TYPE": "驱逐舰",
-    "LINK_MENGBAI": null,
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E5%B2%9A",
     "CAN_BUILD": 0,
     "WEDDING_TALK": "这这这时候该怎么办才好呢？唔...谢谢？额额...对不起！我又搞砸了！",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_265.png?ver=20160315",
@@ -17199,7 +17381,189 @@
     "DEFENCE_MAX": "21"
   },
   {
-    "FOCUS": 81044,
+    "FOCUS": 3811,
+    "GAI_ZAO_INFO": "未开放",
+    "ZHEN_CHA_MAX": "16",
+    "SHAN_BI": "38",
+    "IMG_BB": "http://ima.ntwikis.com/cancollezh/20151119/M_BROKEN_269.png?ver=20160315",
+    "SKILL": "-",
+    "ID": 269,
+    "DAN": "20",
+    "DUI_KONG": "11",
+    "ATTACK_MAX": "28",
+    "LIFE_MAX": "19",
+    "TYPE": "驱逐舰",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/Z17",
+    "CAN_BUILD": 1,
+    "WEDDING_TALK": "长官一直以来的教导，Z17都铭记在心。如今能够站在这里，也是您的功劳。长官，非常感谢！今后，也要一起走下去哦！",
+    "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_269.png?ver=20160315",
+    "NAME": "Z17",
+    "OIL_COST": "0.48",
+    "ZHEN_CHA": "6",
+    "GAI_ZAO_USE": "未开放",
+    "EXP": "0/24/11/0",
+    "SKILL_NAME": "-",
+    "IS_OPENED": 1,
+    "DROP_INFO": "",
+    "ATTACK": "8",
+    "MAX_DATA": {
+      "MAXXINGYUN": 52,
+      "MINATTACK": 27,
+      "MINDEFENCE": 19,
+      "MAXYOU": 40,
+      "MAXSU_DU": "45.0",
+      "MAXATTACK": 41,
+      "MAXSHANBI": 120,
+      "MAXLIFE": 42,
+      "MAXDAN": 25,
+      "MINDAN": 15,
+      "MINDUIKONG": 38,
+      "MAXDUIQIAN": 80,
+      "MINXINGYUN": 2,
+      "TYPE": "驱逐舰",
+      "MINDAZAI": 0,
+      "MAXROCKET": 95,
+      "MINROCKET": 55,
+      "MAXDEFENCE": 47,
+      "MINZHENCHA": 1,
+      "MINSHANBI": 72,
+      "MINYOU": 10,
+      "MAXDAZAI": 0,
+      "MINLIFE": 13,
+      "MAXZHENCHA": 12,
+      "MAXDUIKONG": 75,
+      "MINSU_DU": "20.0",
+      "MINDUIQIAN": 46
+    },
+    "YOU": "10",
+    "IMG_PO": null,
+    "SKILL_INFO": "-",
+    "IMG": null,
+    "LIFE": "19",
+    "DUI_QIAN": "22",
+    "SHAN_BI_MAX": "78",
+    "ITEM_NUM": "2",
+    "TIME_COST": "0.5",
+    "GETTING_TALK": "长官好，这里是Z17，我可和姐姐们有很大的不同哦~不仅是舰装方面——啊！头上的可不是帽子……请认真听人说话啦！",
+    "PIN_YIN": "z17",
+    "SHE_CHENG": "短",
+    "NO": "1936型1号舰",
+    "SU_DU": "38.5",
+    "DUI_KONG_MAX": "41",
+    "WEAPON_INFO": "<a href=# onclick=\"weaponDetail('G国单装127毫米炮')\">G国单装127毫米炮</a>",
+    "DEFENCE": "9",
+    "GAI_ZAO": "-",
+    "ROCKETS_MAX": "74",
+    "BUILD_TIME": "0:22:00",
+    "XING_YUN": "7",
+    "SELL": "2/4/3/0",
+    "LEVEL": "1936型",
+    "NI_CHENG": "-",
+    "DUI_QIAN_MAX": "52",
+    "STARS": "2",
+    "DA_ZAI": "0",
+    "ROCKETS": "24",
+    "DESC": "G国1936型驱逐舰总体上加大了吨位，改善了舰艏设计以提高适航性。Z17（迪特尔·冯·勒德尔）号驱逐舰在纳尔维克海战中击伤了哥萨克人号，最终被英军击沉。",
+    "GANG_COST": "0.99",
+    "FEN_BU": "-",
+    "NATION": null,
+    "WEAPON": "G国单装127毫米炮",
+    "IMG_HEAD": "http://ima.ntwikis.com/cancollezh/20151119/S_NORMAL_269.png?ver=20160315",
+    "DEFENCE_MAX": "24"
+  },
+  {
+    "FOCUS": 2625,
+    "GAI_ZAO_INFO": "未开放",
+    "ZHEN_CHA_MAX": "16",
+    "SHAN_BI": "38",
+    "IMG_BB": "http://ima.ntwikis.com/cancollezh/20151119/M_BROKEN_270.png?ver=20160315",
+    "SKILL": "-",
+    "ID": 270,
+    "DAN": "20",
+    "DUI_KONG": "11",
+    "ATTACK_MAX": "28",
+    "LIFE_MAX": "19",
+    "TYPE": "驱逐舰",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/Z18",
+    "CAN_BUILD": 1,
+    "WEDDING_TALK": "如果是在您的怀抱中，我情愿就这样一直搁浅下去。（羞红脸）有点难为情呢……您就像暗礁一样，让我有点猝不及防而一头撞上了呢。但如果是在您的怀抱中，我情愿就这样一直搁浅下去。（羞红脸）有点难为情呢……",
+    "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_270.png?ver=20160315",
+    "NAME": "Z18",
+    "OIL_COST": "0.48",
+    "ZHEN_CHA": "6",
+    "GAI_ZAO_USE": "未开放",
+    "EXP": "0/24/11/0",
+    "SKILL_NAME": "-",
+    "IS_OPENED": 1,
+    "DROP_INFO": "",
+    "ATTACK": "8",
+    "MAX_DATA": {
+      "MAXXINGYUN": 52,
+      "MINATTACK": 27,
+      "MINDEFENCE": 19,
+      "MAXYOU": 40,
+      "MAXSU_DU": "45.0",
+      "MAXATTACK": 41,
+      "MAXSHANBI": 120,
+      "MAXLIFE": 42,
+      "MAXDAN": 25,
+      "MINDAN": 15,
+      "MINDUIKONG": 38,
+      "MAXDUIQIAN": 80,
+      "MINXINGYUN": 2,
+      "TYPE": "驱逐舰",
+      "MINDAZAI": 0,
+      "MAXROCKET": 95,
+      "MINROCKET": 55,
+      "MAXDEFENCE": 47,
+      "MINZHENCHA": 1,
+      "MINSHANBI": 72,
+      "MINYOU": 10,
+      "MAXDAZAI": 0,
+      "MINLIFE": 13,
+      "MAXZHENCHA": 12,
+      "MAXDUIKONG": 75,
+      "MINSU_DU": "20.0",
+      "MINDUIQIAN": 46
+    },
+    "YOU": "10",
+    "IMG_PO": null,
+    "SKILL_INFO": "-",
+    "IMG": null,
+    "LIFE": "19",
+    "DUI_QIAN": "22",
+    "SHAN_BI_MAX": "78",
+    "ITEM_NUM": "2",
+    "TIME_COST": "0.5",
+    "GETTING_TALK": "长官~Z18向您报道！我可是很强的，要不要现在就去演习场试试？相信我，一切问题都会迎刃而解的~",
+    "PIN_YIN": "z18",
+    "SHE_CHENG": "短",
+    "NO": "1936型2号舰",
+    "SU_DU": "38.5",
+    "DUI_KONG_MAX": "41",
+    "WEAPON_INFO": "<a href=# onclick=\"weaponDetail('G国单装127毫米炮')\">G国单装127毫米炮</a>",
+    "DEFENCE": "9",
+    "GAI_ZAO": "-",
+    "ROCKETS_MAX": "74",
+    "BUILD_TIME": "0:22:00",
+    "XING_YUN": "7",
+    "SELL": "2/4/3/0",
+    "LEVEL": "1936型",
+    "NI_CHENG": "-",
+    "DUI_QIAN_MAX": "52",
+    "STARS": "2",
+    "DA_ZAI": "0",
+    "ROCKETS": "24",
+    "DESC": "G国1936型驱逐舰六艘都参加了挪威战役，并在战役中损失了五艘。Z18（汉斯·吕德曼）在纳尔维克海战中被击伤，之后在海岸搁浅。",
+    "GANG_COST": "0.99",
+    "FEN_BU": "-",
+    "NATION": null,
+    "WEAPON": "G国单装127毫米炮",
+    "IMG_HEAD": "http://ima.ntwikis.com/cancollezh/20151119/S_NORMAL_270.png?ver=20160315",
+    "DEFENCE_MAX": "24"
+  },
+  {
+    "FOCUS": 84264,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "43",
     "SHAN_BI": "18",
@@ -17211,7 +17575,7 @@
     "ATTACK_MAX": "23",
     "LIFE_MAX": "10",
     "TYPE": "潜艇",
-    "LINK_MENGBAI": "-",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/U81",
     "CAN_BUILD": 0,
     "WEDDING_TALK": "（咕噜咕噜），长官给我勇气，冰冷的海水也不会让我发抖了。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_289.png?ver=20160315",
@@ -17290,7 +17654,7 @@
     "DEFENCE_MAX": "24"
   },
   {
-    "FOCUS": 25351,
+    "FOCUS": 26825,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "15",
     "SHAN_BI": "30",
@@ -17302,7 +17666,7 @@
     "ATTACK_MAX": "29",
     "LIFE_MAX": "10",
     "TYPE": "补给舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E8%8B%8F%E8%B5%AB%E5%B7%B4%E6%89%98%E5%B0%94",
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E8%8B%8F%E8%B5%AB%E5%B7%B4%E6%89%98%E5%B0%94",
     "CAN_BUILD": 0,
     "WEDDING_TALK": "“有一个东方古老故事，让我来告诉你，有一个将军，太伟大了不起，美丽的少女们，都想嫁给他。。。”我还没唱完呢，不要走呀~~~~",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_298.png?ver=20160315",
@@ -17381,7 +17745,7 @@
     "DEFENCE_MAX": "13"
   },
   {
-    "FOCUS": 15560,
+    "FOCUS": 17678,
     "GAI_ZAO_INFO": "未开放",
     "ZHEN_CHA_MAX": "16",
     "SHAN_BI": "37",
@@ -17393,7 +17757,7 @@
     "ATTACK_MAX": "29",
     "LIFE_MAX": "16",
     "TYPE": "驱逐舰",
-    "LINK_MENGBAI": null,
+    "LINK_MENGBAI": "http://www.zjsnrwiki.com/wiki/%E9%A9%AC%E6%B1%89",
     "CAN_BUILD": 1,
     "WEDDING_TALK": "我爱这片大海，如同爱着指挥官一样，直到永远。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_301.png?ver=20160315",
@@ -17472,7 +17836,7 @@
     "DEFENCE_MAX": "22"
   },
   {
-    "FOCUS": 47415,
+    "FOCUS": 51263,
     "GAI_ZAO_INFO": "<a href=# onclick=\"loadDetail('1')\">本体</a>→改一",
     "ZHEN_CHA_MAX": "43",
     "SHAN_BI": "33",
@@ -17484,7 +17848,7 @@
     "ATTACK_MAX": "103",
     "LIFE_MAX": "80",
     "TYPE": "战列巡洋舰",
-    "LINK_MENGBAI": "-",
+    "LINK_MENGBAI": null,
     "CAN_BUILD": 0,
     "WEDDING_TALK": "约定好了哦，这场战争结束以后就一起回到这里。享受蓝天，海风，恬静的下午茶。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_1001.png?ver=20160315",
@@ -17563,7 +17927,7 @@
     "DEFENCE_MAX": "87"
   },
   {
-    "FOCUS": 39055,
+    "FOCUS": 41077,
     "GAI_ZAO_INFO": "<a href=# onclick=\"loadDetail('4')\">本体</a>→改一",
     "ZHEN_CHA_MAX": "40",
     "SHAN_BI": "26",
@@ -17575,9 +17939,9 @@
     "ATTACK_MAX": "84",
     "LIFE_MAX": "79",
     "TYPE": "航空战列舰",
-    "LINK_MENGBAI": "-",
+    "LINK_MENGBAI": null,
     "CAN_BUILD": 0,
-    "WEDDING_TALK": "啊，讨厌，不要碰我的舰桥，堆得那么高也不是我乐意的。嗯?不许看妹妹！如果提督你真的非常想的话...",
+    "WEDDING_TALK": "嗯嗯！优胜优胜！不仅获得了改造的机会，现在还跟提督缔结了契约！哼哼，这就是姐姐的优势哦！嘿！",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_1004.png?ver=20160315",
     "NAME": "伊势（改①）",
     "OIL_COST": "2.5",
@@ -17626,7 +17990,7 @@
     "SHAN_BI_MAX": "49",
     "ITEM_NUM": "4",
     "TIME_COST": "1.0",
-    "GETTING_TALK": "伊势航战改装完毕，同时拥有战列舰和航空母舰的能力是不是很厉害呢？",
+    "GETTING_TALK": "航空战列舰伊势登场！梦寐以求的飞行编队，让我们满载出击吧！请下达命令，提督大人！",
     "PIN_YIN": "yishigai",
     "SHE_CHENG": "长",
     "NO": "伊势型1番舰",
@@ -17654,7 +18018,7 @@
     "DEFENCE_MAX": "87"
   },
   {
-    "FOCUS": 14708,
+    "FOCUS": 16387,
     "GAI_ZAO_INFO": "<a href=# onclick=\"loadDetail('5')\">本体</a>→改一",
     "ZHEN_CHA_MAX": "40",
     "SHAN_BI": "26",
@@ -17668,7 +18032,7 @@
     "TYPE": "航空战列舰",
     "LINK_MENGBAI": null,
     "CAN_BUILD": 0,
-    "WEDDING_TALK": "出击，开火，进击！提督你有事找我？...完全没心里准备，但胸口莫名暖暖的。",
+    "WEDDING_TALK": "嘛嘛~提督大人，就这样想跟我缔结契约吗？日向可是大家的偶像，要是私自——骗你的~如果是提督大人的话，怎么样都可以哦~",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_1005.png?ver=20160315",
     "NAME": "日向（改①）",
     "OIL_COST": "2.5",
@@ -17717,7 +18081,7 @@
     "SHAN_BI_MAX": "49",
     "ITEM_NUM": "4",
     "TIME_COST": "1.0",
-    "GETTING_TALK": "日向也改装完毕了，今后就能参加更多种类的任务了呢。",
+    "GETTING_TALK": "航空战列舰日向~改造之后的姿态是不是让提督大人眼前一亮呢？嘿嘿~这可是不输给偶像的笑容哦~",
     "PIN_YIN": "rixiang",
     "SHE_CHENG": "长",
     "NO": "伊势型2番舰",
@@ -17745,7 +18109,7 @@
     "DEFENCE_MAX": "87"
   },
   {
-    "FOCUS": 44311,
+    "FOCUS": 48372,
     "GAI_ZAO_INFO": "<a href=# onclick=\"loadDetail('6')\">本体</a>→改一",
     "ZHEN_CHA_MAX": "47",
     "SHAN_BI": "30",
@@ -17757,7 +18121,7 @@
     "ATTACK_MAX": "102",
     "LIFE_MAX": "100",
     "TYPE": "战列舰",
-    "LINK_MENGBAI": "-",
+    "LINK_MENGBAI": null,
     "CAN_BUILD": 0,
     "WEDDING_TALK": "通往巅峰的路总是孤独的，能和您一起，真是我无上的荣耀。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_1006.png?ver=20160315",
@@ -17836,7 +18200,7 @@
     "DEFENCE_MAX": "100"
   },
   {
-    "FOCUS": 43598,
+    "FOCUS": 45838,
     "GAI_ZAO_INFO": "<a href=# onclick=\"loadDetail('8')\">本体</a>→改一",
     "ZHEN_CHA_MAX": "41",
     "SHAN_BI": "23",
@@ -17848,7 +18212,7 @@
     "ATTACK_MAX": "109",
     "LIFE_MAX": "77",
     "TYPE": "战列舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E7%BA%B3%E5%B0%94%E9%80%8A",
+    "LINK_MENGBAI": null,
     "CAN_BUILD": 0,
     "WEDDING_TALK": "请放心，纳尔逊一定恪尽职守保护阁下，毕竟这已经是吾辈一生的责任了呢。如果对未来感到迷茫，随时都可以依靠我，我会和你共同面对。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_1008.png?ver=20160315",
@@ -17927,7 +18291,7 @@
     "DEFENCE_MAX": "102"
   },
   {
-    "FOCUS": 41943,
+    "FOCUS": 44382,
     "GAI_ZAO_INFO": "<a href=# onclick=\"loadDetail('9')\">本体</a>→改一",
     "ZHEN_CHA_MAX": "41",
     "SHAN_BI": "23",
@@ -17939,7 +18303,7 @@
     "ATTACK_MAX": "109",
     "LIFE_MAX": "76",
     "TYPE": "战列舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E7%BD%97%E5%BE%B7%E5%B0%BC",
+    "LINK_MENGBAI": null,
     "CAN_BUILD": 0,
     "WEDDING_TALK": "有了阁下的认可，我一定会有更出色的发挥的。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_1009.png?ver=20160315",
@@ -18018,7 +18382,7 @@
     "DEFENCE_MAX": "102"
   },
   {
-    "FOCUS": 45613,
+    "FOCUS": 48264,
     "GAI_ZAO_INFO": "<a href=# onclick=\"loadDetail('10')\">本体</a>→改一",
     "ZHEN_CHA_MAX": "43",
     "SHAN_BI": "30",
@@ -18030,7 +18394,7 @@
     "ATTACK_MAX": "100",
     "LIFE_MAX": "79",
     "TYPE": "战列舰",
-    "LINK_MENGBAI": "-",
+    "LINK_MENGBAI": null,
     "CAN_BUILD": 0,
     "WEDDING_TALK": "我和您可以走到今天，绝不仅仅是光阴的顺水推舟。这一切来的太过突然，又注定是昙花一现，真希望时间就此凝固，让你我命运的交织化为永恒。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_1010.png?ver=20160315",
@@ -18109,7 +18473,7 @@
     "DEFENCE_MAX": "100"
   },
   {
-    "FOCUS": 28374,
+    "FOCUS": 29794,
     "GAI_ZAO_INFO": "<a href=# onclick=\"loadDetail('11')\">本体</a>→改一",
     "ZHEN_CHA_MAX": "40",
     "SHAN_BI": "19",
@@ -18121,7 +18485,7 @@
     "ATTACK_MAX": "90",
     "LIFE_MAX": "72",
     "TYPE": "战列舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E5%86%85%E5%8D%8E%E8%BE%BE",
+    "LINK_MENGBAI": null,
     "CAN_BUILD": 0,
     "WEDDING_TALK": "看来，今天是我一辈子运气最好的一天了呐。谢谢你哟少年。啊，以后应该换个称呼了呐。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_1011.png?ver=20160315",
@@ -18200,7 +18564,7 @@
     "DEFENCE_MAX": "93"
   },
   {
-    "FOCUS": 19048,
+    "FOCUS": 20097,
     "GAI_ZAO_INFO": "<a href=# onclick=\"loadDetail('12')\">本体</a>→改一",
     "ZHEN_CHA_MAX": "40",
     "SHAN_BI": "19",
@@ -18212,7 +18576,7 @@
     "ATTACK_MAX": "90",
     "LIFE_MAX": "72",
     "TYPE": "战列舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E4%BF%84%E5%85%8B%E6%8B%89%E8%8D%B7%E9%A9%AC",
+    "LINK_MENGBAI": null,
     "CAN_BUILD": 0,
     "WEDDING_TALK": "能陪伴在司令官身边是我的荣幸，愿风之女神一直指引我们前行吧。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_1012.png?ver=20160315",
@@ -18291,7 +18655,7 @@
     "DEFENCE_MAX": "93"
   },
   {
-    "FOCUS": 80673,
+    "FOCUS": 85247,
     "GAI_ZAO_INFO": "<a href=# onclick=\"loadDetail('13')\">本体</a>→改一",
     "ZHEN_CHA_MAX": "38",
     "SHAN_BI": "30",
@@ -18303,9 +18667,9 @@
     "ATTACK_MAX": "89",
     "LIFE_MAX": "64",
     "TYPE": "战列舰",
-    "LINK_MENGBAI": "-",
+    "LINK_MENGBAI": null,
     "CAN_BUILD": 0,
-    "WEDDING_TALK": "你在神气什么？能够和我缔结契约可是你的运气！我是绝不会认可你的实力的，哼！喂，你那是什么眼神！什…什么是傲娇啊！！！",
+    "WEDDING_TALK": "唔！唔唔哦...原，原来如此，司令官也被我的魅力给迷得神魂颠倒了吗...哼，早就预料到了。不...不过看你的态度还诚恳，我我我可以答答答答应——不许花心哦！",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_1013.png?ver=20160315",
     "NAME": "安德莉亚多利亚（改①）",
     "OIL_COST": "2.25",
@@ -18382,7 +18746,7 @@
     "DEFENCE_MAX": "89"
   },
   {
-    "FOCUS": 53114,
+    "FOCUS": 55493,
     "GAI_ZAO_INFO": "<a href=# onclick=\"loadDetail('18')\">本体</a>→改一",
     "ZHEN_CHA_MAX": "42",
     "SHAN_BI": "36",
@@ -18394,7 +18758,7 @@
     "ATTACK_MAX": "93",
     "LIFE_MAX": "70",
     "TYPE": "战列巡洋舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E5%A3%B0%E6%9C%9B",
+    "LINK_MENGBAI": null,
     "CAN_BUILD": 0,
     "WEDDING_TALK": "主人，看来您已经相当稳重了，声望也非常高兴呢。那么，今后就请多指教了。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_1018.png?ver=20160315",
@@ -18473,7 +18837,7 @@
     "DEFENCE_MAX": "80"
   },
   {
-    "FOCUS": 30576,
+    "FOCUS": 32381,
     "GAI_ZAO_INFO": "<a href=# onclick=\"loadDetail('19')\">本体</a>→改一",
     "ZHEN_CHA_MAX": "39",
     "SHAN_BI": "39",
@@ -18485,9 +18849,9 @@
     "ATTACK_MAX": "88",
     "LIFE_MAX": "70",
     "TYPE": "战列巡洋舰",
-    "LINK_MENGBAI": "-",
+    "LINK_MENGBAI": null,
     "CAN_BUILD": 0,
-    "WEDDING_TALK": "唉...唉？虽然吓了一跳，但是反击早就在期待了呢。让我永远服侍您吧。",
+    "WEDDING_TALK": "终于等到了这一天……一直以来的努力收获了果实。这枚戒指，是我梦寐以求的宝物。能够陪伴在您身边，真是太好了……",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_1019.png?ver=20160315",
     "NAME": "反击（改①）",
     "OIL_COST": "2.88",
@@ -18564,7 +18928,7 @@
     "DEFENCE_MAX": "78"
   },
   {
-    "FOCUS": 33382,
+    "FOCUS": 35153,
     "GAI_ZAO_INFO": "<a href=# onclick=\"loadDetail('28')\">本体</a>→改一",
     "ZHEN_CHA_MAX": "85",
     "SHAN_BI": "43",
@@ -18576,7 +18940,7 @@
     "ATTACK_MAX": "30",
     "LIFE_MAX": "48",
     "TYPE": "正规航母",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E7%AA%81%E5%87%BB%E8%80%85",
+    "LINK_MENGBAI": null,
     "CAN_BUILD": 0,
     "WEDDING_TALK": "司令官您竟然向我告白了...好开心啊...不过，您认可的目光，在我的眼里远比全世界的瞩目更加闪亮。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_1028.png?ver=20160315",
@@ -18655,7 +19019,7 @@
     "DEFENCE_MAX": "48"
   },
   {
-    "FOCUS": 34690,
+    "FOCUS": 36440,
     "GAI_ZAO_INFO": "<a href=# onclick=\"loadDetail('29')\">本体</a>→改一",
     "ZHEN_CHA_MAX": "87",
     "SHAN_BI": "36",
@@ -18667,9 +19031,9 @@
     "ATTACK_MAX": "40",
     "LIFE_MAX": "73",
     "TYPE": "正规航母",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E5%88%97%E5%85%8B%E6%98%9F%E6%95%A6",
+    "LINK_MENGBAI": null,
     "CAN_BUILD": 0,
-    "WEDDING_TALK": "您真的是越来越优秀了呢，很高兴能和司令缔结契约~今晚就让我来为您下厨吧，可不要松懈了训练哦，不然，我会惩罚你的哟~嘻嘻~",
+    "WEDDING_TALK": "从另一个角度来思考，能走到这里也是司令官阁下变强的证明吧？那么，我很高兴能和司令官阁下缔结契约~不过以后要是松懈练习的话我说不定会后悔哦？哈哈，说笑的~您当真了吗？",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_1029.png?ver=20160315",
     "NAME": "列克星敦（改①）",
     "OIL_COST": "2.08",
@@ -18746,7 +19110,7 @@
     "DEFENCE_MAX": "74"
   },
   {
-    "FOCUS": 26429,
+    "FOCUS": 27766,
     "GAI_ZAO_INFO": "<a href=# onclick=\"loadDetail('30')\">本体</a>→改一",
     "ZHEN_CHA_MAX": "87",
     "SHAN_BI": "36",
@@ -18758,7 +19122,7 @@
     "ATTACK_MAX": "40",
     "LIFE_MAX": "73",
     "TYPE": "正规航母",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E8%90%A8%E6%8B%89%E6%89%98%E5%8A%A0",
+    "LINK_MENGBAI": null,
     "CAN_BUILD": 0,
     "WEDDING_TALK": "呜恩~除了姐姐以外，把司令官也装在心里是可以的哟！不过不许认错人哦！我可是有黑色线条标记的！",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_1030.png?ver=20160315",
@@ -18837,7 +19201,7 @@
     "DEFENCE_MAX": "74"
   },
   {
-    "FOCUS": 20679,
+    "FOCUS": 22711,
     "GAI_ZAO_INFO": "<a href=# onclick=\"loadDetail('36')\">本体</a>→改一",
     "ZHEN_CHA_MAX": "62",
     "SHAN_BI": "36",
@@ -18849,7 +19213,7 @@
     "ATTACK_MAX": "69",
     "LIFE_MAX": "61",
     "TYPE": "重巡洋舰",
-    "LINK_MENGBAI": "-",
+    "LINK_MENGBAI": null,
     "CAN_BUILD": 0,
     "WEDDING_TALK": "就喜欢和长官这样强大的人。跟你在一起，肯定能有无尽的乐子，你说是不是？",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_1036.png?ver=20160315",
@@ -18928,7 +19292,7 @@
     "DEFENCE_MAX": "50"
   },
   {
-    "FOCUS": 42146,
+    "FOCUS": 44316,
     "GAI_ZAO_INFO": "<a href=# onclick=\"loadDetail('37')\">本体</a>→改一",
     "ZHEN_CHA_MAX": "59",
     "SHAN_BI": "41",
@@ -18940,7 +19304,7 @@
     "ATTACK_MAX": "66",
     "LIFE_MAX": "62",
     "TYPE": "重巡洋舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E5%B8%83%E5%90%95%E6%AD%87%E5%B0%94",
+    "LINK_MENGBAI": null,
     "CAN_BUILD": 0,
     "WEDDING_TALK": "有了长官的嘉奖，任何敌人都无法阻挡我们的前进，下次作战我一定会立下赫赫战功，让所有人都知道我才是最强的。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_1037.png?ver=20160315",
@@ -19019,7 +19383,7 @@
     "DEFENCE_MAX": "52"
   },
   {
-    "FOCUS": 45153,
+    "FOCUS": 47247,
     "GAI_ZAO_INFO": "<a href=# onclick=\"loadDetail('38')\">本体</a>→改一",
     "ZHEN_CHA_MAX": "64",
     "SHAN_BI": "36",
@@ -19031,7 +19395,7 @@
     "ATTACK_MAX": "61",
     "LIFE_MAX": "69",
     "TYPE": "重巡洋舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E6%AC%A7%E6%A0%B9%E4%BA%B2%E7%8E%8B",
+    "LINK_MENGBAI": null,
     "CAN_BUILD": 0,
     "WEDDING_TALK": "选这个时候这种场合，您是在欺负我吗？我不想在您面前表露出软弱的一面...因为我知道，一直守护着我的是您... ",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_1038.png?ver=20160315",
@@ -19110,7 +19474,7 @@
     "DEFENCE_MAX": "70"
   },
   {
-    "FOCUS": 30191,
+    "FOCUS": 33423,
     "GAI_ZAO_INFO": "<a href=# onclick=\"loadDetail('39')\">本体</a>→改一",
     "ZHEN_CHA_MAX": "59",
     "SHAN_BI": "37",
@@ -19187,7 +19551,7 @@
     "XING_YUN": "20",
     "SELL": "30/40/30/0",
     "LEVEL": "威奇塔级",
-    "NI_CHENG": "-",
+    "NI_CHENG": "欧派塔",
     "DUI_QIAN_MAX": "0",
     "STARS": "5",
     "DA_ZAI": "6",
@@ -19201,7 +19565,7 @@
     "DEFENCE_MAX": "52"
   },
   {
-    "FOCUS": 47878,
+    "FOCUS": 50405,
     "GAI_ZAO_INFO": "<a href=# onclick=\"loadDetail('40')\">本体</a>→改一",
     "ZHEN_CHA_MAX": "60",
     "SHAN_BI": "37",
@@ -19213,7 +19577,7 @@
     "ATTACK_MAX": "73",
     "LIFE_MAX": "58",
     "TYPE": "重巡洋舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E6%98%86%E8%A5%BF",
+    "LINK_MENGBAI": null,
     "CAN_BUILD": 0,
     "WEDDING_TALK": "喜欢我的帽子？就一会儿的话，和司令官的帽子交换下也是可以的哦！嘿，戴上了，怎么样~好看么？",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_1040.png?ver=20160315",
@@ -19292,7 +19656,7 @@
     "DEFENCE_MAX": "56"
   },
   {
-    "FOCUS": 42321,
+    "FOCUS": 44362,
     "GAI_ZAO_INFO": "<a href=# onclick=\"loadDetail('41')\">本体</a>→改一",
     "ZHEN_CHA_MAX": "30",
     "SHAN_BI": "43",
@@ -19304,7 +19668,7 @@
     "ATTACK_MAX": "46",
     "LIFE_MAX": "38",
     "TYPE": "轻巡洋舰",
-    "LINK_MENGBAI": "-",
+    "LINK_MENGBAI": null,
     "CAN_BUILD": 0,
     "WEDDING_TALK": "提督...难道说，你犯下了什么需要上军事法庭的严重错误？贿赂我是没用的，请尽快坦白错误，争取宽大处理...恩...“我喜欢你”吗...没有听过的问题呢...唉？！",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_1041.png?ver=20160315",
@@ -19383,7 +19747,7 @@
     "DEFENCE_MAX": "32"
   },
   {
-    "FOCUS": 14489,
+    "FOCUS": 16144,
     "GAI_ZAO_INFO": "<a href=# onclick=\"loadDetail('42')\">本体</a>→改一",
     "ZHEN_CHA_MAX": "30",
     "SHAN_BI": "43",
@@ -19474,7 +19838,7 @@
     "DEFENCE_MAX": "32"
   },
   {
-    "FOCUS": 20830,
+    "FOCUS": 23575,
     "GAI_ZAO_INFO": "<a href=# onclick=\"loadDetail('45')\">本体</a>→改一",
     "ZHEN_CHA_MAX": "32",
     "SHAN_BI": "45",
@@ -19565,7 +19929,7 @@
     "DEFENCE_MAX": "33"
   },
   {
-    "FOCUS": 53461,
+    "FOCUS": 56593,
     "GAI_ZAO_INFO": "<a href=# onclick=\"loadDetail('46')\">本体</a>→改一",
     "ZHEN_CHA_MAX": "36",
     "SHAN_BI": "60",
@@ -19577,7 +19941,7 @@
     "ATTACK_MAX": "52",
     "LIFE_MAX": "34",
     "TYPE": "轻巡洋舰",
-    "LINK_MENGBAI": "-",
+    "LINK_MENGBAI": null,
     "CAN_BUILD": 0,
     "WEDDING_TALK": "比起战斗，和提督在一起的时光，夕张觉得更开心呢！要陪我做更多试验哦？",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_1046.png?ver=20160315",
@@ -19656,7 +20020,7 @@
     "DEFENCE_MAX": "35"
   },
   {
-    "FOCUS": 44004,
+    "FOCUS": 46455,
     "GAI_ZAO_INFO": "<a href=# onclick=\"loadDetail('54')\">本体</a>→改一",
     "ZHEN_CHA_MAX": "34",
     "SHAN_BI": "38",
@@ -19668,7 +20032,7 @@
     "ATTACK_MAX": "49",
     "LIFE_MAX": "39",
     "TYPE": "轻巡洋舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E6%9B%99%E5%85%89%E5%A5%B3%E7%A5%9E",
+    "LINK_MENGBAI": null,
     "CAN_BUILD": 0,
     "WEDDING_TALK": "无论身在何方，我都将是您可以依靠的港湾。您将是港湾中唯一的船舶。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_1054.png?ver=20160315",
@@ -19747,7 +20111,7 @@
     "DEFENCE_MAX": "42"
   },
   {
-    "FOCUS": 9952,
+    "FOCUS": 12880,
     "GAI_ZAO_INFO": "<a href=# onclick=\"loadDetail('55')\">本体</a>→改一",
     "ZHEN_CHA_MAX": "28",
     "SHAN_BI": "40",
@@ -19838,7 +20202,7 @@
     "DEFENCE_MAX": "38"
   },
   {
-    "FOCUS": 46298,
+    "FOCUS": 48729,
     "GAI_ZAO_INFO": "<a href=# onclick=\"loadDetail('58')\">本体</a>→改一",
     "ZHEN_CHA_MAX": "37",
     "SHAN_BI": "39",
@@ -19850,7 +20214,7 @@
     "ATTACK_MAX": "71",
     "LIFE_MAX": "48",
     "TYPE": "轻巡洋舰",
-    "LINK_MENGBAI": "-",
+    "LINK_MENGBAI": null,
     "CAN_BUILD": 0,
     "WEDDING_TALK": "唉？司令官居然会向我告白？我一直以为我才是主动的那一方呢，不过无论是害羞的司令官，还是努力的司令官我都很喜欢呢。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_1058.png?ver=20160315",
@@ -19929,7 +20293,7 @@
     "DEFENCE_MAX": "55"
   },
   {
-    "FOCUS": 34139,
+    "FOCUS": 35846,
     "GAI_ZAO_INFO": "<a href=# onclick=\"loadDetail('59')\">本体</a>→改一",
     "ZHEN_CHA_MAX": "52",
     "SHAN_BI": "39",
@@ -19941,7 +20305,7 @@
     "ATTACK_MAX": "71",
     "LIFE_MAX": "48",
     "TYPE": "轻巡洋舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E6%B5%B7%E4%BC%A6%E5%A8%9C",
+    "LINK_MENGBAI": null,
     "CAN_BUILD": 0,
     "WEDDING_TALK": "在这战争年代，无论是怎样的结局，海伦娜都有所觉悟了。能得到您的承认，已经是我这一生最幸福的事情了。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_1059.png?ver=20160315",
@@ -20020,7 +20384,7 @@
     "DEFENCE_MAX": "57"
   },
   {
-    "FOCUS": 48583,
+    "FOCUS": 51311,
     "GAI_ZAO_INFO": "<a href=# onclick=\"loadDetail('60')\">本体</a>→改一",
     "ZHEN_CHA_MAX": "33",
     "SHAN_BI": "32",
@@ -20032,7 +20396,7 @@
     "ATTACK_MAX": "48",
     "LIFE_MAX": "35",
     "TYPE": "轻巡洋舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E5%AE%81%E6%B5%B7",
+    "LINK_MENGBAI": null,
     "CAN_BUILD": 0,
     "WEDDING_TALK": "请让我把这份爱意牢牢地藏在心里，这是只属于我和提督两个人的小秘密哦~！约定好了。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_1060.png?ver=20160315",
@@ -20111,7 +20475,7 @@
     "DEFENCE_MAX": "39"
   },
   {
-    "FOCUS": 44779,
+    "FOCUS": 47299,
     "GAI_ZAO_INFO": "<a href=# onclick=\"loadDetail('61')\">本体</a>→改一",
     "ZHEN_CHA_MAX": "33",
     "SHAN_BI": "30",
@@ -20123,7 +20487,7 @@
     "ATTACK_MAX": "48",
     "LIFE_MAX": "35",
     "TYPE": "轻巡洋舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E5%B9%B3%E6%B5%B7",
+    "LINK_MENGBAI": null,
     "CAN_BUILD": 0,
     "WEDDING_TALK": "什么？平海是舰队第一？哎嘿嘿，最喜欢提督了~！",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_1061.png?ver=20160315",
@@ -20202,7 +20566,7 @@
     "DEFENCE_MAX": "39"
   },
   {
-    "FOCUS": 46117,
+    "FOCUS": 48411,
     "GAI_ZAO_INFO": "<a href=# onclick=\"loadDetail('68')\">本体</a>→改一",
     "ZHEN_CHA_MAX": "32",
     "SHAN_BI": "52",
@@ -20214,9 +20578,9 @@
     "ATTACK_MAX": "37",
     "LIFE_MAX": "30",
     "TYPE": "驱逐舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E6%99%93",
+    "LINK_MENGBAI": null,
     "CAN_BUILD": 0,
-    "WEDDING_TALK": "我之前的表现挺不错吧，要努力夸赞我哦，我将一如既往的成为你的支柱。",
+    "WEDDING_TALK": "哼哼，被完美的晓大人给迷住了吗？如果你真的这么想的话，晓大人破例接受你也没有关系哦！",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_1068.png?ver=20160315",
     "NAME": "晓（改①）",
     "OIL_COST": "0.48",
@@ -20265,7 +20629,7 @@
     "SHAN_BI_MAX": "92",
     "ITEM_NUM": "3",
     "TIME_COST": "0.5",
-    "GETTING_TALK": "晓不在的时间，提督有没有想我呐？",
+    "GETTING_TALK": "晓型驱逐舰1番舰——晓，改造完成。无论是什么事情，提督都可以放心的交给我哦！",
     "PIN_YIN": "xiaogai",
     "SHE_CHENG": "短",
     "NO": "晓型1番舰",
@@ -20293,7 +20657,7 @@
     "DEFENCE_MAX": "38"
   },
   {
-    "FOCUS": 52845,
+    "FOCUS": 55359,
     "GAI_ZAO_INFO": "<a href=# onclick=\"loadDetail('69')\">本体</a>→改一",
     "ZHEN_CHA_MAX": "31",
     "SHAN_BI": "52",
@@ -20305,7 +20669,7 @@
     "ATTACK_MAX": "38",
     "LIFE_MAX": "35",
     "TYPE": "驱逐舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E5%93%8D",
+    "LINK_MENGBAI": null,
     "CAN_BUILD": 0,
     "WEDDING_TALK": "对我来说，您就像是面包和空气一样重要，但是给我的这个戒指需要消耗不少资源吧，这是在破坏祖国的建设哦...",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_1069.png?ver=20160315",
@@ -20384,7 +20748,7 @@
     "DEFENCE_MAX": "40"
   },
   {
-    "FOCUS": 41145,
+    "FOCUS": 43382,
     "GAI_ZAO_INFO": "<a href=# onclick=\"loadDetail('70')\">本体</a>→改一",
     "ZHEN_CHA_MAX": "37",
     "SHAN_BI": "52",
@@ -20396,7 +20760,7 @@
     "ATTACK_MAX": "37",
     "LIFE_MAX": "30",
     "TYPE": "驱逐舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E9%9B%B7",
+    "LINK_MENGBAI": null,
     "CAN_BUILD": 0,
     "WEDDING_TALK": "果然提督你还是缺不了我啊。哼，之前对我的照顾，我会回报你的，另外，别想多了！",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_1070.png?ver=20160315",
@@ -20475,7 +20839,7 @@
     "DEFENCE_MAX": "38"
   },
   {
-    "FOCUS": 26938,
+    "FOCUS": 29098,
     "GAI_ZAO_INFO": "<a href=# onclick=\"loadDetail('71')\">本体</a>→改一",
     "ZHEN_CHA_MAX": "37",
     "SHAN_BI": "52",
@@ -20487,7 +20851,7 @@
     "ATTACK_MAX": "37",
     "LIFE_MAX": "30",
     "TYPE": "驱逐舰",
-    "LINK_MENGBAI": "-",
+    "LINK_MENGBAI": null,
     "CAN_BUILD": 0,
     "WEDDING_TALK": "恩，约会一次看看也是可以的哦~！表现好的话，就给你转正。嘻嘻",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_1071.png?ver=20160315",
@@ -20538,7 +20902,7 @@
     "SHAN_BI_MAX": "92",
     "ITEM_NUM": "3",
     "TIME_COST": "0.5",
-    "GETTING_TALK": "改装完成的电看上去是不是很厉害？实际上就是很厉害哟。",
+    "GETTING_TALK": "大老远的就看见提督喜悦的表情了哦，就这么期待着我吗？晓型驱逐舰4番舰——电，再次回到您的身边。",
     "PIN_YIN": "dian",
     "SHE_CHENG": "短",
     "NO": "晓型4番舰",
@@ -20566,7 +20930,7 @@
     "DEFENCE_MAX": "38"
   },
   {
-    "FOCUS": 47060,
+    "FOCUS": 49663,
     "GAI_ZAO_INFO": "<a href=# onclick=\"loadDetail('72')\">本体</a>→改一",
     "ZHEN_CHA_MAX": "38",
     "SHAN_BI": "51",
@@ -20578,7 +20942,7 @@
     "ATTACK_MAX": "40",
     "LIFE_MAX": "30",
     "TYPE": "驱逐舰",
-    "LINK_MENGBAI": "-",
+    "LINK_MENGBAI": null,
     "CAN_BUILD": 0,
     "WEDDING_TALK": "看来提督认真考虑过了的。恩，提督的重视，和一直以来的照顾，非常感谢！",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_1072.png?ver=20160315",
@@ -20657,7 +21021,7 @@
     "DEFENCE_MAX": "38"
   },
   {
-    "FOCUS": 30663,
+    "FOCUS": 33203,
     "GAI_ZAO_INFO": "<a href=# onclick=\"loadDetail('73')\">本体</a>→改一",
     "ZHEN_CHA_MAX": "37",
     "SHAN_BI": "51",
@@ -20669,9 +21033,9 @@
     "ATTACK_MAX": "37",
     "LIFE_MAX": "30",
     "TYPE": "驱逐舰",
-    "LINK_MENGBAI": "-",
+    "LINK_MENGBAI": null,
     "CAN_BUILD": 0,
-    "WEDDING_TALK": "终于注意到我了吗？提督还真是粗心……算了，原谅你了，以后，请多指教。",
+    "WEDDING_TALK": "这样子很困扰啊…提督一直以来都是按照自己的想法行事，完全没有考虑我的感受。提督——你真的，是个笨蛋呢。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_1073.png?ver=20160315",
     "NAME": "敷波（改①）",
     "OIL_COST": "0.48",
@@ -20748,7 +21112,7 @@
     "DEFENCE_MAX": "38"
   },
   {
-    "FOCUS": 44340,
+    "FOCUS": 46783,
     "GAI_ZAO_INFO": "<a href=# onclick=\"loadDetail('74')\">本体</a>→改一",
     "ZHEN_CHA_MAX": "33",
     "SHAN_BI": "48",
@@ -20760,9 +21124,9 @@
     "ATTACK_MAX": "38",
     "LIFE_MAX": "38",
     "TYPE": "驱逐舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:Z1",
+    "LINK_MENGBAI": null,
     "CAN_BUILD": 0,
-    "WEDDING_TALK": "Z1已经长大了！到了可以成为长官左膀右臂的年纪了！这一天终于来临了！",
+    "WEDDING_TALK": "这个亮闪闪的东西是什么？哈欸！？跟Z1缔结契约吗！？司令官承认了Z1的努力！Z1非常的幸福！接受！接受啦~",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_1074.png?ver=20160315",
     "NAME": "Z1（改①）",
     "OIL_COST": "0.48",
@@ -20839,7 +21203,7 @@
     "DEFENCE_MAX": "40"
   },
   {
-    "FOCUS": 43913,
+    "FOCUS": 46190,
     "GAI_ZAO_INFO": "<a href=# onclick=\"loadDetail('75')\">本体</a>→改一",
     "ZHEN_CHA_MAX": "31",
     "SHAN_BI": "48",
@@ -20851,7 +21215,7 @@
     "ATTACK_MAX": "38",
     "LIFE_MAX": "38",
     "TYPE": "驱逐舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:Z16",
+    "LINK_MENGBAI": null,
     "CAN_BUILD": 0,
     "WEDDING_TALK": "嗯哼，长官被我的魅力吸引了吗？我以后会更加漂亮的！",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_1075.png?ver=20160315",
@@ -20930,7 +21294,7 @@
     "DEFENCE_MAX": "40"
   },
   {
-    "FOCUS": 29643,
+    "FOCUS": 32182,
     "GAI_ZAO_INFO": "<a href=# onclick=\"loadDetail('80')\">本体</a>→改一",
     "ZHEN_CHA_MAX": "31",
     "SHAN_BI": "46",
@@ -20942,7 +21306,7 @@
     "ATTACK_MAX": "40",
     "LIFE_MAX": "42",
     "TYPE": "驱逐舰",
-    "LINK_MENGBAI": "-",
+    "LINK_MENGBAI": null,
     "CAN_BUILD": 0,
     "WEDDING_TALK": "嗯！Z31以后会更加努力！当然这多亏长官和姐姐们的帮助！",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_1080.png?ver=20160315",
@@ -21021,7 +21385,7 @@
     "DEFENCE_MAX": "43"
   },
   {
-    "FOCUS": 33736,
+    "FOCUS": 35293,
     "GAI_ZAO_INFO": "<a href=# onclick=\"loadDetail('82')\">本体</a>→改一",
     "ZHEN_CHA_MAX": "32",
     "SHAN_BI": "46",
@@ -21033,7 +21397,7 @@
     "ATTACK_MAX": "38",
     "LIFE_MAX": "29",
     "TYPE": "驱逐舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E8%90%A4%E7%81%AB%E8%99%AB",
+    "LINK_MENGBAI": null,
     "CAN_BUILD": 0,
     "WEDDING_TALK": "你真是个厉害的指挥官呢。正因为您的关注与鼓励，我才能变得像现在这样勇敢。我心中洋溢的暖流，就是您爱的魔法吧！",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_1082.png?ver=20160315",
@@ -21112,7 +21476,7 @@
     "DEFENCE_MAX": "47"
   },
   {
-    "FOCUS": 41456,
+    "FOCUS": 43730,
     "GAI_ZAO_INFO": "<a href=# onclick=\"loadDetail('83')\">本体</a>→改一",
     "ZHEN_CHA_MAX": "32",
     "SHAN_BI": "46",
@@ -21124,7 +21488,7 @@
     "ATTACK_MAX": "40",
     "LIFE_MAX": "29",
     "TYPE": "驱逐舰",
-    "LINK_MENGBAI": "-",
+    "LINK_MENGBAI": null,
     "CAN_BUILD": 0,
     "WEDDING_TALK": "有指挥官在，就没什么好怕的了，让他们放马过来就好。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_1083.png?ver=20160315",
@@ -21203,7 +21567,7 @@
     "DEFENCE_MAX": "37"
   },
   {
-    "FOCUS": 19552,
+    "FOCUS": 21917,
     "GAI_ZAO_INFO": "<a href=# onclick=\"loadDetail('84')\">本体</a>→改一",
     "ZHEN_CHA_MAX": "32",
     "SHAN_BI": "47",
@@ -21217,7 +21581,7 @@
     "TYPE": "驱逐舰",
     "LINK_MENGBAI": null,
     "CAN_BUILD": 0,
-    "WEDDING_TALK": "其实从一开始，我们的命运红线，就缠绕在一起了呢…可不要逃跑哟~",
+    "WEDDING_TALK": "其实从一开始，我们的命运红线，就交错编织在一起了呢…可不要逃跑哟~",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_1084.png?ver=20160315",
     "NAME": "天后（改①）",
     "OIL_COST": "0.48",
@@ -21294,7 +21658,7 @@
     "DEFENCE_MAX": "37"
   },
   {
-    "FOCUS": 21448,
+    "FOCUS": 24009,
     "GAI_ZAO_INFO": "<a href=# onclick=\"loadDetail('85')\">本体</a>→改一",
     "ZHEN_CHA_MAX": "32",
     "SHAN_BI": "46",
@@ -21308,7 +21672,7 @@
     "TYPE": "驱逐舰",
     "LINK_MENGBAI": null,
     "CAN_BUILD": 0,
-    "WEDDING_TALK": "最终选择了我？那指挥官可是要承担起更多的责任了。当，当然，我也会学着去温柔一些。",
+    "WEDDING_TALK": "选我，真的不后悔吗...？明白了，从今往后我会努力变得温柔可爱一些...",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_1085.png?ver=20160315",
     "NAME": "黑背豺（改①）",
     "OIL_COST": "0.48",
@@ -21385,7 +21749,7 @@
     "DEFENCE_MAX": "38"
   },
   {
-    "FOCUS": 66944,
+    "FOCUS": 70343,
     "GAI_ZAO_INFO": "<a href=# onclick=\"loadDetail('99')\">本体</a>→改一",
     "ZHEN_CHA_MAX": "37",
     "SHAN_BI": "70",
@@ -21397,7 +21761,7 @@
     "ATTACK_MAX": "40",
     "LIFE_MAX": "37",
     "TYPE": "驱逐舰",
-    "LINK_MENGBAI": "http://zh.moegirl.org/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3:%E7%A9%BA%E6%83%B3",
+    "LINK_MENGBAI": null,
     "CAN_BUILD": 0,
     "WEDDING_TALK": "快来追我呀~追上我的话，什么都答应你哦！全速前进~！",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_1099.png?ver=20160315",
@@ -21476,7 +21840,7 @@
     "DEFENCE_MAX": "34"
   },
   {
-    "FOCUS": 25562,
+    "FOCUS": 27820,
     "GAI_ZAO_INFO": "<a href=# onclick=\"loadDetail('135')\">本体</a>→改一",
     "ZHEN_CHA_MAX": "60",
     "SHAN_BI": "37",
@@ -21488,7 +21852,7 @@
     "ATTACK_MAX": "65",
     "LIFE_MAX": "60",
     "TYPE": "重巡洋舰",
-    "LINK_MENGBAI": "-",
+    "LINK_MENGBAI": null,
     "CAN_BUILD": 0,
     "WEDDING_TALK": "嗯？如果是指挥官的决定的话，伦敦我就欣然接受了。就让我今天为您下厨吧。",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_1135.png?ver=20160315",
@@ -21567,7 +21931,7 @@
     "DEFENCE_MAX": "50"
   },
   {
-    "FOCUS": 26197,
+    "FOCUS": 28859,
     "GAI_ZAO_INFO": "<a href=# onclick=\"loadDetail('136')\">本体</a>→改一",
     "ZHEN_CHA_MAX": "59",
     "SHAN_BI": "36",
@@ -21579,7 +21943,7 @@
     "ATTACK_MAX": "64",
     "LIFE_MAX": "59",
     "TYPE": "重巡洋舰",
-    "LINK_MENGBAI": "-",
+    "LINK_MENGBAI": null,
     "CAN_BUILD": 0,
     "WEDDING_TALK": "呜，居然不嫌弃我装甲那么薄弱，指挥官您真是大好人！",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_1136.png?ver=20160315",
@@ -21658,12 +22022,12 @@
     "DEFENCE_MAX": "45"
   },
   {
-    "FOCUS": 9858,
+    "FOCUS": 12965,
     "GAI_ZAO_INFO": "<a href=# onclick=\"loadDetail('143')\">本体</a>→改一",
     "ZHEN_CHA_MAX": "60",
     "SHAN_BI": "37",
     "IMG_BB": "http://ima.ntwikis.com/cancollezh/20151119/M_BROKEN_1143.png?ver=20160315",
-    "SKILL": "无头骑士(异闻录)|当没有受到伤害时，为相邻的单位增加6/8/10点闪避，当受到伤害后，自身闪避率提高3/4/5%。",
+    "SKILL": "无头骑士(异闻录)|当没有受到伤害时，为自己和相邻的船只增加6/8/10点闪避，当受到伤害后，自身闪避率提高3/4/5%。",
     "ID": 1143,
     "DAN": "70",
     "DUI_KONG": "55",
@@ -21678,7 +22042,7 @@
     "OIL_COST": "1.28",
     "ZHEN_CHA": "25",
     "GAI_ZAO_USE": "未开放",
-    "EXP": "0/28/15/15",
+    "EXP": "43/0/18/53",
     "SKILL_NAME": "无头骑士(异闻录)",
     "IS_OPENED": 1,
     "DROP_INFO": "",
@@ -21714,7 +22078,7 @@
     },
     "YOU": "40",
     "IMG_PO": null,
-    "SKILL_INFO": "当没有受到伤害时，为相邻的单位增加6/8/10点闪避，当受到伤害后，自身闪避率提高3/4/5%。",
+    "SKILL_INFO": "当没有受到伤害时，为自己和相邻的船只增加6/8/10点闪避，当受到伤害后，自身闪避率提高3/4/5%。",
     "IMG": null,
     "LIFE": "58",
     "DUI_QIAN": "0",
@@ -21749,7 +22113,7 @@
     "DEFENCE_MAX": "56"
   },
   {
-    "FOCUS": 13521,
+    "FOCUS": 18457,
     "GAI_ZAO_INFO": "<a href=# onclick=\"loadDetail('183')\">本体</a>→改一",
     "ZHEN_CHA_MAX": "35",
     "SHAN_BI": "46",
@@ -21840,7 +22204,7 @@
     "DEFENCE_MAX": "40"
   },
   {
-    "FOCUS": 23602,
+    "FOCUS": 25570,
     "GAI_ZAO_INFO": "<a href=# onclick=\"loadDetail('7009')\">本体</a>→改一",
     "ZHEN_CHA_MAX": "37",
     "SHAN_BI": "19",
@@ -21852,7 +22216,7 @@
     "ATTACK_MAX": "104",
     "LIFE_MAX": "72",
     "TYPE": "战列舰",
-    "LINK_MENGBAI": "-",
+    "LINK_MENGBAI": null,
     "CAN_BUILD": 0,
     "WEDDING_TALK": "诶？指挥官您的意思，听不太懂的说... ",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_8009.png?ver=20160315",
@@ -21931,7 +22295,7 @@
     "DEFENCE_MAX": "92"
   },
   {
-    "FOCUS": 7814,
+    "FOCUS": 8917,
     "GAI_ZAO_INFO": "<a href=# onclick=\"loadDetail('7011')\">本体</a>→改一",
     "ZHEN_CHA_MAX": "35",
     "SHAN_BI": "15",
@@ -22022,7 +22386,7 @@
     "DEFENCE_MAX": "88"
   },
   {
-    "FOCUS": 42103,
+    "FOCUS": 44020,
     "GAI_ZAO_INFO": "<a href=# onclick=\"loadDetail('7038')\">本体</a>→改一",
     "ZHEN_CHA_MAX": "49",
     "SHAN_BI": "30",
@@ -22034,9 +22398,9 @@
     "ATTACK_MAX": "56",
     "LIFE_MAX": "54",
     "TYPE": "重巡洋舰",
-    "LINK_MENGBAI": "-",
+    "LINK_MENGBAI": null,
     "CAN_BUILD": 0,
-    "WEDDING_TALK": "唔...唔...（脸红）这是我第一次接受别人的告白...嗯...我答应您... ",
+    "WEDDING_TALK": "长官最想要的礼物是我吗？呼呼~意料之中的回答呢。作为戒指的交换，欧根就把自己托付给长官了。从今以后还请多多指教啦~",
     "IMG_BN": "http://ima.ntwikis.com/cancollezh/20151119/M_NORMAL_8038.png?ver=20160315",
     "NAME": "欧根亲王（圣诞限定）",
     "OIL_COST": "1.28",
